@@ -1,0 +1,23 @@
+<VirtualHost %httpd_ip%:%httpd_ssl_port%>
+    ServerName %domain_idn%
+    DirectoryIndex index.html
+
+    DocumentRoot /usr/local/qweec/web/public
+    <Directory /usr/local/qweec/web/public>
+        AllowOverride All
+        Options +Includes -Indexes +ExecCGI
+        SSLRequireSSL
+    </Directory>
+
+    SSLEngine on
+    SSLVerifyClient none
+    SSLCertificateFile %ssl_pem%
+    SSLCertificateKeyFile %ssl_key%
+
+    Alias /errorpage/ /usr/local/qweec/web/public/errorpage/
+    ErrorLog /dev/null
+    CustomLog /dev/null common
+
+    IncludeOptional /etc/httpd/conf.d/letsencrypt.inc
+</VirtualHost>
+

@@ -1,0 +1,39 @@
+server {
+    %nginx_ssl_listen4%
+    %nginx_ssl_listen6%
+    %http2%
+    server_name %domain_idn% %nginx_aliases%;
+    index       index.php index.html;
+    root        %docroot%;
+
+    ssl_certificate     %ssl_pem%;
+    ssl_certificate_key %ssl_key%;
+    # tls1.3 0-RTT anti-replay
+    if ($anti_replay = 307) { return 307 https://$host$request_uri; }
+    if ($anti_replay = 425) { return 425; }
+
+    location / {
+        location ~* ^.+\.(%nginx_extentions%)$ {
+            expires max;
+        }
+    }
+
+    location ~ [^/]\.php(/|$) {
+        types { } default_type "text/html";
+    }
+
+    location ~ /\.(?!well-known\/) {
+            deny all;
+            return 404;
+    }
+
+    location /errorpage/ { alias /usr/local/qweec/web/public/errorpage/; }
+    error_log  %error_log% error;
+    access_log %access_log% combined;
+    access_log %bytes_log% bytes;
+
+    include /etc/nginx/conf.d/letsencrypt.inc;
+    include /etc/nginx/includes/%user%/%domain_idn%.conf_*;
+
+
+}

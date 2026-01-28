@@ -1,0 +1,31 @@
+server {
+    listen      %nginx_ip%:%nginx_ssl_port% ssl;
+    server_name %domain_idn%;
+    index       index.html;
+    root        /usr/local/qweec/web/public;
+
+    ssl_certificate     %ssl_pem%;
+    ssl_certificate_key %ssl_key%;
+    # tls1.3 0-RTT anti-replay
+    if ($anti_replay = 307) { return 307 https://$host$request_uri; }
+    if ($anti_replay = 425) { return 425; }
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    location ~ [^/]\.php(/|$) {
+        types { } default_type "text/html";
+    }
+
+    location ~ /\.(?!well-known\/) {
+            deny all;
+            return 404;
+    }
+
+    location /errorpage/ { alias /usr/local/qweec/web/public/errorpage/; }
+    access_log off;
+    error_log  /dev/null crit;
+
+    include /etc/nginx/conf.d/letsencrypt.inc;
+}

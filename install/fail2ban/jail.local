@@ -1,0 +1,55 @@
+[qweec-qweenx]
+enabled = true
+logpath = /usr/local/qweec/log/auth.log
+filter = qweec
+action = qweec[name=f2b-qweenx]
+maxretry = 10
+bantime  = 10800
+
+[qweec-ssh]
+enabled = true
+logpath = /var/log/secure
+filter = sshd
+action = qweec[name=f2b-ssh]
+maxretry = 5
+bantime  = 10800
+
+[qweec-vsftpd]
+enabled = false
+logpath = /var/log/vsftpd.log
+filter = vsftpd
+action = qweec[name=f2b-ftp]
+maxretry = 5
+bantime  = 10800
+
+[qweec-exim]
+enabled = false
+logpath = /var/log/exim/main.log
+filter = exim
+action = qweec[name=f2b-mail]
+maxretry = 5
+bantime  = 10800
+
+[qweec-dovecot]
+enabled = false
+logpath = /var/log/dovecot.log
+filter = dovecot
+action = qweec[name=f2b-mail]
+maxretry = 5
+bantime  = 10800
+
+[qweec-mysql]
+enabled = false
+logpath = /var/log/mysqld.log
+filter = mysqld-auth
+action = qweec[name=f2b-db]
+maxretry = 5
+bantime  = 10800
+
+[qweec-mariadb]
+enabled = false
+logpath = /var/log/mariadb/mariadb.log
+filter = mysqld-auth
+action = qweec[name=f2b-db]
+maxretry = 5
+bantime  = 10800

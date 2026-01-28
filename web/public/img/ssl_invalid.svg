@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.4666662mm"
+   height="8.4666662mm"
+   viewBox="0 0 8.4666662 8.4666662"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="inscape_proj_ssl_notok_32x32.svg"
+   inkscape:export-filename="ssl_notok_32x32.svg"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:export-bgcolor="#ffffff00"
+     inkscape:zoom="26.098429"
+     inkscape:cx="27.702817"
+     inkscape:cy="20.307736"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="2869"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch13"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#e25a5a;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch13"
+       id="linearGradient13"
+       x1="1.8653741"
+       y1="3.6699209"
+       x2="6.4882579"
+       y2="3.6699209"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79050527,0,0,0.96900658,0.93153833,0.41257256)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#ff00ff;fill-opacity:0;stroke:url(#linearGradient13);stroke-width:0.578919;stroke-dasharray:none;stroke-opacity:1"
+       id="path8"
+       cx="4.2333336"
+       cy="3.96875"
+       rx="1.8272071"
+       ry="1.8272072" />
+    <g
+       id="g24"
+       transform="translate(-0.12672379,0.46327044)"
+       inkscape:label="g24">
+      <path
+         style="opacity:1;fill:#a17fff;fill-opacity:0;stroke:#e25a5a;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.1297786,2.7270958 C 3.6293692,4.2275053 3.6268347,4.23004 3.6268347,4.23004"
+         id="path24"
+         inkscape:label="path24"
+         inkscape:export-filename="ssl_notok_32x32.svg"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <path
+         style="fill:#e66969;fill-opacity:0;stroke:#e66969;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.642877,2.7143406 C 5.1432864,4.2147501 5.1458209,4.2172848 5.1458209,4.2172848"
+         id="path24-6" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   role="img"
+   aria-label="xxlarge"
+   id="svg3"
+   width="32"
+   height="32"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="swatch30">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="swatch17">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path1"
+     style="fill:#606060;stroke:#606060;stroke-width:2.34229"
+     d="M 16,7.171875 A 14.828857,8.8288536 0 0 0 1.171875,16 14.828857,8.8288536 0 0 0 16,24.828125 14.828857,8.8288536 0 0 0 30.828125,16 14.828857,8.8288536 0 0 0 16,7.171875 Z m 0,0.6113281 A 8.2174664,8.2174673 0 0 1 24.216797,16 8.2174664,8.2174673 0 0 1 16,24.216797 8.2174664,8.2174673 0 0 1 7.7832031,16 8.2174664,8.2174673 0 0 1 16,7.7832031 Z" />
+  <ellipse
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:2.05783;stroke-opacity:1"
+     id="path2"
+     cx="15.999999"
+     cy="15.999998"
+     rx="2.9710867"
+     ry="2.9710865" />
+</svg>

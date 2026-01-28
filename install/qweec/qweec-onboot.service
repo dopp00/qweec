@@ -1,0 +1,13 @@
+[Unit]
+Description=qweec nat update
+After=network-online.target qweec.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+# ExecStartPre=/usr/bin/sleep 1
+ExecStart=/usr/local/bin/qweecli --bg ip-update
+RemainAfterExit=no
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,16 @@
+/var/log/httpd/*log /var/log/httpd/domains/*/*log {
+    create 0664 apache apache
+    size 20M
+    weekly
+    rotate 4
+    missingok
+    notifempty
+    compress
+    delaycompress
+    nodateext
+    sharedscripts
+    postrotate
+        /usr/bin/systemctl reload httpd >/dev/null 2>/dev/null || true
+        [ ! -f /run/nginx.pid ] || /usr/bin/kill -USR1 $(cat /run/nginx.pid) || true
+    endscript
+}

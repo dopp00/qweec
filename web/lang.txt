@@ -1,0 +1,4934 @@
+lang: en de fr ja it es ru uk
+
+en: access log
+de: zugriffsprotokoll
+fr: journal d'accès
+ja: アクセスログ
+it: registro accessi
+es: registro de acceso
+ru: журнал посещений
+uk: журнал відвідувань
+
+en: account
+de: konto
+fr: compte
+ja: アカウント
+it: account
+es: cuenta
+ru: учётная запись
+uk: обліковий запис
+
+en: Account
+de: Konto
+fr: Compte
+ja: アカウント
+it: Account
+es: Cuenta
+ru: Учётная запись
+uk: Обліковий запис
+
+en: accounts
+de: konten
+fr: comptes
+ja: アカウント
+it: account
+es: cuentas
+ru: учётные записи
+uk: облікові записи
+
+en: Account: Account Settings: Read
+de: Konto: Kontoeinstellungen: Lesen
+fr: Compte : Paramètres du compte : Lecture
+ja: アカウント: アカウント設定: 読み取り
+it: Account: Impostazioni account: Lettura
+es: Cuenta: Configuración de cuenta: Lectura
+ru: Аккаунт: Настройки аккаунта: Читание
+uk: Аккаунт: Налаштування аккаунта: Читання
+
+en: Account Resources
+de: Kontoressourcen
+fr: Ressources du compte
+ja: アカウントリソース
+it: Risorse account
+es: Recursos de cuenta
+ru: Ресурсы аккаунта
+uk: Ресурси акаунта
+
+en: action
+de: aktion
+fr: action
+ja: アクション
+it: azione
+es: acción
+ru: действие
+uk: дія
+
+en: Action
+de: Aktion
+fr: Action
+ja: アクション
+it: Azione
+es: Acción
+ru: Действие
+uk: Дія
+
+en: active
+de: aktiv
+fr: actif
+ja: アクティブ
+it: attivo
+es: activo
+ru: активно
+uk: активно
+
+en: Activate the software
+de: Software aktivieren
+fr: Activer le logiciel
+ja: ソフトウェアをアクティブにする
+it: Attivare il software
+es: Activar el software
+ru: Акивировать ПЗ
+uk: Активувати ПЗ
+
+en: Add
+de: Hinzufügen
+fr: Ajouter
+ja: 追加
+it: Aggiungi
+es: Añadir
+ru: Добавить
+uk: Додати
+
+en: Add cron job
+de: Cron-Job hinzufügen
+fr: Ajouter une tâche cron
+ja: cronジョブを追加
+it: Aggiungi job cron
+es: Añadir tarea cron
+ru: Добавить cron задачу
+uk: Додати cron завдання
+
+en: Add site
+de: Website hinzufügen
+fr: Ajouter un site
+ja: サイトを追加
+it: Aggiungi sito
+es: Añadir sitio
+ru: Добавить сайт
+uk: Додати сайт
+
+en: Add user
+de: Benutzer hinzufügen
+fr: Ajouter un utilisateur
+ja: ユーザーを追加
+it: Aggiungi utente
+es: Añadir usuario
+ru: Добавить пользователя
+uk: Додати користувача
+
+en: Add database host
+de: Datenbank-Host hinzufügen
+fr: Ajouter un hôte de base de données
+ja: データベースホストを追加
+it: Aggiungi host database
+es: Añadir host de base de datos
+ru: Добавить сервер баз данных
+uk: Додати сервер баз даних
+
+en: Add database user
+de: Datenbankbenutzer hinzufügen
+fr: Ajouter un utilisateur de base de données
+ja: データベースユーザーを追加
+it: Aggiungi utente database
+es: Añadir usuario de base de datos
+ru: Добавить пользователя базы данных
+uk: Додати користувача бази даних
+
+en: Add database
+de: Datenbank hinzufügen
+fr: Ajouter une base de données
+ja: データベースを追加
+it: Aggiungi database
+es: Añadir base de datos
+ru: Добавить базу данных
+uk: Додати базу даних
+
+en: Add IP address
+de: IP-Adresse hinzufügen
+fr: Ajouter une adresse IP
+ja: IPアドレスを追加
+it: Aggiungi indirizzo IP
+es: Añadir dirección IP
+ru: Добавить IP адрес 
+uk: Додати IP адресу
+
+en: Add mail domain
+de: Mail-Domain hinzufügen
+fr: Ajouter un domaine de messagerie
+ja: メールドメインを追加
+it: Aggiungi dominio mail
+es: Añadir dominio de correo
+ru: Добавить почтовый домен
+uk: Додати поштовий домен
+
+en: Add mail account
+de: Mail-Konto hinzufügen
+fr: Ajouter un compte de messagerie
+ja: メールアカウントを追加
+it: Aggiungi account mail
+es: Añadir cuenta de correo
+ru: Добавить почтовую учётную запись
+uk: Додати поштовий обліковий запис
+
+en: Add FTP user
+de: FTP-Benutzer hinzufügen
+fr: Ajouter un utilisateur FTP
+ja: FTPユーザーを追加
+it: Aggiungi utente FTP
+es: Añadir usuario FTP
+ru: Добавить FTP пользователя
+uk: Додати FTP користувача
+
+en: Add DNS domain
+de: DNS-Domain hinzufügen
+fr: Ajouter un domaine DNS
+ja: DNSドメインを追加
+it: Aggiungi dominio DNS
+es: Añadir dominio DNS
+ru: Добавить DNS домен
+uk: Додати DNS домен
+
+en: Add record
+de: Datensatz hinzufügen
+fr: Ajouter un enregistrement
+ja: レコードを追加
+it: Aggiungi record
+es: Añadir registro
+ru: Добавить запись
+uk: Додати запис
+
+en: address
+de: adresse
+fr: adresse
+ja: 住所
+it: indirizzo
+es: dirección
+ru: адрес
+uk: адреса
+
+en: addresses
+de: adressen
+fr: adresses
+ja: 住所
+it: indirizzi
+es: direcciones
+ru: адреса
+uk: адреси
+
+en: algorithm
+de: algorithmus
+fr: algorithme
+ja: アルゴリズム
+it: algoritmo
+es: algoritmo
+ru: алгоритм
+uk: алгоритм
+
+en: Algorithm
+de: Algorithmus
+fr: Algorithme
+ja: アルゴリズム
+it: Algoritmo
+es: Algoritmo
+ru: Алгоритм
+uk: Алгоритм
+
+en: aliases
+de: aliasnamen
+fr: alias
+ja: 別名
+it: alias
+es: alias
+ru: псевдонимы
+uk: псевдоніми
+
+en: Aliases
+de: Aliasnamen
+fr: Alias
+ja: 別名
+it: Alias
+es: Alias
+ru: Псевдонимы
+uk: Псевдоніми
+
+en: all queues
+de: alle warteschlangen
+fr: toutes les files d'attente
+ja: すべてのキュー
+it: tutte le code
+es: todas las colas
+ru: все очереди
+uk: всі черги
+
+en: altitude
+de: höhe
+fr: altitude
+ja: 高度
+it: altitudine
+es: altitud
+ru: высота
+uk: висота
+
+en: Altitude
+de: Höhe
+fr: Altitude
+ja: 高度
+it: Altitudine
+es: Altitud
+ru: Высота
+uk: Висота
+
+en: always
+de: immer
+fr: toujours
+ja: いつも
+it: sempre
+es: siempre
+ru: всегда
+uk: завжди
+
+en: antispam
+de: antispam
+fr: antispam
+ja: アンチスパム
+it: antispam
+es: antispam
+ru: антиспам
+uk: антиспам
+
+en: Antispam
+de: Antispam
+fr: Antispam
+ja: アンチスパム
+it: Antispam
+es: Antispam
+ru: Антиспам
+uk: Антиспам
+
+en: antivirus
+de: antivirensoftware
+fr: antivirus
+ja: アンチウイルス
+it: antivirus
+es: antivirus
+ru: антивирус
+uk: антивірус
+
+en: Antivirus
+de: Antivirensoftware
+fr: Antivirus
+ja: アンチウイルス
+it: Antivirus
+es: Antivirus
+ru: Антивирус
+uk: Антивірус
+
+en: A or AAAA record will be updated
+de: A oder AAAA-Eintrag wird aktualisiert
+fr: L'enregistrement A ou AAAA sera mis à jour
+ja: AまたはAAAAレコードが更新されます
+it: Il record A o AAAA sarà aggiornato
+es: El registro A o AAAA se actualizará
+ru: A или AAAA запись будет создано
+uk: A або AAAA запис буде створено
+
+en: Apply
+de: Anwenden
+fr: Appliquer
+ja: 適用する
+it: Applica
+es: Aplicar
+ru: Применить
+uk: Застосувати
+
+en: Applying certificate will reboot the panel, connection will be closed.
+de: Das Anwenden des Zertifikats wird das Panel neu starten, die Verbindung wird getrennt.
+fr: L'application du certificat redémarrera le panneau, la connexion sera fermée.
+ja: 証明書を適用するとパネルが再起動し、接続が切断されます。
+it: L'applicazione del certificato riavvierà il pannello, la connessione verrà chiusa.
+es: Al aplicar el certificado, el panel se reiniciará y la conexión se cerrará.
+ru: Применение сертификата приведет к перезагрузке панели и разрыву соединения.
+uk: Застосування сертифіката перезавантажить панель, з'єднання буде закрито.
+
+en: argument
+de: argument
+fr: argument
+ja: 引数
+it: argomento
+es: argumento
+ru: аргумент
+uk: аргумент 
+
+en: authentication
+de: authentifizierung
+fr: authentification
+ja: 認証
+it: autenticazione
+es: autenticación
+ru: аутентификация
+uk: аутентифікация
+
+en: autoreply
+de: automatische antwort
+fr: réponse automatique
+ja: 自動応答
+it: risposta automatica
+es: respuesta automática
+ru: автоответ
+uk: автовідповідь
+
+en: Autoreply
+de: Automatische antwort
+fr: Réponse automatique
+ja: 自動応答
+it: Risposta automatica
+es: Respuesta automática
+ru: Автоответ
+uk: Автовідповідь
+
+en: Autoreply message
+de: Automatische antwortnachricht
+fr: Message de réponse automatique
+ja: 自動応答メッセージ
+it: Messaggio di risposta automatica
+es: Mensaje de respuesta automática
+ru: Сообщение автоответа
+uk: Повідомлення автовідповіді
+
+en: authentication plugin is not set
+de: das authentifizierungs-plugin ist nicht festgelegt
+fr: le plugin d'authentification n'est pas défini
+ja: 認証プラグインが設定されていません
+it: il plugin di autenticazione non è impostato
+es: el complemento de autenticación no está configurado
+ru: плагин аутентификации не указан
+uk: плагін аутентифікації не вказаний
+
+en: Avatar
+de: Avatar
+fr: Avatar
+ja: アバター
+it: Avatar
+es: Avatar
+ru: Аватар
+uk: Аватар
+
+en: backend template
+de: backend-vorlage
+fr: modèle de backend
+ja: バックエンドテンプレート
+it: modello di backend
+es: plantilla de backend
+ru: шаблон бэкенда
+uk: шаблон бекенду
+
+en: Backend template
+de: Backend-vorlage
+fr: Modèle de backend
+ja: バックエンドテンプレート
+it: Modello di backend
+es: Plantilla de backend
+ru: Шаблон бэкенда
+uk: Шаблон бекенду
+
+en: Background tasks
+de: Hintergrundaufgaben
+fr: tâches en arrière-plan
+ja: バックグラウンドタスク
+it: Attività in background
+es: Tareas en segundo plano
+ru: Фоновые задачи
+uk: Фонові завдання
+
+en: backup
+de: backup
+fr: sauvegarde
+ja: バックアップ
+it: backup
+es: copia de seguridad
+ru: бекап
+uk: бекап
+
+en: Backup
+de: Backup
+fr: Sauvegarde
+ja: バックアップ
+it: Backup
+es: Copia de seguridad
+ru: Бекап
+uk: Бекап
+
+en: backups
+de: backups
+fr: sauvegardes
+ja: バックアップ
+it: backup
+es: copias de seguridad
+ru: бекапы
+uk: бекапи
+
+en: Backups
+de: Backups
+fr: Sauvegardes
+ja: バックアップ
+it: Backup
+es: Copias de seguridad
+ru: Бекапы
+uk: Бекапи
+
+en: backup restoration started, check status in background tasks
+de: backup-wiederherstellung gestartet, status in hintergrundaufgaben überprüfen
+fr: restauration de la sauvegarde commencée, vérifier l'état dans les tâches en arrière-plan
+ja: バックアップの復元が開始されました。バックグラウンドタスクでステータスを確認してください
+it: ripristino del backup avviato, controlla lo stato nelle attività in background
+es: restauración de la copia de seguridad iniciada, consulta el estado en las tareas en segundo plano
+ru: началось восстановление резервной копии, проверьте статус в фоновых задачах
+uk: розпочато відновлення резервної копії, перевірте стан у фонових завданнях
+
+en: backup creation scheduled, status can be seen in background tasks
+de: backup-erstellung geplant, status kann in hintergrundaufgaben angezeigt werden
+fr: création de la sauvegarde planifiée, le statut peut être consulté dans les tâches en arrière-plan
+ja: バックアップ作成が予定されています。ステータスはバックグラウンドタスクで確認できます
+it: creazione del backup pianificata, lo stato può essere visualizzato nelle attività in background
+es: creación de la copia de seguridad programada, el estado se puede ver en las tareas en segundo plano
+ru: создание резервной копии запланировано, статус можно увидеть в фоновых задачах
+uk: створення резервної копії заплановано, статус можна переглянути у фонових завданнях
+
+en: Backup to restore
+de: Backup zum wiederherstellen
+fr: Sauvegarde à restaurer
+ja: 復元するバックアップ
+it: Backup da ripristinare
+es: Copia de seguridad para restaurar
+ru: Резервная копия для восстановления
+uk: Резервна копия для відновлення
+
+en: Backup location
+de: Backup-standort
+fr: Emplacement de la sauvegarde
+ja: バックアップの場所
+it: Posizione del backup
+es: Ubicación de la copia de seguridad
+ru: Расположение бекапа
+uk: Розташування бекапа
+
+en: backup will be restored, current data will be deleted or replaced!
+de: backup wird wiederhergestellt, aktuelle daten werden gelöscht oder ersetzt!
+fr: la sauvegarde sera restaurée, les données actuelles seront supprimées ou remplacées!
+ja: バックアップが復元され、現在のデータは削除または置き換えられます！
+it: il backup sarà ripristinato, i dati correnti saranno eliminati o sostituiti!
+es: ¡La copia de seguridad se restaurará, los datos actuales serán eliminados o reemplazados!
+ru: резервная копия будет восстановлена, текущие данные будут удалены или заменены!
+uk: резервна копія буде відновлена, поточні дані будуть видалені або замінені!
+
+en: bandwidth
+de: bandbreite
+fr: bande passante
+ja: 帯域幅
+it: larghezza di banda
+es: ancho de banda
+ru: пропускная способность
+uk: пропускна здатність
+
+en: Bandwidth
+de: Bandbreite
+fr: Bande passante
+ja: 帯域幅
+it: Larghezza di banda
+es: Ancho de banda
+ru: Пропускная способность
+uk: Пропускна здатність
+
+en: caching
+de: caching
+fr: mise en cache
+ja: キャッシュ
+it: caching
+es: almacenamiento en caché
+ru: кеширование
+uk: кешування
+
+en: catch-all email
+de: catch-all email
+fr: e-mail générique
+ja: キャッチオールメール
+it: e-mail catch-all
+es: correo electrónico de captura
+ru: общий email
+uk: загальний email
+
+en: Catch-all email
+de: Catch-all email
+fr: E-mail générique
+ja: キャッチオールメール
+it: E-mail catch-all
+es: Correo electrónico de captura
+ru: Общий email
+uk: Загальний email
+
+en: certificate
+de: zertifikat
+fr: certificat
+ja: 証明書
+it: certificato
+es: certificado
+ru: сертификат
+uk: сертифікат
+
+en: Certificate
+de: Zertifikat
+fr: Certificat
+ja: 証明書
+it: Certificato
+es: Certificado
+ru: Сертификат
+uk: Сертифікат
+
+en: certificates
+de: zertifikate
+fr: certificats
+ja: 証明書
+it: certificati
+es: certificados
+ru: сертификаты
+uk: сертифікати
+
+en: certificate data
+de: zertifikatsdaten
+fr: données du certificat
+ja: 証明書データ
+it: dati del certificato
+es: datos del certificado
+ru: контент сертификата
+uk: контент сертифікату
+
+en: Certificate fullchain
+de: Zertifikat (Vollkette)
+fr: Certificat (chaîne complète)
+ja: 証明書（フルチェーン）
+it: Certificato (catena completa)
+es: Certificado (cadena completa)
+ru: Сертификат (полная цепочка)
+uk: Сертифікат (повний ланцюг)
+
+en: Certificate information
+de: Zertifikatsinformationen
+fr: Informations sur le certificat
+ja: 証明書情報
+it: Informazioni sul certificato
+es: Información del certificado
+ru: Информация о сертификате
+uk: Інформація про сертифікат
+
+en: certificates, attached to site or mail domain, will be ignored.
+de: zertifikate, die an die website oder die mail domain angehängt sind, werden ignoriert.
+fr: Les certificats attachés au site ou au domaine de messagerie seront ignorés.
+ja: サイトまたはメールドメインに添付された証明書は無視されます。
+it: I certificati allegati al sito o al dominio di posta saranno ignorati.
+es: Se ignorarán los certificados adjuntos al sitio o dominio de correo.
+ru: сертификаты, привязанные к сайту или почтовому домену, будуть проигнорированы.
+uk: сертифікати, прив’язані до сайту або поштового домену, будуть проігноровані.
+
+en: certificate requires a subdomain
+de: zertifikat erfordert eine Subdomain
+fr: Le certificat nécessite un sous-domaine
+ja: 証明書にはサブドメインが必要です
+it: Il certificato richiede un sottodominio
+es: El certificado requiere un subdominio
+ru: сертификат требует, чтобы поддомен
+uk: сертифікат потребує, щоб піддомен
+
+en: Cert. type
+de: Zertifikatsart
+fr: Type de certificat
+ja: 証明書の種類
+it: Tipo di certificato
+es: Tipo de certificado
+ru: Тип серт.
+uk: Тип серт.
+
+en: charset
+de: zeichensatz
+fr: jeu de caractères
+ja: 文字セット
+it: set di caratteri
+es: conjunto de caracteres
+ru: кодировка
+uk: кодування
+
+en: Charset
+de: Zeichensatz
+fr: Jeu de caractères
+ja: 文字セット
+it: Set di caratteri
+es: Conjunto de caracteres
+ru: Кодировка
+uk: Кодування
+
+en: cidr size
+de: cidr-größe
+fr: taille cidr
+ja: cidrサイズ
+it: dimensione cidr
+es: tamaño cidr
+ru: размер cidr
+uk: розмір cidr
+
+en: Clear all ip addresses
+de: Alle IP-Adressen löschen
+fr: Effacer toutes les adresses IP
+ja: すべてのIPアドレスをクリア
+it: Cancella tutti gli indirizzi IP
+es: Borrar todas las direcciones IP
+ru: Очистить все ip адреса
+uk: Очистити всі ip адреси
+
+en: Cloudflare user API token
+de: Cloudflare-Benutzer-API-Token
+fr: jeton API utilisateur Cloudflare
+ja: CloudflareユーザーAPIトークン
+it: Token API utente Cloudflare
+es: Token API de usuario de Cloudflare
+ru: Cloudflare API токен пользователя
+uk: Cloudflare API токен користувача
+
+en: command
+de: befehl
+fr: commande
+ja: コマンド
+it: comando
+es: comando
+ru: команда
+uk: команда
+
+en: Command
+de: Befehl
+fr: Commande
+ja: コマンド
+it: Comando
+es: Comando
+ru: Команда
+uk: Команда
+
+en: comment
+de: kommentar
+fr: commentaire
+ja: コメント
+it: commento
+es: comentario
+ru: комментарий
+uk: коментар
+
+en: Comment
+de: Kommentar
+fr: Commentaire
+ja: コメント
+it: Commento
+es: Comentario
+ru: Комментарий
+uk: Коментар
+
+en: configuration
+de: konfiguration
+fr: configuration
+ja: 設定
+it: configurazione
+es: configuración
+ru: конфигурация
+uk: конфігурація
+
+en: Confirm
+de: Bestätigen
+fr: Confirmer
+ja: 確認
+it: Confermare
+es: Confirmar
+ru: Подтвердить
+uk: Підтвердити
+
+en: Confirm deleting the rules and setting to defaults
+de: Bestätigen Sie das Löschen der Regeln und das Zurücksetzen auf die Standardwerte
+fr: Confirmer la suppression des règles et la restauration des paramètres par défaut
+ja: ルールの削除とデフォルト設定へのリセットを確認
+it: Conferma l'eliminazione delle regole e il ripristino ai valori predefiniti
+es: Confirmar la eliminación de las reglas y la restauración a los valores predeterminados
+ru: Подтвердите удаление правил и сброс до значений по умолчанию
+uk: Підтвердіть видалення правил та встановлення значень за замовчуванням
+
+en: connected
+de: verbunden
+fr: connecté
+ja: 接続済み
+it: connesso
+es: conectado
+ru: подключён
+uk: підключений
+
+en: Connect DNS provider
+de: DNS-Anbieter verbinden
+fr: Connecter le fournisseur DNS
+ja: DNSプロバイダーを接続
+it: Connetti il provider DNS
+es: Conectar el proveedor de DNS
+ru: Подключить DNS провайдера
+uk: Підключити DNS провайдера
+
+en: content
+de: inhalt
+fr: contenu
+ja: コンテンツ
+it: contenuto
+es: contenido
+ru: контент
+uk: контент
+
+en: Content
+de: Inhalt
+fr: Contenu
+ja: コンテンツ
+it: Contenuto
+es: Contenido
+ru: Контент
+uk: Контент
+
+en: contact email
+de: kontakt email
+fr: e-mail de contact
+ja: 連絡先メール
+it: email di contatto
+es: correo electrónico de contacto
+ru: контактный email
+uk: контактний email
+
+en: Contact email
+de: Kontakt email
+fr: E-mail de contact
+ja: 連絡先メール
+it: Email di contatto
+es: Correo electrónico de contacto
+ru: Контактный email
+uk: Контактний email
+
+en: container template
+de: container-vorlage
+fr: modèle de conteneur
+ja: コンテナテンプレート
+it: modello di contenitore
+es: plantilla de contenedor
+ru: шаблон контейнера
+uk: шаблон контейнера
+
+en: Container template
+de: Container-Vorlage
+fr: Modèle de conteneur
+ja: コンテナテンプレート
+it: Modello di contenitore
+es: Plantilla de contenedor
+ru: Шаблон контейнера
+uk: Шаблон контейнера
+
+en: Container system is not installed. Please install it first in section
+de: Das Container-System ist nicht installiert. Bitte installieren Sie es zuerst im Abschnitt
+fr: Le système de conteneurs n'est pas installé. Veuillez l'installer d'abord dans la section
+ja: コンテナシステムがインストールされていません。まずセクションでインストールしてください
+it: Il sistema dei contenitori non è installato. Per favore, installalo prima nella sezione
+es: El sistema de contenedores no está instalado. Por favor, instálelo primero en la sección
+ru: Система контейнеров не установлена. Пожалуйста, сначала установите её в разделе
+uk: Система контейнерів не встановлена. Будь ласка, спочатку встановіть її в розділі
+
+en: CPU info
+de: CPU-Informationen
+fr: Informations CPU
+ja: CPU情報
+it: informazioni CPU
+es: información CPU
+ru: Инфомарция о CPU
+uk: Інформація про CPU
+
+en: create
+de: erstellen
+fr: créer
+ja: 作成
+it: creare
+es: crear
+ru: создать
+uk: створити
+
+en: created
+de: erstellt
+fr: créé
+ja: 作成済み
+it: creato
+es: creado
+ru: создан
+uk: створений
+
+en: credentials
+de: anmeldedaten
+fr: identifiants
+ja: 資格情報
+it: credenziali
+es: credenciales
+ru: данные входа
+uk: дані входу
+
+en: cron jobs
+de: cron-Jobs
+fr: tâches cron
+ja: cronジョブ
+it: cron job
+es: trabajos cron
+ru: cron задачи
+uk: cron завдання
+
+en: Cron jobs
+de: Cron-Jobs
+fr: Tâches cron
+ja: cronジョブ
+it: Cron job
+es: Trabajos cron
+ru: Cron задачи
+uk: Cron завдання
+
+en: current
+de: aktuell
+fr: actuel
+ja: 現在
+it: corrente
+es: actual
+ru: текущий
+uk: поточний
+
+en: custom
+de: benutzerdefiniert
+fr: personnalisé
+ja: カスタム
+it: personalizzato
+es: personalizado
+ru: пользовательский
+uk: користувацький
+
+en: custom certificates are ignored
+de: benutzerzertifikate werden ignoriert
+fr: les certificats personnalisés sont ignorés
+ja: カスタム証明書は無視されます
+it: i certificati personalizzati vengono ignorati
+es: los certificados personalizados se ignoran
+ru: пользовательские сертификаты не учитываются
+uk: користувацькі сертифікати не враховуються
+
+en: database
+de: datenbank
+fr: base de données
+ja: データベース
+it: database
+es: base de datos
+ru: база данных
+uk: база даних
+
+en: databases
+de: datenbanken
+fr: bases de données
+ja: データベース
+it: database
+es: bases de datos
+ru: базы данных
+uk: бази даних
+
+en: Databases
+de: Datenbanken
+fr: Bases de données
+ja: データベース
+it: Database
+es: Bases de datos
+ru: Базы данных
+uk: Бази даних
+
+en: database hosts
+de: datenbank-Hosts
+fr: hôtes de base de données
+ja: データベースホスト
+it: host di database
+es: hosts de base de datos
+ru: серверы баз данных
+uk: сервери баз даних
+
+en: Database hosts
+de: Datenbank-Hosts
+fr: Hôtes de base de données
+ja: データベースホスト
+it: Host di database
+es: Hosts de base de datos
+ru: Серверы баз данных
+uk: Сервери баз даних
+
+en: Database host logs
+de: Datenbank-Host-Protokolle
+fr: Journaux des hôtes de base de données
+ja: データベースホストのログ
+it: Registri degli host del database
+es: Registros de hosts de base de datos
+ru: Журналы сервера баз данных
+uk: Журнали сервера баз даних
+
+en: Database name
+de: Datenbankname
+fr: Nom de la base de données
+ja: データベース名
+it: Nome del database
+es: Nombre de la base de datos
+ru: Название базы данных
+uk: Найменування бази даних
+
+en: Database server
+de: Datenbankserver
+fr: Serveur de base de données
+ja: データベースサーバー
+it: Server di database
+es: Servidor de base de datos
+ru: Сервер баз данных
+uk: Сервер баз даних
+
+en: Database system
+de: Datenbanksystem
+fr: Système de base de données
+ja: データベースシステム
+it: Sistema di database
+es: Sistema de base de datos
+ru: Система баз данных
+uk: Система баз даних
+
+en: daily
+de: täglich
+fr: quotidien
+ja: 毎日
+it: quotidiano
+es: diario
+ru: подневно 
+uk: подобово
+
+en: Database data directories
+de: Datenbankdaten-verzeichnisse
+fr: Répertoires de données de la base de données
+ja: データベースデータディレクトリ
+it: Directory dei dati del database
+es: Directorios de datos de la base de datos
+ru: Папки файлов баз данных
+uk: Папки файлів баз даних
+
+en: date
+de: datum
+fr: date
+ja: 日付
+it: data
+es: fecha
+ru: дата
+uk: дата
+
+en: day
+de: tag
+fr: jour
+ja: 日
+it: giorno
+es: día
+ru: день
+uk: день
+
+en: Day
+de: Tag
+fr: Jour
+ja: 日
+it: Giorno
+es: Día
+ru: День
+uk: День
+
+en: days
+de: tage
+fr: jours
+ja: 日々
+it: giorni
+es: días
+ru: дни
+uk: дні
+
+en: db host
+de: db-host
+fr: hôte de base de données
+ja: DBホスト
+it: host DB
+es: host de base de datos
+ru: сервер баз данных
+uk: сервер баз даних
+
+en: db name
+de: db-name
+fr: nom de la base de données
+ja: DB名
+it: nome db
+es: nombre db
+ru: имя бд
+uk: ім'я бд
+
+en: db user
+de: db-benutzer
+fr: utilisateur de la base de données
+ja: DBユーザー
+it: utente db
+es: usuario db
+ru: пользователь бд
+uk: користувач бд
+
+en: db users
+de: db-benutzer
+fr: utilisateurs de la base de données
+ja: dbユーザー
+it: utenti db
+es: usuarios db
+ru: пользователи бд
+uk: користувачі бд
+
+en: db system
+de: db-system
+fr: système de base de données
+ja: dbシステム
+it: sistema db
+es: sistema db
+ru: система баз данных
+uk: система баз даних
+
+en: Disable the software
+de: Die software deaktivieren
+fr: Désactiver le logiciel
+ja: ソフトウェアを無効にする
+it: Disabilitare il software
+es: Deshabilitar el software
+ru: Отключить ПЗ
+uk: Вимкнути ПЗ
+
+en: dead
+de: tot
+fr: mort
+ja: 死亡
+it: morto
+es: muerto
+ru: мёртвый
+uk: мертвий
+
+en: dedicated
+de: dediziert
+fr: dédié
+ja: 専用
+it: dedicato
+es: dedicado
+ru: выделенный
+uk: виділений
+
+en: default
+de: standard
+fr: par défaut
+ja: デフォルト
+it: predefinito
+es: predeterminado
+ru: по умолчанию
+uk: за замовчуванням
+
+en: Default backend template
+de: Standard-Backend-Vorlage
+fr: Modèle de backend par défaut
+ja: デフォルトバックエンドテンプレート
+it: Modello backend predefinito
+es: Plantilla backend predeterminada
+ru: Шаблон backend по умолчанию
+uk: Шаблон backend за замовчуванням
+
+en: Default httpd template
+de: Standard-httpd-vorlage
+fr: Modèle httpd par défaut
+ja: デフォルトhttpdテンプレート
+it: Modello httpd predefinito
+es: Plantilla httpd predeterminada
+ru: Шаблон httpd по умолчанию
+uk: Шаблон httpd за замовчуванням
+
+en: Default nginx template
+de: Standard-nginx-Vorlage
+fr: Modèle nginx par défaut
+ja: デフォルトnginxテンプレート
+it: Modello nginx predefinito
+es: Plantilla nginx predeterminada
+ru: Шаблон nginx по умолчанию
+uk: Шаблон nginx за замовчуванням
+
+en: Default postgres template
+de: Standard-postgres-Vorlage
+fr: Modèle postgres par défaut
+ja: デフォルトpostgresテンプレート
+it: Modello postgres predefinito
+es: Plantilla postgres predeterminada
+ru: Шаблон postgres по умолчанию
+uk: Шаблон postgres за замовчуванням
+
+en: delete mounted data directories
+de: montierte Datenverzeichnisse löschen
+fr: supprimer les répertoires de données montés
+ja: マウントされたデータディレクトリを削除
+it: elimina le directory dati montate
+es: eliminar directorios de datos montados
+ru: удалить примонтированные папки с данными
+uk: видалити примонтовані папки з даними
+
+en: delete site directories
+de: Website-Verzeichnisse löschen
+fr: supprimer les répertoires de site
+ja: サイトディレクトリを削除
+it: elimina le directory del sito
+es: eliminar directorios del sitio
+ru: удалить папки сайтов
+uk: видалити папки сайтів
+
+en: Delete
+de: Löschen
+fr: Supprimer
+ja: 削除
+it: Elimina
+es: Eliminar
+ru: Удалить
+uk: Видалити
+
+en: Delete all
+de: Alles löschen
+fr: Tout supprimer
+ja: すべて削除
+it: Elimina tutto
+es: Eliminar todo
+ru: Удалить все
+uk: Видалити всі
+
+en: Delete ip
+de: IP löschen
+fr: Supprimer l'ip
+ja: IP削除
+it: Elimina ip
+es: Eliminar ip
+ru: Удалить ip 
+uk: Видалити ip
+
+en: Delete FTP users
+de: FTP-Benutzer löschen
+fr: Supprimer les utilisateurs FTP
+ja: FTPユーザーを削除
+it: Elimina utenti FTP
+es: Eliminar usuarios FTP
+ru: Удаление FTP пользователей
+uk: Видалення FTP користувачів
+
+en: Delete users
+de: Benutzer löschen
+fr: Supprimer les utilisateurs
+ja: ユーザーを削除
+it: Elimina utenti
+es: Eliminar usuarios
+ru: Удаление пользователей
+uk: Видалення користувачів
+
+en: Delete database user
+de: Datenbankbenutzer löschen
+fr: Supprimer l'utilisateur de la base de données
+ja: データベースユーザーを削除
+it: Elimina utente database
+es: Eliminar usuario de base de datos
+ru: Удалить пользователя базы данных
+uk: Видалити користувача бази даних
+
+en: digest
+de: digest
+fr: digest
+ja: ダイジェスト
+it: digest
+es: digest
+ru: дайджест
+uk: дайджест
+
+en: Digest
+de: Digest
+fr: Digest
+ja: ダイジェスト
+it: Digest
+es: Digest
+ru: Дайджест
+uk: Дайджест
+
+en: digest type
+de: digest-typ
+fr: type de digest
+ja: ダイジェストタイプ
+it: tipo di digest
+es: tipo de digest
+ru: тип дайджеста
+uk: тип дайджесту
+
+en: Digest type
+de: Digest-Typ
+fr: Type de digest
+ja: ダイジェストタイプ
+it: Tipo di digest
+es: Tipo de digest
+ru: Тип дайджеста
+uk: Тип дайджесту
+
+en: directory
+de: verzeichnis
+fr: répertoire
+ja: ディレクトリ
+it: directory
+es: directorio
+ru: каталог
+uk: каталог
+
+en: disabled
+de: deaktiviert
+fr: désactivé
+ja: 無効
+it: disabilitato
+es: deshabilitado
+ru: отключено
+uk: вимкнено
+
+en: Disk inodes
+de: Destplatten-inodes
+fr: Inodes de disque
+ja: ディスクinode
+it: Inodes del disco
+es: Inodos del disco
+ru: Иноды диска
+uk: Іноди диску
+
+en: disk quota
+de: festplatten-quota
+fr: quota de disque
+ja: ディスククォータ
+it: quota disco
+es: cuota de disco
+ru: дисковая квота
+uk: дискова квота
+
+en: Disk partitions
+de: Festplatten-partitionen
+fr: Partitions de disque
+ja: ディスクパーティション
+it: Partizioni disco
+es: Particiones de disco
+ru: Разделы дисков
+uk: Розділи дисків
+
+en: Disk space
+de: Festplattenplatz
+fr: Espace disque
+ja: ディスク容量
+it: Spazio su disco
+es: Espacio en disco
+ru: Место на диске
+uk: Місце на диску
+
+en: Disk usage
+de: Festplattennutzung
+fr: Utilisation du disque
+ja: ディスク使用量
+it: Utilizzo del disco
+es: Uso del disco
+ru: Использование диска
+uk: Використання диска
+
+en: dnsmanager credentials
+de: dnsmanager-anmeldedaten
+fr: identifiants dnsmanager
+ja: dnsmanager認証情報
+it: credenziali dnsmanager
+es: credenciales de dnsmanager
+ru: данные входа в dnsmanager
+uk: дані входу в dnsmanager
+
+en: dns records
+de: dns-aufzeichnungen
+fr: enregistrements dns
+ja: dnsレコード
+it: record dns
+es: registros dns
+ru: dns записи
+uk: dns записи
+
+en: DNS records
+de: DNS-aufzeichnungen
+fr: Enregistrements DNS
+ja: DNSレコード
+it: Record DNS
+es: Registros DNS
+ru: DNS записи
+uk: DNS записи
+
+en: dns domains
+de: dns-domänen
+fr: domaines dns
+ja: dnsドメイン
+it: domini dns
+es: dominios dns
+ru: dns домены
+uk: dns домени
+
+en: dns provider is not connected
+de: dns-anbieter ist nicht verbunden
+fr: le fournisseur dns n'est pas connecté
+ja: dnsプロバイダーが接続されていません
+it: il provider dns non è connesso
+es: el proveedor dns no está conectado
+ru: dns провайдер подключён
+uk: dns провайдер подключений
+
+en: domain
+de: domain
+fr: domaine
+ja: ドメイン
+it: dominio
+es: dominio
+ru: домен
+uk: домен
+
+en: Domain
+de: Domain
+fr: Domaine
+ja: ドメイン
+it: Dominio
+es: Dominio
+ru: Домен
+uk: Домен
+
+en: domain name
+de: domain-name
+fr: nom de domaine
+ja: ドメイン名
+it: nome del dominio
+es: nombre de dominio
+ru: доменное имя
+uk: доменне ім'я
+
+en: Domain name
+de: Domain-Name
+fr: Nom de domaine
+ja: ドメイン名
+it: Nome del dominio
+es: Nombre de dominio
+ru: Доменное имя
+uk: Доменне ім'я
+
+en: domain name or email
+de: domain-name oder email
+fr: nom de domaine ou email
+ja: ドメイン名またはメール
+it: nome del dominio o email
+es: nombre de dominio o email
+ru: доменное имя или email
+uk: доменне ім'я або email
+
+en: domain, A or AAAA record will be created
+de: domain, A oder AAAA record wird erstellt
+fr: un domaine, un enregistrement A ou AAAA sera créé
+ja: ドメイン、AまたはAAAAレコードが作成されます
+it: dominio, verrà creato un record A o AAAA
+es: dominio, se creará un registro A o AAAA
+ru: домен, A или AAAA запись будет создано
+uk: домен, A або AAAA запис буде створено
+
+en: domains
+de: domains
+fr: domaines
+ja: ドメイン
+it: domini
+es: dominios
+ru: домены
+uk: домени
+
+en: domain or record will be created
+de: domain oder record wird erstellt
+fr: un domaine ou un enregistrement sera créé
+ja: ドメインまたはレコードが作成されます
+it: dominio o record sarà creato
+es: dominio o registro será creado
+ru: домен или запись будет создано
+uk: домен чи запис буде створено
+
+en: Donate
+de: Spenden
+fr: Faire un don
+ja: 寄付する
+it: Dona
+es: Donar
+ru: Донат
+uk: Донат
+
+en: do not store local emails
+de: speichere keine lokalen e-mails
+fr: ne pas stocker les emails locaux
+ja: ローカルメールを保存しない
+it: non salvare le email locali
+es: no almacenar correos locales
+ru: не сохранять почту локально
+uk: не зберігати пошту локально
+
+en: Download
+de: Herunterladen
+fr: Télécharger
+ja: ダウンロード
+it: Scarica
+es: Descargar
+ru: Скачать
+uk: Скачати
+
+en: East
+de: Osten
+fr: Est
+ja: 東
+it: Est
+es: Este
+ru: Восток
+uk: Схід
+
+en: Edit
+de: Bearbeiten
+fr: Modifier
+ja: 編集
+it: Modificare
+es: Editar
+ru: Изменить
+uk: Змінити
+
+en: Edit cron job
+de: Cron-Job bearbeiten
+fr: Modifier la tâche cron
+ja: Cronジョブの編集
+it: Modificare cron job
+es: Editar trabajo cron
+ru: Изменить Cron задачу
+uk: Змінити Cron завдання
+
+en: Edit site
+de: Website bearbeiten
+fr: Modifier le site
+ja: サイト編集
+it: Modificare sito
+es: Editar sitio
+ru: Изменить сайт
+uk: Змінити сайт
+
+en: Edit user
+de: Benutzer bearbeiten
+fr: Modifier l'utilisateur
+ja: ユーザー編集
+it: Modificare utente
+es: Editar usuario
+ru: Изменить пользователя
+uk: Змінити користувача
+
+en: Edit database host
+de: Datenbank-Host bearbeiten
+fr: Modifier l'hôte de la base de données
+ja: データベースホスト編集
+it: Modificare host del database
+es: Editar host de la base de datos
+ru: Изменить сервер баз данных
+uk: Змінити сервер баз даних
+
+en: Edit database
+de: Datenbank bearbeiten
+fr: Modifier la base de données
+ja: データベース編集
+it: Modificare database
+es: Editar base de datos
+ru: Изменить базу данных
+uk: Змінити базу даних
+
+en: Edit database host variables
+de: Variablen des Datenbankhosts bearbeiten
+fr: Modifier les variables de l'hôte de la base de données
+ja: データベースホストの変数編集
+it: Modificare variabili host del database
+es: Editar variables del host de la base de datos
+ru: Изменить переменные сервера баз данных
+uk: Змінити змінні сервера баз даних
+
+en: Edit mail domain
+de: Mail-Domain bearbeiten
+fr: Modifier le domaine de messagerie
+ja: メールドメイン編集
+it: Modificare dominio mail
+es: Editar dominio de correo
+ru: Изменить почтовый дмоен
+uk: Змінити поштовий домен
+
+en: Edit mail account
+de: Email-konto bearbeiten
+fr: Modifier le compte mail
+ja: メールアカウント編集
+it: Modificare account di posta
+es: Editar cuenta de correo
+ru: Изменить почтовую учётную запись
+uk: Змінити поштовий обліковий запис
+
+en: the entered password does not match
+de: Das eingegebene Passwort stimmt nicht überein
+fr: Le mot de passe saisi ne correspond pas
+ja: 入力したパスワードが一致しません
+it: La password inserita non corrisponde
+es: la contraseña ingresada no coincide
+ru: введённый пароль не совпадает
+uk: введений пароль не співпадає
+
+en: Edit FTP user
+de: FTP-Benutzer bearbeiten
+fr: Modifier l'utilisateur FTP
+ja: FTPユーザー編集
+it: Modificare utente FTP
+es: Editar usuario FTP
+ru: Изменить FTP пользователя
+uk: Змінити FTP користувача
+
+en: Edit PHP variables
+de: PHP-Variablen bearbeiten
+fr: Modifier les variables PHP
+ja: PHP変数編集
+it: Modificare variabili PHP
+es: Editar variables PHP
+ru: Изменить PHP переменные
+uk: Змінити PHP змінні
+
+en: Edit DNS domain
+de: DNS-Domain bearbeiten
+fr: Modifier le domaine DNS
+ja: DNSドメイン編集
+it: Modificare dominio DNS
+es: Editar dominio DNS
+ru: Изменить DNS домен 
+uk: Змінити DNS домен
+
+en: Edit IP address
+de: IP-Adresse bearbeiten
+fr: Modifier l'adresse IP
+ja: IPアドレス編集
+it: Modificare indirizzo IP
+es: Editar dirección IP
+ru: Изменить IP адрес
+uk: Змінити IP адресу
+
+en: Edit record
+de: Eintrag bearbeiten
+fr: Modifier l'enregistrement
+ja: レコード編集
+it: Modificare record
+es: Editar registro
+ru: Изменить запись
+uk: Змінити запис
+
+en: Edit rule
+de: Regel bearbeiten
+fr: Modifier la règle
+ja: ルール編集
+it: Modificare regola
+es: Editar regla
+ru: Изменить правило
+uk: Змінити правило
+
+en: Edit backup settings
+de: Backup-Einstellungen bearbeiten
+fr: Modifier les paramètres de sauvegarde
+ja: バックアップ設定編集
+it: Modificare impostazioni di backup
+es: Editar configuración de copia de seguridad
+ru: Изменить настройки бекапа
+uk: Змінити налаштування бекапа
+
+en: enabled
+de: aktiviert
+fr: activé
+ja: 有効
+it: abilitato
+es: habilitado
+ru: включено
+uk: увімкнено
+
+en: error log
+de: fehlerprotokoll
+fr: journal des erreurs
+ja: エラーログ
+it: registro errori
+es: registro de errores
+ru: журнал ошибок
+uk: журнал помилок
+
+en: established connections
+de: etablierte Verbindungen
+fr: connexions établies
+ja: 確立された接続
+it: connessioni stabilite
+es: conexiones establecidas
+ru: установленные соединения
+uk: встанолены з'эднання
+
+en: Exim queue size
+de: Exim-Warteschlangen-Größe
+fr: taille de la file d'attente Exim
+ja: Eximキューサイズ
+it: dimensione coda Exim
+es: tamaño de cola Exim
+ru: Размер очереди Exim
+uk: Розмір черги Exim
+
+en: existing db host
+de: existierender datenbank-host
+fr: hôte de base de données existant
+ja: 既存のデータベースホスト
+it: host database esistente
+es: host de base de datos existente
+ru: существующий хост бд
+uk: існуючий хост бд
+
+en: existing user
+de: bestehender Benutzer
+fr: utilisateur existant
+ja: 既存のユーザー
+it: utente esistente
+es: usuario existente
+ru: существующий пользователь
+uk: існуючий користувач
+
+en: exited
+de: abgemeldet
+fr: déconnecté
+ja: 退出
+it: uscito
+es: salido
+ru: вышел
+uk: вийшов
+
+en: expiration date
+de: ablaufdatum
+fr: date d'expiration
+ja: 有効期限
+it: data di scadenza
+es: fecha de expiración
+ru: дата окончания
+uk: дата закінчення
+
+en: Export
+de: Exportieren
+fr: Exporter
+ja: エクスポート
+it: Esportare
+es: Exportar
+ru: Экспорт
+uk: Експорт
+
+en: extensions
+de: erweiterungen
+fr: extensions
+ja: 拡張機能
+it: estensioni
+es: extensiones
+ru: расширения
+uk: розширення
+
+en: Extensions
+de: Erweiterungen
+fr: Extensions
+ja: 拡張機能
+it: Estensioni
+es: Extensiones
+ru: Расширения
+uk: Розширення
+
+en: External NAT IP address
+de: Externe NAT-IP-Adresse
+fr: Adresse IP NAT externe
+ja: 外部NAT IPアドレス
+it: Indirizzo IP NAT esterno
+es: Dirección IP NAT externa
+ru: Внешний NAT IP адрес
+uk: Зовнішня NAT IP адреса
+
+en: failed
+de: fehlgeschlagen
+fr: échoué
+ja: 失敗
+it: fallito
+es: fallido
+ru: провалено
+uk: провалено
+
+en: file extensions
+de: dateierweiterungen
+fr: extensions de fichiers
+ja: ファイル拡張子
+it: estensioni dei file
+es: extensiones de archivo
+ru: расширения файлов
+uk: розширення файлів
+
+en: File manager
+de: Dateimanager
+fr: Gestionnaire de fichiers
+ja: ファイルマネージャー
+it: Gestore di file
+es: Administrador de archivos
+ru: Файловый менеджер
+uk: Файловий менеджер
+
+en: filename
+de: dateiname
+fr: nom de fichier
+ja: ファイル名
+it: nome del file
+es: nombre de archivo
+ru: название файла
+uk: назва файлу
+
+en: fingerprint
+de: fingerabdruck
+fr: empreinte digitale
+ja: 指紋
+it: impronta digitale
+es: huella dactilar
+ru: фингерпринт
+uk: фінгерпринт
+
+en: Fingerprint
+de: Fingerabdruck
+fr: Empreinte digitale
+ja: 指紋
+it: Impronta digitale
+es: Huella dactilar
+ru: Фингерпринт
+uk: Фінгерпринт
+
+en: firewall rules
+de: firewall-Regeln
+fr: règles du pare-feu
+ja: ファイアウォールのルール
+it: regole del firewall
+es: reglas del firewall
+ru: правила файрвола
+uk: правила файрвола
+
+en: firewall
+de: firewall
+fr: pare-feu
+ja: ファイアウォール
+it: firewall
+es: firewall
+ru: файрвол
+uk: файрвол
+
+en: Firewall
+de: Firewall
+fr: Pare-feu
+ja: ファイアウォール
+it: Firewall
+es: Firewall
+ru: Файрвол
+uk: Файрвол
+
+en: flags
+de: flags
+fr: drapeaux
+ja: フラグ
+it: bandiere
+es: banderas
+ru: флажки
+uk: прапори
+
+en: Flags
+de: Flags
+fr: Drapeaux
+ja: フラグ
+it: Bandiere
+es: Banderas
+ru: Флажки
+uk: Прапори
+
+en: forward to
+de: weiterleiten an
+fr: transférer à
+ja: に転送する
+it: inoltrare a
+es: reenviar a
+ru: перенаправить на
+uk: перенаправити на
+
+en: Forward to
+de: Weiterleiten an
+fr: Transférer à
+ja: に転送する
+it: Inoltrare a
+es: Reenviar a
+ru: Перенаправить на
+uk: Перенаправити на
+
+en: Forward only
+de: Nur weiterleiten
+fr: Transférer uniquement
+ja: のみ転送
+it: Solo inoltra
+es: Solo reenviar
+ru: Только перенаправить
+uk: Тільки перенаправити
+
+en: full name
+de: vollständiger Name
+fr: nom complet
+ja: 氏名
+it: nome completo
+es: nombre completo
+ru: полное имя
+uk: повне ім'я
+
+en: Full name
+de: Vollständiger Name
+fr: Nom complet
+ja: 氏名
+it: Nome completo
+es: Nombre completo
+ru: Полное имя
+uk: Повне ім'я
+
+en: General settings
+de: Allgemeine Einstellungen
+fr: Paramètres généraux
+ja: 一般設定
+it: Impostazioni generali
+es: Configuración general
+ru: Общие настройки
+uk: Загальні налаштування
+
+en: Generate
+de: Generieren
+fr: Générer
+ja: 生成する
+it: Generare
+es: Generar
+ru: Сгенерировать
+uk: Згенерувати
+
+en: Generator
+de: Generator
+fr: Générateur
+ja: ジェネレーター
+it: Generatore
+es: Generador
+ru: Генератор
+uk: Генератор
+
+en: Graph has not been created yet, check later, please
+de: Der Graph wurde noch nicht erstellt, bitte später prüfen
+fr: Le graphique n'a pas encore été créé, veuillez vérifier plus tard
+ja: グラフはまだ作成されていませんので、後で確認してください
+it: Il grafico non è stato ancora creato, controlla più tardi
+es: El gráfico aún no ha sido creado, por favor revisa más tarde
+ru: График ещё не создан, пожалуйста, проверьте позже
+uk: Графік ще не створено, перевірте пізніше, будь ласка
+
+en: Granted users
+de: Berechtigte Benutzer
+fr: Utilisateurs autorisés
+ja: 許可されたユーザー
+it: Utenti autorizzati
+es: Usuarios concedidos
+ru: Привелигированные пользователи
+uk: Привілейовані користувачі
+
+en: Help
+de: Hilfe
+fr: Aide
+ja: ヘルプ
+it: Aiuto
+es: Ayuda
+ru: Помощь
+uk: Допомога
+
+en: hexadecimal
+de: hexadezimal
+fr: hexadécimal
+ja: 16進数
+it: esadecimale
+es: hexadecimal
+ru: шестнадцатеричный
+uk: шістнадцятковий
+
+en: horizontal precision
+de: horizontale Präzision
+fr: précision horizontale
+ja: 水平精度
+it: precisione orizzontale
+es: precisión horizontal
+ru: горизонтальная точность
+uk: горизонтальна точність
+
+en: Horizontal precision
+de: Horizontale Präzision
+fr: Précision horizontale
+ja: 水平精度
+it: Precisione orizzontale
+es: Precisión horizontal
+ru: Горизонтальная точность
+uk: Горизонтальна точність
+
+en: httpd template
+de: httpd-Vorlage
+fr: modèle httpd
+ja: httpdテンプレート
+it: modello httpd
+es: plantilla httpd
+ru: шаблон httpd
+uk: шаблон httpd
+
+en: Httpd template
+de: Httpd-Vorlage
+fr: Modèle httpd
+ja: Httpdテンプレート
+it: Modello httpd
+es: Plantilla httpd
+ru: Шаблон httpd
+uk: Шаблон httpd
+
+en: host
+de: host
+fr: hôte
+ja: ホスト
+it: host
+es: host
+ru: хост
+uk: хост
+
+en: Host
+de: Host
+fr: Hôte
+ja: ホスト
+it: Host
+es: Host
+ru: Хост
+uk: Хост
+
+en: hostname
+de: hostname
+fr: nom d'hôte
+ja: ホスト名
+it: nome host
+es: nombre de host
+ru: имя хоста
+uk: ім'я хоста
+
+en: Hostname
+de: Hostname
+fr: Nom d'hôte
+ja: ホスト名
+it: Nome host
+es: Nombre de host
+ru: Имя хоста
+uk: Ім'я хоста
+
+en: hour
+de: stunde
+fr: heure
+ja: 時間
+it: ora
+es: hora
+ru: час
+uk: година
+
+en: Hour
+de: Stunde
+fr: Heure
+ja: 時間
+it: Ora
+es: Hora
+ru: Час
+uk: Година
+
+en: hours
+de: stunden
+fr: heures
+ja: 時間
+it: ore
+es: horas
+ru: часы
+uk: години
+
+en: hourly
+de: stündlich
+fr: horaire
+ja: 時間単位
+it: orario
+es: por hora
+ru: подневно
+uk: подобово
+
+en: Hostname SSL certificate
+de: Hostname-SSL-Zertifikat
+fr: Certificat SSL du nom d'hôte
+ja: ホスト名SSL証明書
+it: Certificato SSL del nome host
+es: Certificado SSL del host
+ru: SSL сертификат хоста 
+uk: SSL сертифікат хоста
+
+en: id
+de: id
+fr: identifiant
+ja: id
+it: id
+es: id
+ru: идентификатор
+uk: ідентифікатор
+
+en: if selected for containerized DBMS, all volumes and data directory on disk will be deleted!
+de: wenn für das containerisierte DBMS ausgewählt, werden alle Volumes und das datenverzeichnis auf der festplatte gelöscht!
+fr: si sélectionné pour un DBMS conteneurisé, tous les volumes et le répertoire de données sur le disque seront supprimés !
+ja: コンテナ化されたDBMSが選択された場合、すべてのボリュームとディスク上のデータディレクトリが削除されます！
+it: se selezionato per DBMS containerizzato, tutte le partizioni e la directory dei dati su disco verranno eliminate!
+es: ¡si se selecciona para DBMS en contenedor, se eliminarán todos los volúmenes y el directorio de datos en el disco!
+ru: если выбрано для СУБД в контейнере, все разделы и папки с данными на диске будут удалены!
+uk: якщо обрано для СУБД в контейнері, всі розділи і папки з даними на диску будуть видалені!
+
+en: Import
+de: Importieren
+fr: Importer
+ja: インポート
+it: Importa
+es: Importar
+ru: Импорт
+uk: Імпорт
+
+en: Import config
+de: Konfiguration importieren
+fr: Importer la configuration
+ja: 設定をインポート
+it: Importa configurazione
+es: Importar configuración
+ru: Импорт конфигурации
+uk: Імпорт конфігурації
+
+en: inactive
+de: inaktiv
+fr: inactif
+ja: 非アクティブ
+it: inattivo
+es: inactivo
+ru: неактивно
+uk: неактивно
+
+en: Include: Specific account or all
+de: Einschließen: Spezifisches Konto oder alle
+fr: Inclure : Compte spécifique ou tout
+ja: 含む: 特定のアカウントまたはすべて
+it: Includi: Account specifico o tutti
+es: Incluir: Cuenta específica o todas
+ru: Включать: Конкретная учетная запись или все
+uk: Включати: Певний обліковий запис або всі
+
+en: Include: Specific zone or all
+de: Einschließen: Spezifische zone oder alle
+fr: Inclure : Zone spécifique ou tout
+ja: 含む: 特定のゾーンまたはすべて
+it: Includi: Zona specifica o tutte
+es: Incluir: Zona específica o todas
+ru: Включать: Конкретная зона или все
+uk: Включати: Певна зона або всі
+
+en: Install
+de: Installieren
+fr: Installer
+ja: インストール
+it: Installa
+es: Instalar
+ru: Установить
+uk: Встановити
+
+en: Installation
+de: Installation
+fr: Installation
+ja: インストール
+it: Installazione
+es: Instalación
+ru: Установка
+uk: Встановлення
+
+en: Info
+de: Info
+fr: Info
+ja: 情報
+it: Info
+es: Info
+ru: Инфо
+uk: Інфо
+
+en: in meters
+de: in Metern
+fr: en mètres
+ja: メートル単位
+it: in metri
+es: en metros
+ru: в метрах
+uk: в метрах
+
+en: in progress
+de: in bearbeitung
+fr: en cours
+ja: 処理中
+it: in corso
+es: en progreso
+ru: в обработке
+uk: в обробці
+
+en: In use by sites
+de: Von Websites in Verwendung
+fr: Utilisé par les sites
+ja: サイトによって使用中
+it: In uso da siti
+es: En uso por sitios
+ru: В использовании сайтами
+uk: В використанні сайтами
+
+en: In use by mail
+de: Von der Mail verwendet
+fr: Utilisé par le courrier
+ja: メールで使用中
+it: In uso da posta
+es: En uso por correo
+ru: В использовании почтой
+uk: В використанні поштою
+
+en: iodef - Send violation reports to URL (http:, https:, or mailto:)
+de: iodef - Senden Sie Verstossberichte an die URL (http:, https: oder mailto:)
+fr: iodef - Envoyer les rapports de violation à l'URL (http:, https:, ou mailto:)
+ja: iodef - 違反レポートをURL（http:、https:、またはmailto:）に送信
+it: iodef - Inviare i rapporti di violazione all'URL (http:, https: o mailto:)
+es: iodef - Enviar informes de violación a URL (http:, https:, o mailto:)
+ru: iodef - Отправлять отчеты о нарушениях на URL (http:, https: или mailto:)
+uk: iodef - Надсилати звіти про порушення на URL-адресу (http:, https: або mailto:)
+
+en: ip address
+de: ip adresse
+fr: adresse ip
+ja: ipアドレス
+it: indirizzo ip
+es: dirección ip
+ru: ip адрес
+uk: ip адреса
+
+en: ip addresses
+de: ip adressen
+fr: adresses ip
+ja: ipアドレス
+it: indirizzi ip
+es: direcciones ip
+ru: ip адреса
+uk: ip адреси
+
+en: ip address found in
+de: ip adresse gefunden in
+fr: adresse ip trouvée dans
+ja: ipアドレスはに見つかりました
+it: indirizzo ip trovato in
+es: dirección ip encontrada en
+ru: ip адрес найден в
+uk: ip адреса знайдена в
+
+en: ip address not found
+de: ip adresse nicht gefunden
+fr: adresse ip non trouvée
+ja: ipアドレスが見つかりません
+it: indirizzo ip non trovato
+es: dirección ip no encontrada
+ru: ip адрес не найден
+uk: ip адресу не знайдено
+
+en: IPv4 only
+de: Nur IPv4
+fr: Seulement IPv4
+ja: IPv4のみ
+it: Solo IPv4
+es: Solo IPv4
+ru: Только IPv4
+uk: Тільки IPv4
+
+en: IPv6 only
+de: Nur IPv6
+fr: Seulement IPv6
+ja: IPv6のみ
+it: Solo IPv6
+es: Solo IPv6
+ru: Только IPv6
+uk: Тільки IPv6
+
+en: ip matches, ignored
+de: ip stimmt überein, ignoriert
+fr: ip correspond, ignoré
+ja: ipが一致、無視
+it: ip corrisponde, ignorato
+es: ip coincide, ignorado
+ru: ip совпадает, проигнорировано
+uk: ip співпадає, проігноровано
+
+en: ip op.
+de: ip op.
+fr: op. ip
+ja: ip op.
+it: op. ip
+es: op. ip
+ru: оп. ip
+uk: оп. ip
+
+en: is not connected
+de: ist nicht verbunden
+fr: n'est pas connecté
+ja: 接続されていません
+it: non connesso
+es: no está conectado
+ru: не подключён
+uk: не підключений
+
+en: is required
+de: ist erforderlich
+fr: est requis
+ja: 必須
+it: è richiesto
+es: es requerido
+ru: обязателен
+uk: обов'язковий
+
+en: issue - Only allow specific hostnames
+de: issue - Nur bestimmte Hostnamen zulassen
+fr: issue - Autoriser uniquement des noms d'hôte spécifiques
+ja: issue - 特定のホスト名のみ許可
+it: issue - Consenti solo nomi host specifici
+es: issue - Permitir solo nombres de host específicos
+ru: issue - Разрешать только определенные имена хостов
+uk: issue - Дозволити лише певні імена хостів
+
+en: issuewild - Only allow wildcards
+de: issuewild - Nur Platzhalter zulassen
+fr: issuewild - Autoriser uniquement les jokers
+ja: issuewild - ワイルドカードのみ許可
+it: issuewild - Consenti solo caratteri jolly
+es: issuewild - Permitir solo comodines
+ru: issuewild - Разрешать только символы подстановки
+uk: issuewild - Дозволити лише шаблони підстановки
+
+en: Jail names
+de: Gefängnisnamen
+fr: Noms des prisons
+ja: 牢獄名
+it: Nomi delle carceri
+es: Nombres de cárceles
+ru: Названия тюремных блоков
+uk: Назви тюремних блоків
+
+en: job id
+de: Job-id
+fr: identifiant de travail
+ja: ジョブid
+it: id lavoro
+es: id de trabajo
+ru: идентификатор задачи
+uk: ідентифікатор завдання
+
+en: key tag
+de: schlüssel-Tag
+fr: étiquette de clé
+ja: キータグ
+it: tag chiave
+es: etiqueta de clave
+ru: ключевой тэг
+uk: ключовий тег
+
+en: Key tag
+de: Schlüssel-Tag
+fr: Étiquette de clé
+ja: キータグ
+it: Tag chiave
+es: Etiqueta de clave
+ru: Ключевой тэг
+uk: Ключовий тег
+
+en: Load average
+de: Durchschnittliche Last
+fr: Moyenne de charge
+ja: 負荷平均
+it: Carico medio
+es: Promedio de carga
+ru: Средняя нагрузка
+uk: Середнє навантаження
+
+en: latitude degrees
+de: breitengrad in Grad
+fr: degrés de latitude
+ja: 緯度度
+it: gradi di latitudine
+es: grados de latitud
+ru: градусы широты
+uk: градуси широти
+
+en: Latitude degrees
+de: Breitengrad in Grad
+fr: Degrés de latitude
+ja: 緯度度
+it: Gradi di latitudine
+es: Grados de latitud
+ru: Градусы широты
+uk: Градуси широти
+
+en: latitude minutes
+de: breitengrad in Minuten
+fr: minutes de latitude
+ja: 緯度分
+it: minuti di latitudine
+es: minutos de latitud
+ru: минуты широты
+uk: хвилини широти
+
+en: Latitude minutes
+de: Breitengrad in Minuten
+fr: Minutes de latitude
+ja: 緯度分
+it: Minuti di latitudine
+es: Minutos de latitud
+ru: Минуты широты
+uk: Хвилини широти
+
+en: latitude seconds
+de: breitengrad in Sekunden
+fr: secondes de latitude
+ja: 緯度秒
+it: secondi di latitudine
+es: segundos de latitud
+ru: секунды широты
+uk: секунди широти
+
+en: Latitude seconds
+de: Breitengrad in Sekunden
+fr: Secondes de latitude
+ja: 緯度秒
+it: Secondi di latitudine
+es: Segundos de latitud
+ru: Секунды широты
+uk: Секунди широти
+
+en: limits
+de: grenzen
+fr: limites
+ja: 限界
+it: limiti
+es: límites
+ru: лимиты
+uk: ліміти
+
+en: location
+de: standort
+fr: emplacement
+ja: 場所
+it: posizione
+es: ubicación
+ru: расположение
+uk: розташування
+
+en: login
+de: anmeldung
+fr: connexion
+ja: ログイン
+it: accesso
+es: inicio de sesión
+ru: вход
+uk: вхід
+
+en: Login
+de: Anmelden
+fr: Connexion
+ja: ログイン
+it: Accedi
+es: Iniciar sesión
+ru: Войти
+uk: Увійти
+
+en: logs
+de: lrotokolle
+fr: journaux
+ja: ログ
+it: registri
+es: registros
+ru: журналы
+uk: журнали
+
+en: Logs
+de: Protokolle
+fr: Journaux
+ja: ログ
+it: Registri
+es: Registros
+ru: Журналы
+uk: Журнали
+
+en: longitude degrees
+de: längengrad in grad
+fr: degrés de longitude
+ja: 経度度
+it: gradi di longitudine
+es: grados de longitud
+ru: градусы долготы
+uk: градуси довготи
+
+en: Longitude degrees
+de: Längengrad in grad
+fr: Degrés de longitude
+ja: 経度度
+it: Gradi di longitudine
+es: Grados de longitud
+ru: Градусы долготы
+uk: Градуси довготи
+
+en: longitude minutes
+de: längengrad in minuten
+fr: minutes de longitude
+ja: 経度分
+it: minuti di longitudine
+es: minutos de longitud
+ru: минуты долготы
+uk: хвилини довготи
+
+en: Longitude minutes
+de: Längengrad in Minuten
+fr: Minutes de longitude
+ja: 経度分
+it: Minuti di longitudine
+es: Minutos de longitud
+ru: Минуты долготы
+uk: Хвилини довготи
+
+en: longitude seconds
+de: längengrad in sekunden
+fr: secondes de longitude
+ja: 経度秒
+it: secondi di longitudine
+es: segundos de longitud
+ru: секунды долготы
+uk: секунди довготи
+
+en: Longitude seconds
+de: Längengrad in sekunden
+fr: Secondes de longitude
+ja: 経度秒
+it: Secondi di longitudine
+es: Segundos de longitud
+ru: Секунды долготы
+uk: Секунди довготи
+
+en: mail
+de: mail
+fr: mail
+ja: メール
+it: posta
+es: correo
+ru: почта
+uk: пошта
+
+en: Mail
+de: Mail
+fr: Mail
+ja: メール
+it: Posta
+es: Correo
+ru: Почта
+uk: Пошта
+
+en: Mail account directories
+de: Mail-kontoverzeichnisse
+fr: Répertoires de comptes de messagerie
+ja: メールアカウントのディレクトリ
+it: Directory account di posta
+es: Directorios de cuentas de correo
+ru: Папки почтовых учётных записей
+uk: Папки поштових облікових записів
+
+en: mail accounts
+de: mail-konten
+fr: comptes de messagerie
+ja: メールアカウント
+it: account di posta
+es: cuentas de correo
+ru: почтовые аккаунты
+uk: поштові акаунти
+
+en: Mail accounts
+de: Mail-konten
+fr: Comptes de messagerie
+ja: メールアカウント
+it: Account di posta
+es: Cuentas de correo
+ru: Почтовые аккаунты
+uk: Поштові акаунти
+
+en: mail domains
+de: mail-domains
+fr: domaines de messagerie
+ja: メールドメイン
+it: domini di posta
+es: dominios de correo
+ru: почтовые домены
+uk: поштові домени
+
+en: Mail domains
+de: Mail-Domains
+fr: Domaines de messagerie
+ja: メールドメイン
+it: Domini di posta
+es: Dominios de correo
+ru: Почтовые домены
+uk: Поштові домени
+
+en: Mail server
+de: Mail-Server
+fr: Serveur de messagerie
+ja: メールサーバー
+it: Server di posta
+es: Servidor de correo
+ru: Почтовый сервер
+uk: Поштовий сервер
+
+en: Mail settings
+de: Mail-Einstellungen
+fr: Paramètres de messagerie
+ja: メール設定
+it: Impostazioni della posta
+es: Configuraciones de correo
+ru: Почтовые настройки
+uk: Поштові налаштування
+
+en: make sure that atleast one ip is active, also check firewall, the server and panel might become unavailable!
+de: stellen Sie sicher, dass mindestens eine ip aktiv ist, überprüfen sie auch die firewall, der server und das panel könnten nicht verfügbar sein!
+fr: assurez-vous qu'au moins une IP est active, vérifiez également le pare-feu, le serveur et le panneau pourraient devenir indisponibles!
+ja: 少なくとも1つのIPがアクティブであることを確認し、ファイアウォールも確認してください。サーバーとパネルが利用できなくなる可能性があります！
+it: assicurati che almeno un IP sia attivo, verifica anche il firewall, il server e il pannello potrebbero diventare non disponibili!
+es: asegúrese de que al menos una IP esté activa, también verifique el firewall, ¡el servidor y el panel podrían volverse no disponibles!
+ru: убедитесь, что хотя бы один ip адрес активен, а также проверьте файрвол, сервер и панель управления могут стать недоступны!
+uk: переконайтеся, що хоча б одна ip адреса активна, також перевірте файрвол, сервер і панель можуть стати недоступні!
+
+en: Mark all as read
+de: Alle als gelesen markieren
+fr: Marquer tout comme lu
+ja: すべてを既読としてマーク
+it: Segna tutto come letto
+es: Marcar todo como leído
+ru: Отметить все как прочитанные
+uk: Відмітити всі як прочитані
+
+en: matching type
+de: übereinstimmungstyp
+fr: type de correspondance
+ja: 一致タイプ
+it: tipo di corrispondenza
+es: tipo de coincidencia
+ru: соответствующий тип
+uk: відповідний тип
+
+en: Matching type
+de: Übereinstimmungstyp
+fr: Type de correspondance
+ja: 一致タイプ
+it: Tipo di corrispondenza
+es: Tipo de coincidencia
+ru: Соответствующий тип
+uk: Відповідний тип
+
+en: megabytes
+de: megabytes
+fr: mégaoctets
+ja: メガバイト
+it: megabyte
+es: megabytes
+ru: мегабайты
+uk: мегабайти
+
+en: Memory info
+de: Speicherinformationen
+fr: Informations sur la mémoire
+ja: メモリ情報
+it: Informazioni sulla memoria
+es: Información de la memoria
+ru: Информация о памяти
+uk: Інформація про пам'ять
+
+en: Memory usage
+de: Speichernutzung
+fr: Utilisation de la mémoire
+ja: メモリ使用量
+it: Utilizzo della memoria
+es: Uso de la memoria
+ru: Использование памяти
+uk: Використання пам'яті
+
+en: minute
+de: minute
+fr: minute
+ja: 分
+it: minuto
+es: minuto
+ru: минута
+uk: хвилина
+
+en: Minute
+de: Minute
+fr: Minute
+ja: 分
+it: Minuto
+es: Minuto
+ru: Минута
+uk: Хвилина
+
+en: minutes
+de: minuten
+fr: minutes
+ja: 分
+it: minuti
+es: minutos
+ru: минуты
+uk: хвилини
+
+en: Misc
+de: Verschiedenes
+fr: Divers
+ja: その他
+it: Varie
+es: Varios
+ru: Разное
+uk: Різне
+
+en: Miscellaneous certificates
+de: Verschiedene Zertifikate
+fr: Certificats divers
+ja: その他の証明書
+it: Certificati vari
+es: Certificados varios
+ru: Разные сертификаты
+uk: Різні сертифікати
+
+en: Monitoring
+de: Überwachung
+fr: Surveillance
+ja: 監視
+it: Monitoraggio
+es: Monitoreo
+ru: Мониторинг
+uk: Моніторинг
+
+en: month
+de: monat
+fr: mois
+ja: 月
+it: mese
+es: mes
+ru: месяц
+uk: місяць
+
+en: Month
+de: Monat
+fr: Mois
+ja: 月
+it: Mese
+es: Mes
+ru: Месяц
+uk: Місяць
+
+en: monthly
+de: monatlich
+fr: mensuel
+ja: 毎月
+it: mensile
+es: mensual
+ru: ежемесячно
+uk: щомісяця
+
+en: Mounted data directories
+de: Eingehängte Datenverzeichnisse
+fr: Répertoires de données montés
+ja: マウントされたデータディレクトリ
+it: Directory dei dati montati
+es: Directorios de datos montados
+ru: Примонтированные папки с данными
+uk: Примонтовані папки з даними
+
+en: Move to
+de: Verschieben nach
+fr: Déplacer vers
+ja: 移動先
+it: Spostare in
+es: Mover a
+ru: Переместить к
+uk: Перемістити до
+
+en: name
+de: name
+fr: nom
+ja: 名前
+it: nome
+es: nombre
+ru: название
+uk: назва
+
+en: Name
+de: Name
+fr: Nom
+ja: 名前
+it: Nome
+es: Nombre
+ru: Название
+uk: Назва
+
+en: Nameserver
+de: Nameserver
+fr: Serveur de noms
+ja: ネームサーバー
+it: Server dei nomi
+es: Servidor de nombres
+ru: Сервер имён
+uk: Сервер імен
+
+en: Nameservers
+de: Nameserver
+fr: Serveurs de noms
+ja: ネームサーバー
+it: Server dei nomi
+es: Servidores de nombres
+ru: Серверы имён
+uk: Сервери імен
+
+en: nat address
+de: nat adresse
+fr: adresse nat
+ja: natアドレス
+it: indirizzo nat
+es: dirección nat
+ru: адрес nat
+uk: адреса nat
+
+en: Network
+de: Netzwerk
+fr: Réseau
+ja: ネットワーク
+it: Rete
+es: Red
+ru: Сеть
+uk: Мережа
+
+en: network interface
+de: metzwerkinterface
+fr: interface réseau
+ja: ネットワークインターフェース
+it: interfaccia di rete
+es: interfaz de red
+ru: сетевой интерфейс
+uk: мережевий інтерфейс
+
+en: Network interface
+de: Netzwerkinterface
+fr: Interface réseau
+ja: ネットワークインターフェース
+it: Interfaccia di rete
+es: Interfaz de red
+ru: Сетевой интерфейс
+uk: Мережевий інтерфейс
+
+en: Network usage
+de: Netzwerknutzung
+fr: Utilisation du réseau
+ja: ネットワーク使用量
+it: Utilizzo della rete
+es: Uso de la red
+ru: Использование сети
+uk: Використання мережі
+
+en: New
+de: Neu
+fr: Nouveau
+ja: 新しい
+it: Nuovo
+es: Nuevo
+ru: Новый
+uk: Новий
+
+en: new local container
+de: neuer lokaler Container
+fr: nouveau conteneur local
+ja: 新しいローカルコンテナ
+it: nuovo contenitore locale
+es: nuevo contenedor local
+ru: новый локальный контейнер
+uk: новий локальний контейнер
+
+en: new user
+de: neuer benutzer
+fr: nouvel utilisateur
+ja: 新しいユーザー
+it: nuovo utente
+es: nuevo usuario
+ru: новый пользователь
+uk: новий користувач
+
+en: Next items are selected
+de: Die nächsten Elemente sind ausgewählt
+fr: Les éléments suivants sont sélectionnés
+ja: 次の項目が選択されています
+it: Gli articoli successivi sono selezionati
+es: Los siguientes elementos están seleccionados
+ru: Выбрано следующие элементы 
+uk: Обрано наступні елементи 
+
+en: Next items will be modified
+de: Die nächsten Elemente werden geändert
+fr: Les éléments suivants seront modifiés
+ja: 次の項目が変更されます
+it: Gli articoli successivi verranno modificati
+es: Los siguientes elementos serán modificados
+ru: Следующие элементы будут изменены
+uk: Наступні елементи будуть змінені
+
+en: Next items will be exported
+de: Die nächsten Elemente werden exportiert
+fr: Les éléments suivants seront exportés
+ja: 次の項目がエクスポートされます
+it: Gli articoli successivi verranno esportati
+es: Los siguientes elementos serán exportados
+ru: Следующие элементы будут экспоритрованы
+uk: Наступні елементи будуть експортовані
+
+en: Next items will be deleted
+de: Die nächsten Elemente werden gelöscht
+fr: Les éléments suivants seront supprimés
+ja: 次の項目が削除されます
+it: Gli articoli successivi verranno eliminati
+es: Los siguientes elementos serán eliminados
+ru: Следующие элементы будут удалены
+uk: Наступні елементи будуть видалені
+
+en: nginx template
+de: nginx-vorlage
+fr: modèle nginx
+ja: nginxテンプレート
+it: modello nginx
+es: plantilla nginx
+ru: шаблон nginx
+uk: шаблон nginx
+
+en: Nginx template
+de: Nginx-vorlage
+fr: Modèle nginx
+ja: Nginxテンプレート
+it: Modello nginx
+es: Plantilla Nginx
+ru: Шаблон nginx
+uk: Шаблон nginx
+
+en: no
+de: nein
+fr: non
+ja: いいえ
+it: no
+es: no
+ru: нет
+uk: ні
+
+en: North
+de: Norden
+fr: Nord
+ja: 北
+it: Nord
+es: Norte
+ru: Север
+uk: Північ
+
+en: Notifications
+de: Benachrichtigungen
+fr: Notifications
+ja: 通知
+it: Notifiche
+es: Notificaciones
+ru: Уведомления
+uk: Сповіщення
+
+en: no accounts
+de: keine Konten
+fr: aucun compte
+ja: アカウントなし
+it: nessun account
+es: no hay cuentas
+ru: нет аккаунтов
+uk: немає акаунтів
+
+en: none
+de: keine
+fr: aucun
+ja: なし
+it: nessuno
+es: ninguno
+ru: нет
+uk: немає
+
+en: Normal password
+de: Normales Passwort
+fr: Mot de passe normal
+ja: 通常のパスワード
+it: Password normale
+es: Contraseña normal
+ru: Обычный пароль
+uk: Звичайний пароль
+
+en: no row selected
+de: keine zeile ausgewählt
+fr: aucune ligne sélectionnée
+ja: 行が選択されていません
+it: nessuna riga selezionata
+es: ninguna fila seleccionada
+ru: ряд не выбран
+uk: рядок не обрано
+
+en: not found, ignored
+de: nicht gefunden, ignoriert
+fr: non trouvé, ignoré
+ja: 見つかりませんでした、無視されました
+it: non trovato, ignorato
+es: no encontrado, ignorado
+ru: не найдено, проигнорировано
+uk: не знайдено, проігноровано
+
+en: not selected
+de: nicht ausgewählt
+fr: non sélectionné
+ja: 選択されていません
+it: non selezionato
+es: no seleccionado
+ru: не выбрано
+uk: не обрано
+
+en: non-existent
+de: nicht existent
+fr: inexistant
+ja: 存在しない
+it: inesistente
+es: inexistente
+ru: несуществующий
+uk: неіснуючий
+
+en: Number of rows
+de: Anzahl der zeilen
+fr: Nombre de lignes
+ja: 行数
+it: Numero di righe
+es: Número de filas
+ru: Количество строк
+uk: Кількість рядків
+
+en: off
+de: aus
+fr: éteindre
+ja: オフ
+it: spento
+es: apagado
+ru: выкл.
+uk: вимк.
+
+en: Off
+de: Aus
+fr: Éteindre
+ja: オフ
+it: Spento
+es: Apagado
+ru: Выкл.
+uk: Вимк.
+
+en: ok
+de: ok
+fr: ok
+ja: オーケー
+it: ok
+es: ok
+ru: ок
+uk: ок
+
+en: Ok
+de: Ok
+fr: Ok
+ja: オーケー
+it: Ok
+es: Ok
+ru: Ок
+uk: Ок
+
+en: On
+de: Ein
+fr: Marche
+ja: オン
+it: Acceso
+es: Encendido
+ru: Вкл.
+uk: Увім.
+
+en: on-failure
+de: bei fehler
+fr: en cas d'échec
+ja: 失敗時
+it: in caso di errore
+es: en caso de fallo
+ru: при падении
+uk: при падінні
+
+en: Only selected certificates for active sites and mail domains will be reissued,
+de: Nur ausgewählte zertifikate für aktive sites und mail-domains werden erneut ausgestellt,
+fr: Seuls les certificats sélectionnés pour les sites actifs et les domaines de messagerie seront réémis,
+ja: アクティブなサイトとメールドメインの選択された証明書のみが再発行されます。,
+it: Solo i certificati selezionati per i siti attivi e i domini di posta saranno riemessi,
+es: Solo se volverán a emitir los certificados seleccionados para sitios activos y dominios de correo,
+ru: Перевыпуску подлежат только выбранные сертификаты для активных сайтов и почтовых доменов,
+uk: Перевидання буде здійснено лише для вибраних сертифікатів активних сайтів та поштових доменів,
+
+en: optional
+de: optional
+fr: facultatif
+ja: オプション
+it: opzionale
+es: opcional
+ru: опционально
+uk: опціонально
+
+en: optional, space-separated
+de: optional, durch leerzeichen getrennt
+fr: facultatif, séparé par des espaces
+ja: オプション、スペース区切り
+it: opzionale, separato da spazi
+es: opcional, separado por espacios
+ru: опционально, розделены пробелом
+uk: опціонально, розділені пробілом
+
+en: options
+de: optionen
+fr: options
+ja: オプション
+it: opzioni
+es: opciones
+ru: опции
+uk: опції
+
+en: order
+de: bestellung
+fr: commande
+ja: 注文
+it: ordine
+es: orden
+ru: порядок
+uk: порядок
+
+en: Order
+de: Bestellung
+fr: Commande
+ja: 注文
+it: Ordine
+es: Orden
+ru: Порядок
+uk: Порядок
+
+en: Overall load, processes
+de: Gesamtlast, Prozesse
+fr: Charge totale, processus
+ja: 全体の負荷、プロセス
+it: Carico complessivo, processi
+es: Carga general, procesos
+ru: Общая нагрузка, процессы
+uk: Загальне навантаження, процеси
+
+en: owner
+de: besitzer
+fr: propriétaire
+ja: 所有者
+it: proprietario
+es: propietario
+ru: владелец
+uk: власник
+
+en: Panel certificate
+de: Panel-zertifikat
+fr: Certificat du panneau
+ja: パネル証明書
+it: Certificato del pannello
+es: Certificado del panel
+ru: Сертификат панели
+uk: Сертифікат панелі
+
+en: pass through
+de: durchlassen
+fr: passer
+ja: 通過
+it: passare
+es: pasar
+ru: пропускать
+uk: пропускати
+
+en: Panel web logs
+de: Panel-webprotokolle
+fr: Journaux web du panneau
+ja: パネルのウェブログ
+it: registri web del pannello
+es: registros web del panel
+ru: Веб журналы панели
+uk: Веб журнали панелі
+
+en: password
+de: passwort
+fr: mot de passe
+ja: パスワード
+it: password
+es: contraseña
+ru: пароль
+uk: пароль
+
+en: Password
+de: Passwort
+fr: Mot de passe
+ja: パスワード
+it: Password
+es: Contraseña
+ru: Пароль
+uk: Пароль
+
+en: Password confirmation
+de: Passwortbestätigung
+fr: Confirmation du mot de passe
+ja: パスワード確認
+it: Conferma della password
+es: Confirmación de la contraseña
+ru: Подтверждение пароля
+uk: Підтвердження паролю
+
+en: paused
+de: pausiert
+fr: en pause
+ja: 一時停止
+it: in pausa
+es: en pausa
+ru: на паузе
+uk: на паузі
+
+en: Paused
+de: Pausiert
+fr: En pause
+ja: 一時停止
+it: In pausa
+es: En pausa
+ru: На паузе
+uk: На паузі
+
+en: Permissions
+de: Berechtigungen
+fr: Permissions
+ja: 権限
+it: Permessi
+es: Permisos
+ru: Разрешения
+uk: Дозволи
+
+en: php extension name
+de: name der php-erweiterung
+fr: nom de l'extension php
+ja: php拡張モジュール名
+it: nome dell'estensione php
+es: nombre de la extensión php
+ru: название php расширения
+uk: назва php розширення
+
+en: placement index
+de: platzierungsindex
+fr: indice de placement
+ja: 配置インデックス
+it: indice di posizionamento
+es: índice de colocación
+ru: индекс размещения
+uk: індекс розміщення
+
+en: Please confirm the deletion
+de: Bitte bestätigen Sie die Löschung
+fr: Veuillez confirmer la suppression
+ja: 削除を確認してください
+it: Si prega di confermare l'eliminazione
+es: Por favor, confirme la eliminación
+ru: Пожалуста подтвердите удаление
+uk: Будь ласка підтвердіть видалення
+
+en: port
+de: port
+fr: port
+ja: ポート
+it: porta
+es: puerto
+ru: порт
+uk: порт
+
+en: Port
+de: Port
+fr: Port
+ja: ポート
+it: Porta
+es: Puerto
+ru: Порт
+uk: Порт
+
+en: port op.
+de: Port-op.
+fr: op. du port
+ja: ポート操作
+it: op. porta
+es: op. del puerto
+ru: оп. порта
+uk: оп. порта
+
+en: postgres template
+de: postgres-vorlage
+fr: modèle postgres
+ja: postgresテンプレート
+it: modello postgres
+es: plantilla postgres
+ru: шаблон postgres
+uk: шаблон postgres
+
+en: preference
+de: präferenz
+fr: préférence
+ja: 優先設定
+it: preferenza
+es: preferencia
+ru: предпочтение
+uk: перевага
+
+en: Preference
+de: Präferenz
+fr: Préférence
+ja: 優先設定
+it: Preferenza
+es: Preferencia
+ru: Предпочтение
+uk: Перевага
+
+en: priority
+de: priorität
+fr: priorité
+ja: 優先度
+it: priorità
+es: prioridad
+ru: приоритет
+uk: приорітет
+
+en: Priority
+de: Priorität
+fr: Priorité
+ja: 優先度
+it: Priorità
+es: Prioridad
+ru: Приоритет
+uk: Приорітет
+
+en: Private key
+de: Privater schlüssel
+fr: Clé privée
+ja: 秘密鍵
+it: Chiave privata
+es: Clave privada
+ru: Приватный ключ
+uk: Приватний ключ
+
+en: private key data
+de: privater schlüssel daten
+fr: données de clé privée
+ja: 秘密鍵データ
+it: dati chiave privata
+es: datos clave privada
+ru: контент приватного ключа 
+uk: контент приватного ключа
+
+en: Privileged db users
+de: Privilegierte db-benutzer
+fr: Utilisateurs privilégiés de la base de données
+ja: 特権データベースユーザー
+it: Utenti privilegiati del database
+es: Usuarios privilegiados de la base de datos
+ru: Привилегированные пользователи бд
+uk: Привілейовані користувачі бд
+
+en: protocol
+de: protokoll
+fr: protocole
+ja: プロトコル
+it: protocollo
+es: protocolo
+ru: протокол
+uk: протокол
+
+en: Protocol
+de: Protokoll
+fr: Protocole
+ja: プロトコル
+it: Protocollo
+es: Protocolo
+ru: Протокол
+uk: Протокол
+
+en: Protocols
+de: Protokolle
+fr: Protocoles
+ja: プロトコル
+it: Protocolli
+es: Protocolos
+ru: Протоколы
+uk: Протоколи
+
+en: provider
+de: anbieter
+fr: fournisseur
+ja: プロバイダー
+it: provider
+es: proveedor
+ru: провайдер
+uk: провайдер
+
+en: proxied
+de: proxy
+fr: proxy
+ja: プロキシ
+it: proxy
+es: proxy
+ru: прокси
+uk: проксі
+
+en: Proxied
+de: Proxy
+fr: Proxy
+ja: プロキシ
+it: Proxy
+es: Proxy
+ru: Прокси
+uk: Проксі
+
+en: public key
+de: öffentlicher schlüssel
+fr: clé publique
+ja: 公開鍵
+it: chiave pubblica
+es: clave pública
+ru: публичный ключ
+uk: публічний ключ
+
+en: Public key
+de: Öffentlicher Schlüssel
+fr: Clé publique
+ja: 公開鍵
+it: Chiave pubblica
+es: Clave pública
+ru: Публичный ключ
+uk: Публічний ключ
+
+en: quota
+de: quote
+fr: quota
+ja: クォータ
+it: quota
+es: cuota
+ru: квота
+uk: квота
+
+en: Quota
+de: Quota
+fr: Quota
+ja: クォータ
+it: quota
+es: Cuota
+ru: Квота
+uk: Квота
+
+en: queue
+de: warteschlange
+fr: file
+ja: キュー
+it: coda
+es: cola
+ru: очередь
+uk: черга
+
+en: queued
+de: in warteschlange
+fr: en file d'attente
+ja: キューに入れる
+it: in coda
+es: en cola
+ru: в очереди
+uk: в черзі
+
+en: record will be updated
+de: datensatz wird aktualisiert
+fr: l'enregistrement sera mis à jour
+ja: レコードが更新されます
+it: il record verrà aggiornato
+es: el registro será actualizado
+ru: запись будет создано
+uk: запис буде створено
+
+en: Records
+en: Records
+de: Datensätze
+fr: enregistrements
+ja: レコード
+it: Record
+es: Registros
+ru: Записи
+uk: Записи
+
+en: Refresh
+de: Aktualisieren
+fr: Actualiser
+ja: 更新
+it: Aggiorna
+es: Actualizar
+ru: Обновить
+uk: Оновити
+
+en: regex
+de: reg. ausdr.
+fr: expr. régul.
+ja: 正規表現
+it: espr. regol.
+es: expr. regul.
+ru: рег. выраж.
+uk: рег. вираз
+
+en: RegEx
+de: Reg. ausdr.
+fr: Expr. régul.
+ja: 正規表現
+it: Espr. regol.
+es: Expr. regul.
+ru: Рег. выраж.
+uk: Рег. вираз
+
+en: Re-issue
+de: Neu ausstellen
+fr: Réémettre
+ja: 再発行
+it: Ristampare
+es: Reemitir
+ru: Перевыпустить
+uk: Перевипустити
+
+en: Re-issue certificates
+de: Zertifikate neu ausstellen
+fr: Réémettre les certificats
+ja: 証明書を再発行
+it: Ristampare i certificati
+es: Reemitir certificados
+ru: Перевыпустить сертификаты
+uk: Перевипустити сертифікати
+
+en: remote directory
+de: entferntes verzeichnis
+fr: répertoire distant
+ja: リモートディレクトリ
+it: directory remoto
+es: directorio remoto
+ru: удалённая папка
+uk: віддалена папка
+
+en: Remote directory
+de: Entferntes verzeichnis
+fr: Répertoire distant
+ja: リモートディレクトリ
+it: Directory remoto
+es: Directorio remoto
+ru: Удалённая папка
+uk: Віддалена папка
+
+en: removing
+de: wird entfernt
+fr: suppression en cours
+ja: 削除中
+it: rimozione
+es: eliminando
+ru: удаляется
+uk: видаляється
+
+en: Rename
+de: Umbenennen
+fr: Renommer
+ja: 名前を変更
+it: Rinomina
+es: Renombrar
+ru: Переименовать
+uk: Перейменувати
+
+en: Required token grants
+de: Erforderliche Token-Berechtigungen
+fr: Autorisations de jeton requises
+ja: 必要なトークングラント
+it: Autorizzazioni token richieste
+es: Permisos de token requeridos
+ru: Требуемые разрешения токена
+uk: Необхідні дозволи токена
+
+en: replacement
+de: ersatz
+fr: remplacement
+ja: 交換
+it: sostituzione
+es: reemplazo
+ru: замена
+uk: заміна
+
+en: Replacement
+de: Ersatz
+fr: Remplacement
+ja: 交換
+it: Sostituzione
+es: Reemplazo
+ru: Замена
+uk: Заміна
+
+en: Reset
+de: Zurücksetzen
+fr: Réinitialiser
+ja: リセット
+it: Resetta
+es: Restablecer
+ru: Сброс
+uk: Скидання
+
+en: Reset all firewall rules
+de: Alle Firewall-Regeln zurücksetzen
+fr: Réinitialiser toutes les règles du pare-feu
+ja: すべてのファイアウォール規則をリセット
+it: Reimposta tutte le regole del firewall
+es: Restablecer todas las reglas del firewall
+ru: Сборсить все правила файрвола
+uk: Скинути всі правила файрволу
+
+en: restarting
+de: wird neu gestartet
+fr: redémarrage en cours
+ja: 再起動中
+it: riavvio
+es: reiniciando
+ru: перезапускается
+uk: перезавантажується
+
+en: Restore
+de: Wiederherstellen
+fr: Restaurer
+ja: 復元
+it: Ripristina
+es: Restaurar
+ru: Восстановить
+uk: Відновити
+
+en: Restore backup
+de: Backup wiederherstellen
+fr: Restaurer la sauvegarde
+ja: バックアップを復元
+it: Ripristina il backup
+es: Restaurar copia de seguridad
+ru: Восстановить из бекапа
+uk: Відновити з бекапа
+
+en: Return
+de: Zurückkehren
+fr: Retourner
+ja: 戻る
+it: Ritorna
+es: Regresar
+ru: Вернуться
+uk: Повернутись
+
+en: role
+de: rolle
+fr: rôle
+ja: ロール
+it: ruolo
+es: rol
+ru: роль
+uk: роль
+
+en: Role
+de: Rolle
+fr: Rôle
+ja: ロール
+it: Ruolo
+es: Rol
+ru: Роль
+uk: Роль
+
+en: root dir
+de: stammverzeichnis
+fr: répertoire racine
+ja: ルートディレクトリ
+it: directory radice
+es: directorio raíz
+ru: корневая папка
+uk: коренева папка
+
+en: Root directory
+de: Stammverzeichnis
+fr: Répertoire racine
+ja: ルートディレクトリ
+it: Directory radice
+es: Directorio raíz
+ru: Корневая папка
+uk: Коренева папка
+
+en: rule id
+de: regel-id
+fr: identifiant de règle
+ja: ルールid
+it: id regola
+es: id de regla
+ru: идентификатор правила
+uk: ідентифікатор правила
+
+en: rules
+de: regeln
+fr: règles
+ja: ルール
+it: regole
+es: reglas
+ru: правила
+uk: правила
+
+en: Run
+de: Ausführen
+fr: Exécuter
+ja: 実行
+it: Esegui
+es: Ejecutar
+ru: Выполнить
+uk: Виконати
+
+en: running
+de: läuft
+fr: en cours d'exécution
+ja: 実行中
+it: in esecuzione
+es: en ejecución
+ru: работает
+uk: працює
+
+en: run every
+de: jede ausführen
+fr: exécuter chaque
+ja: 毎回実行
+it: eseguire ogni
+es: ejecutar cada
+ru: выполнять каждые
+uk: виконувати кожні
+
+en: run every 1 minute
+de: jede 1 Minute ausführen
+fr: exécuter chaque 1 minute
+ja: 1分ごとに実行
+it: eseguire ogni 1 minuto
+es: ejecutar cada 1 minuto
+ru: выполнять каждую 1 минуту
+uk: виконувати кожну 1 хвилину
+
+en: run every 1 hour
+de: jede 1 stunde ausführen
+fr: exécuter chaque 1 heure
+ja: 1時間ごとに実行
+it: eseguire ogni 1 ora
+es: ejecutar cada 1 hora
+ru: выполнять каждый 1 час
+uk: виконувати кожну 1 годину
+
+en: run every day
+de: jeden tag ausführen
+fr: exécuter chaque jour
+ja: 毎日実行
+it: eseguire ogni giorno
+es: ejecutar cada día
+ru: выполнять каждый день
+uk: виконувати кожний день
+
+en: run every even day
+de: an jedem geraden tag ausführen
+fr: exécuter chaque jour pair
+ja: 偶数の日に実行
+it: eseguire ogni giorno pari
+es: ejecutar cada día par
+ru: выполнять каждый чётный день
+uk: виконувати кожний парний день
+
+en: run every odd day
+de: an jedem ungeraden tag ausführen
+fr: exécuter chaque jour impair
+ja: 奇数の日に実行
+it: eseguire ogni giorno dispari
+es: ejecutar cada día impar
+ru: выполнять каждый нечётный день
+uk: виконувати кожний непарний день
+
+en: run every month
+de: jeden monat ausführen
+fr: exécuter chaque mois
+ja: 毎月実行
+it: eseguire ogni mese
+es: ejecutar cada mes
+ru: выполнять каждый месяц
+uk: виконувати кожен місяць
+
+en: run every even month
+de: jeden geraden monat ausführen
+fr: exécuter chaque mois pair
+ja: 偶数月に実行
+it: eseguire ogni mese pari
+es: ejecutar cada mes par
+ru: выполнять каждый чётный месяц
+uk: виконувати кожний парний місяць
+
+en: run every odd month
+de: jeden ungeraden monat ausführen
+fr: exécuter chaque mois impair
+ja: 奇数月に実行
+it: eseguire ogni mese dispari
+es: ejecutar cada mes impar
+ru: выполнять каждый нечётный месяц
+uk: виконувати кожний непарний місяць
+
+en: run on Monday-Friday
+de: von Montag bis Freitag ausführen
+fr: exécuter du lundi au vendredi
+ja: 月曜日から金曜日に実行
+it: eseguire da lunedì a venerdì
+es: ejecutar de lunes a viernes
+ru: выполнять с Понедельника по Пятницу
+uk: виконувати з Понеділка по П'ятницю
+
+en: run on Saturday-Sunday
+de: von Samstag bis Sonntag ausführen
+fr: exécuter du samedi au dimanche
+ja: 土曜日から日曜日に実行
+it: eseguire da sabato a domenica
+es: ejecutar de sábado a domingo
+ru: выполнять с Понедельника по Пятницу
+uk: виконувати з Понеділка по П'ятницю
+
+en: run on Monday
+de: am Montag ausführen
+fr: exécuter le lundi
+ja: 月曜日に実行
+it: eseguire il lunedì
+es: ejecutar el lunes
+ru: выполнять в Понедельник
+uk: виконувати в Понеділок
+
+en: run on Tuesday
+de: am Dienstag ausführen
+fr: exécuter le mardi
+ja: 火曜日に実行
+it: eseguire il martedì
+es: ejecutar el martes
+ru: выполнять во Вторник
+uk: виконувати у Вівторок
+
+en: run on Wednesday
+de: am Mittwoch ausführen
+fr: exécuter le mercredi
+ja: 水曜日に実行
+it: eseguire il mercoledì
+es: ejecutar el miércoles
+ru: выполнять в Среду
+uk: виконувати в Середу
+
+en: run on Thursday
+de: am Donnerstag ausführen
+fr: exécuter le jeudi
+ja: 木曜日に実行
+it: eseguire il giovedì
+es: ejecutar el jueves
+ru: выполнять в Четверг
+uk: виконувати в Четвер
+
+en: run on Friday
+de: am Freitag ausführen
+fr: exécuter le vendredi
+ja: 金曜日に実行
+it: eseguire il venerdì
+es: ejecutar el viernes
+ru: выполнять в Пятницу
+uk: виконувати в П'ятницю
+
+en: run on Saturday
+de: am Samstag ausführen
+fr: exécuter le samedi
+ja: 土曜日に実行
+it: eseguire il sabato
+es: ejecutar el sábado
+ru: выполнять в Суботу
+uk: виконувати в Суботу
+
+en: run on Sunday
+de: am Sonntag ausführen
+fr: exécuter le dimanche
+ja: 日曜日に実行
+it: eseguire la domenica
+es: ejecutar el domingo
+ru: выполнять в Воскресенье
+uk: виконувати в Неділю
+
+en: run every 2 months
+de: alle 2 monate ausführen
+fr: exécuter chaque 2 mois
+ja: 2ヶ月ごとに実行
+it: eseguire ogni 2 mesi
+es: ejecutar cada 2 meses
+ru: выполнять каждые 2 месяца
+uk: виконувати кожні 2 місяці
+
+en: run every 3 months
+de: alle 3 monate ausführen
+fr: exécuter chaque 3 mois
+ja: 3ヶ月ごとに実行
+it: eseguire ogni 3 mesi
+es: ejecutar cada 3 meses
+ru: выполнять каждые 3 месяца
+uk: виконувати кожні 3 місяці
+
+en: run every 6 months
+de: alle 6 Monate ausführen
+fr: exécuter chaque 6 mois
+ja: 6ヶ月ごとに実行
+it: eseguire ogni 6 mesi
+es: ejecutar cada 6 meses
+ru: выполнять каждые 6 месяцев
+uk: виконувати кожні 5 місяців
+
+en: run in January
+de: im Januar ausführen
+fr: exécuter en janvier
+ja: 1月に実行
+it: eseguire a gennaio
+es: ejecutar en enero
+ru: выполнять в Январе
+uk: виконувати в Січні
+
+en: run in February
+de: im Februar ausführen
+fr: exécuter en février
+ja: 2月に実行
+it: eseguire a febbraio
+es: ejecutar en febrero
+ru: выполнять в Феврале
+uk: виконувати в Лютому
+
+en: run in March
+de: im März ausführen
+fr: exécuter en mars
+ja: 3月に実行
+it: eseguire a marzo
+es: ejecutar en marzo
+ru: выполнять в Марте
+uk: виконувати в Березні
+
+en: run in April
+de: im April ausführen
+fr: exécuter en avril
+ja: 4月に実行
+it: eseguire ad aprile
+es: ejecutar en abril
+ru: выполнять в Апреле
+uk: виконувати в Квітні
+
+en: run in May
+de: im Mai ausführen
+fr: exécuter en mai
+ja: 5月に実行
+it: eseguire a maggio
+es: ejecutar en mayo
+ru: выполнять в Мае
+uk: виконувати в Травні
+
+en: run in June
+de: im Juni ausführen
+fr: exécuter en juin
+ja: 6月に実行
+it: eseguire a giugno
+es: ejecutar en junio
+ru: выполнять в Июне
+uk: виконувати в Червні
+
+en: run in July
+de: im Juli ausführen
+fr: exécuter en juillet
+ja: 7月に実行
+it: eseguire a luglio
+es: ejecutar en julio
+ru: выполнять в Июле
+uk: виконувати в Липні
+
+en: run in August
+de: im August ausführen
+fr: exécuter en août
+ja: 8月に実行
+it: eseguire ad agosto
+es: ejecutar en agosto
+ru: выполнять в Августе
+uk: виконувати в Серпні
+
+en: run in Septemer
+de: im September ausführen
+fr: exécuter en septembre
+ja: 9月に実行
+it: eseguire a settembre
+es: ejecutar en septiembre
+ru: выполнять в Сентябре
+uk: виконувати в Вересні
+
+en: run in October
+de: im Oktober ausführen
+fr: exécuter en octobre
+ja: 10月に実行
+it: eseguire a ottobre
+es: ejecutar en octubre
+ru: выполнять в Октябре
+uk: виконувати в Жовтні
+
+en: run in November
+de: im November ausführen
+fr: exécuter en novembre
+ja: 11月に実行
+it: eseguire a novembre
+es: ejecutar en noviembre
+ru: выполнять в Ноябре
+uk: виконувати в Листопаді
+
+en: run in December
+de: im Dezember ausführen
+fr: exécuter en décembre
+ja: 12月に実行
+it: eseguire a dicembre
+es: ejecutar en diciembre
+ru: выполнять в Декабре
+uk: виконувати в Грудні
+
+en: Save
+de: Speichern
+fr: Enregistrer
+ja: 保存
+it: Salva
+es: Guardar
+ru: Сохранить
+uk: Зберегти
+
+en: search
+de: suchen
+fr: rechercher
+ja: 検索
+it: cerca
+es: buscar
+ru: поиск
+uk: пошук
+
+en: Search banned ip
+de: Gesperrte IP suchen
+fr: Rechercher IP bannie
+ja: ブロックされたIPを検索
+it: Cerca IP bannata
+es: Buscar IP bloqueada
+ru: Поиск заблокированного ip
+uk: Пошук заблокованого ip
+
+en: Search ip
+de: IP suchen
+fr: Rechercher ip
+ja: IPを検索
+it: Cerca ip
+es: Buscar ip
+ru: Искать ip
+uk: Шукати ip
+
+en: select only one row for this action
+de: wählen sie nur eine zeile für diese Aktion aus
+fr: sélectionnez une seule ligne pour cette action
+ja: この操作には1行のみ選択してください
+it: seleziona solo una riga per questa azione
+es: selecciona solo una fila para esta acción
+ru: выберите только один ряд для этого действия
+uk: оберіть тільки один ряд для цієї дії
+
+en: selector
+de: selektor
+fr: sélecteur
+ja: セレクタ
+it: selettore
+es: selector
+ru: селектор
+uk: селектор
+
+en: Selector
+de: Selektor
+fr: Sélecteur
+ja: セレクタ
+it: Selettore
+es: Selector
+ru: Селектор
+uk: Селектор
+
+en: self-signed
+de: selbstsigniert
+fr: auto-signé
+ja: 自己署名
+it: auto-firmato
+es: auto-firmado
+ru: самоподписной
+uk: самопідписний
+
+en: service
+de: dienst
+fr: service
+ja: サービス
+it: servizio
+es: servicio
+ru: сервис
+uk: сервіс
+
+en: Service
+de: Dienst
+fr: Service
+ja: サービス
+it: Servizio
+es: Servicio
+ru: Сервис
+uk: Сервіс
+
+en: Services
+de: Dienste
+fr: Services
+ja: サービス
+it: Servizi
+es: Servicios
+ru: Сервисы
+uk: Сервіси
+
+en: Settings
+de: Einstellungen
+fr: Paramètres
+ja: 設定
+it: Impostazioni
+es: Configuración
+ru: Настройки
+uk: Налаштування
+
+en: shared
+de: geteilt
+fr: partagé
+ja: 共有
+it: condiviso
+es: compartido
+ru: общий
+uk: загальний
+
+en: Show
+de: Anzeigen
+fr: Montrer
+ja: 表示
+it: Mostra
+es: Mostrar
+ru: Показать
+uk: Показати
+
+en: Site aliases
+de: Website-aliasnamen
+fr: Alias de site
+ja: サイトのエイリアス
+it: Alias del sito
+es: Alias de sitio
+ru: Псеводимы сайтов
+uk: Псевдоніми сайтів
+
+en: site directory
+de: Website-verzeichnis
+fr: répertoire du site
+ja: サイトディレクトリ
+it: directory del sito
+es: directorio del sitio
+ru: папка сайта
+uk: папка сайту
+
+en: sites
+de: websites
+fr: sites
+ja: サイト
+it: siti
+es: sitios
+ru: сайты
+uk: сайти
+
+en: Sites
+de: Websites
+fr: Sites
+ja: サイト
+it: Siti
+es: Sitios
+ru: Сайты
+uk: Сайти
+
+en: Site directories
+de: Website-Verzeichnisse
+fr: Répertoires de sites
+ja: サイトのディレクトリ
+it: Directory dei siti
+es: Directorios del sitio
+ru: Папки сайтов
+uk: Папки сайтів
+
+en: Site logs
+de: Website-Protokolle
+fr: Journaux du site
+ja: サイトログ
+it: Log del sito
+es: Registros del sitio
+ru: Журналы сайта
+uk: Журнали сайту
+
+en: size
+de: größe
+fr: taille
+ja: サイズ
+it: dimensione
+es: tamaño
+ru: размер
+uk: розмір
+
+en: Size
+de: Größe
+fr: Taille
+ja: サイズ
+it: Dimensione
+es: Tamaño
+ru: Размер
+uk: Розмір
+
+en: skipped
+de: übersprungen
+fr: ignoré
+ja: スキップされた
+it: saltato
+es: omitido
+ru: пропущено
+uk: пропущено
+
+en: Software
+de: Software
+fr: Logiciel
+ja: ソフトウェア
+it: Software
+es: Software
+ru: ПО
+uk: ПЗ
+
+en: Software RAID info
+de: Software-RAID-Informationen
+fr: Informations sur RAID logiciel
+ja: ソフトウェアRAID情報
+it: Informazioni RAID software
+es: Información RAID de software
+ru: Информация о программных RAID
+uk: Інформація про програмні RAID
+
+en: something went wrong, check logs
+de: etwas ist schiefgelaufen, überprüfen sie die protokolle
+fr: quelque chose a mal tourné, vérifiez les journaux
+ja: 何かがうまくいきませんでした。ログを確認してください
+it: qualcosa è andato storto, controlla i log
+es: algo salió mal, revisa los registros
+ru: что-то пошло не так, проверьте журналы
+uk: щось пішло не так, перевірте журнали
+
+en: South
+de: Süden
+fr: Sud
+ja: 南
+it: Sud
+es: Sur
+ru: Юг
+uk: Південь
+
+en: ssl certificates
+de: ssl-zertifikate
+fr: certificats ssl
+ja: ssl証明書
+it: certificati ssl
+es: certificados ssl
+ru: ssl сертификаты
+uk: ssl сертифікати
+
+en: state
+de: zustand
+fr: état
+ja: 状態
+it: stato
+es: estado
+ru: состояние
+uk: стан
+
+en: Static file extensions
+de: Erweiterungen statischer Dateien
+fr: extensions de fichiers statiques
+ja: 静的ファイル拡張子
+it: Estensioni di file statici
+es: Extensiones de archivos estáticos
+ru: Расширения статических файлов
+uk: Розширення статичних файлів
+
+en: Stats
+de: Statistiken
+fr: Statistiques
+ja: スタッツ
+it: Statistiche
+es: Estadísticas
+ru: Статистика
+uk: Статистика
+
+en: Status
+de: Status
+fr: Statut
+ja: ステータス
+it: Stato
+es: Estado
+ru: Статус
+uk: Статус
+
+en: superuser
+de: superuser
+fr: superutilisateur
+ja: スーパーユーザー
+it: superutente
+es: superusuario
+ru: супер-пользователь
+uk: супер-користувач
+
+en: Superuser name
+de: Superuser-name
+fr: Nom du superutilisateur
+ja: スーパーユーザー名
+it: Nome superutente
+es: Nombre de superusuario
+ru: Имя супер-пользователя
+uk: Ім'я супер-користувача
+
+en: Superuser password
+de: Superuser-passwort
+fr: mot de passe du superutilisateur
+ja: スーパーユーザーのパスワード
+it: Password superutente
+es: Contraseña de superusuario
+ru: Пароль супер-пользователя
+uk: Пароль супер-користувача
+
+en: suspended
+de: ausgesetzt
+fr: suspendu
+ja: 停止中
+it: sospeso
+es: suspendido
+ru: приостановлен
+uk: призупинений
+
+en: tag
+de: tag
+fr: balise
+ja: タグ
+it: etichetta
+es: etiqueta
+ru: тэг
+uk: тег
+
+en: target
+de: ziel
+fr: cible
+ja: ターゲット
+it: obiettivo
+es: objetivo
+ru: цель 
+uk: ціль
+
+en: Target
+de: Ziel
+fr: Cible
+ja: ターゲット
+it: Obiettivo
+es: Objetivo
+ru: Цель 
+uk: Ціль
+
+en: task
+de: aufgabe
+fr: tâche
+ja: タスク
+it: compito
+es: tarea
+ru: задача
+uk: завдання
+
+en: tasks
+de: aufgaben
+fr: tâches
+ja: タスク
+it: compiti
+es: tareas
+ru: задачи
+uk: завдання
+
+en: Template preset
+de: Vorlage voreinstellung
+fr: Préréglage de modèle
+ja: テンプレートのプリセット
+it: Preset del modello
+es: Preajuste de plantilla
+ru: Пресет шаблонов
+uk: Пресет шаблонів
+
+en: template
+de: vorlage
+fr: modèle
+ja: テンプレート
+it: modello
+es: plantilla
+ru: шаблон
+uk: шаблон
+
+en: templates
+de: vorlagen
+fr: modèles
+ja: テンプレート
+it: modelli
+es: plantillas
+ru: шаблоны
+uk: шаблони
+
+en: Templates
+de: Vorlagen
+fr: Modèles
+ja: テンプレート
+it: Modelli
+es: Plantillas
+ru: Шаблоны
+uk: Шаблони
+
+en: time period
+de: zeitraum
+fr: période de temps
+ja: 時間帯
+it: periodo di tempo
+es: período de tiempo
+ru: период времени
+uk: період часу
+
+en: time took
+de: benötigte zeit
+fr: temps pris
+ja: かかった時間
+it: tempo impiegato
+es: tiempo tomado
+ru: времени заняло
+uk: часу зайняло
+
+en: Timezone
+de: Zeitzone
+fr: Fuseau horaire
+ja: タイムゾーン
+it: Fuso orario
+es: Zona horaria
+ru: Часовой пояс
+uk: Часовий пояс
+
+en: to be pointed in
+de: sollte zeigen in
+fr: être dirigé vers
+ja: 指定された場所に向けられる
+it: essere indirizzato a
+es: ser dirigido a
+ru: был направлен в
+uk: був направлений в
+
+en: token
+de: token
+fr: jeton
+ja: トークン
+it: token
+es: token
+ru: токен
+uk: токен
+
+en: total
+de: insgesamt
+fr: total
+ja: 合計
+it: totale
+es: total
+ru: всего
+uk: всього
+
+en: type
+de: typ
+fr: type
+ja: 型
+it: tipo
+es: tipo
+ru: тип
+uk: тип
+
+en: Type
+de: Typ
+fr: Type
+ja: 型
+it: Tipo
+es: Tipo
+ru: Тип
+uk: Тип
+
+en: type only local part
+de: geben sie nur den lokalen teil ein
+fr: saisissez uniquement la partie locale
+ja: ローカル部分のみを入力
+it: inserisci solo la parte locale
+es: introduce solo la parte local
+ru: введите только локальную часть
+uk: введіть тільки локальну частину
+
+en: Uninstallation
+de: Deinstallation
+fr: Désinstallation
+ja: アンインストール
+it: Disinstallazione
+es: Desinstalación
+ru: Удаление
+uk: Видалення
+
+en: unknown
+de: unbekannt
+fr: inconnu
+ja: 不明
+it: sconosciuto
+es: desconocido
+ru: неизвестно
+uk: невідомо
+
+en: unless-stopped
+de: außer gestoppt
+fr: sauf arrêté
+ja: 停止しない限り
+it: a meno che non sia fermato
+es: a menos que se detenga
+ru: если не остановлено
+uk: якщо не зупинено
+
+en: Unencrypted
+de: Unverschlüsselt
+fr: Non crypté
+ja: 暗号化されていない
+it: Non criptato
+es: No cifrado
+ru: Незашифровано
+uk: Незашифровано
+
+en: update
+de: aktualisieren
+fr: mettre à jour
+ja: 更新
+it: aggiornare
+es: actualizar
+ru: обновить
+uk: оновити
+
+en: Update IP certificates
+de: IP-Zertifikate aktualisieren
+fr: Mettre à jour les certificats IP
+ja: IP証明書の更新
+it: Aggiornare i certificati IP
+es: Actualizar certificados IP
+ru: Обновить сертификаты IP
+uk: Оновити сертифікати IP
+
+en: Update mail domain records
+de: Mail domain datensätze aktualisieren
+fr: Mettre à jour les enregistrements de domaine de messagerie
+ja: メールドメインレコードの更新
+it: Aggiornare i record del dominio di posta
+es: Actualizar registros de dominio de correo
+ru: Обновить записи почтового домена
+uk: Оновити записи поштового домена
+
+en: update only
+de: nur aktualisieren
+fr: mettre à jour uniquement
+ja: 更新のみ
+it: solo aggiornare
+es: actualizar solo
+ru: только обновить
+uk: тільки оновити
+
+en: Update site records
+de: Website-Datensätze aktualisieren
+fr: Mettre à jour les enregistrements du site
+ja: サイトレコードの更新
+it: Aggiornare i record del sito
+es: Actualizar registros del sitio
+ru: Обновить записи сайта
+uk: Оновити записи сайта
+
+en: usage
+de: nutzung
+fr: utilisation
+ja: 使用
+it: utilizzo
+es: uso
+ru: использование
+uk: використання
+
+en: Usage
+de: Nutzung
+fr: Utilisation
+ja: 使用
+it: Utilizzo
+es: Uso
+ru: Использование
+uk: Використання
+
+en: user
+de: benutzer
+fr: utilisateur
+ja: ユーザー
+it: utente
+es: usuario
+ru: пользователь
+uk: користувач
+
+en: User
+de: Benutzer
+fr: Utilisateur
+ja: ユーザー
+it: Utente
+es: Usuario
+ru: Пользователь
+uk: Користувач
+
+en: user profile
+de: benutzerprofil
+fr: profil utilisateur
+ja: ユーザープロフィール
+it: profilo utente
+es: perfil de usuario
+ru: профиль пользователя
+uk: профіль користувача
+
+en: user token
+de: benutzertoken
+fr: jeton utilisateur
+ja: ユーザートークン
+it: token utente
+es: token de usuario
+ru: токен пользователя 
+uk: токен користувача
+
+en: User disk space
+de: Benutzerfestplattenspeicher
+fr: Espace disque utilisateur
+ja: ユーザーのディスク容量
+it: Spazio su disco utente
+es: Espacio en disco del usuario
+ru: Место пользователя на диске 
+uk: Місце користувача на диску
+
+en: User events
+de: Benutzerereignisse
+fr: Événements utilisateur
+ja: ユーザーイベント
+it: Eventi utente
+es: Eventos de usuario
+ru: События пользователя
+uk: Події користувача
+
+en: users
+de: benutzer
+fr: utilisateurs
+ja: ユーザー
+it: utenti
+es: usuarios
+ru: пользователи
+uk: користувачі
+
+en: Users
+de: Benutzer
+fr: Utilisateurs
+ja: ユーザー
+it: Utenti
+es: Usuarios
+ru: Пользователи
+uk: Користувачі
+
+en: User event history
+de: Benutzerereignishistorie
+fr: Historique des événements utilisateur
+ja: ユーザーイベント履歴
+it: Cronologia eventi utente
+es: Historial de eventos de usuario
+ru: История событий пользователя
+uk: Історія подій користувача
+
+en: User files and directories in home directory
+de: Benutzerdateien und -verzeichnisse im home-verzeichnis
+fr: Fichiers et répertoires utilisateur dans le répertoire personnel
+ja: ホームディレクトリ内のユーザーファイルとディレクトリ
+it: File e directory utente nella directory home
+es: Archivos y directorios del usuario en el directorio home
+ru: Пользовательские файлы и каталоги в домашнем каталоге
+uk: Користувацькі файли та каталоги в домашньому каталозі
+
+en: value
+de: wert
+fr: valeur
+ja: 値
+it: valore
+es: valor
+ru: значение
+uk: значення
+
+en: Value
+de: Wert
+fr: Valeur
+ja: 値
+it: Valore
+es: Valor
+ru: Значение
+uk: Значення
+
+en: Variables
+de: Variablen
+fr: Variables
+ja: 変数
+it: Variabili
+es: Variables
+ru: Переменные 
+uk: Змінні
+
+en: version
+de: version
+fr: version
+ja: バージョン
+it: versione
+es: versión
+ru: версия
+uk: версія
+
+en: vertical precision
+de: vertikale präzision
+fr: précision verticale
+ja: 垂直精度
+it: precisione verticale
+es: precisión vertical
+ru: вертикальная точность
+uk: вертикальна точність
+
+en: Vertical precision
+de: Vertikale präzision
+fr: Précision verticale
+ja: 垂直精度
+it: Precisione verticale
+es: Precisión vertical
+ru: Вертикальная точность
+uk: Вертикальна точність
+
+en: Warning: All web configs will be rebuilt!
+de: Warnung: Alle Web-Konfigurationen werden neu erstellt!
+fr: Avertissement : Toutes les configurations web seront reconstruites !
+ja: 警告: すべてのウェブ構成が再構築されます！
+it: Avviso: tutte le configurazioni web verranno ricostruite!
+es: ¡Advertencia: todas las configuraciones web se reconstruirán!
+ru: Внимание: Все файлы конфигурации веб-сайтов будут перестроены!
+uk: Увага: Усі веб-конфігурації будуть перебудовані!
+
+en: web aliases
+de: web-aliase
+fr: alias web
+ja: ウェブエイリアス
+it: alias web
+es: alias web
+ru: веб псеводнимы
+uk: веб псевдоніми
+
+en: Web directory with sites
+de: Web-Verzeichnis mit Seiten
+fr: Répertoire web avec sites
+ja: サイトを含むウェブディレクトリ
+it: Directory web con siti
+es: Directorio web con sitios
+ru: Веб-каталог с сайтами
+uk: Веб-каталог із сайтами
+
+en: web log
+de: web-log
+fr: journal web
+ja: ウェブログ
+it: registro web
+es: registro web
+ru: веб журнал
+uk: веб журнал
+
+en: Web panel will stop working for awhile
+de: Das web-panel wird für eine weile nicht funktionieren
+fr: Le panneau Web cessera de fonctionner pendant un moment
+ja: ウェブパネルはしばらく機能しなくなります
+it: Il pannello web smetterà di funzionare per un po'
+es: El panel web dejará de funcionar por un momento
+ru: Веб-панель временно перестанет работать
+uk: Веб-панель перестане працювати на деякий час
+
+en: Webserver
+de: Webserver
+fr: Serveur web
+ja: ウェブサーバー
+it: Server web
+es: Servidor web
+ru: Веб-сервер
+uk: Веб-сервер
+
+en: website
+de: webseite
+fr: site web
+ja: ウェブサイト
+it: sito web
+es: sitio web
+ru: вебсайт
+uk: вебсайт
+
+en: week
+de: woche
+fr: semaine
+ja: 週間
+it: settimana
+es: semana
+ru: неделя
+uk: тиждень
+
+en: weekday
+de: wochentag
+fr: jour de la semaine
+ja: 曜日
+it: giorno feriale
+es: día de la semana
+ru: день недели
+uk: день тижня
+
+en: Weekday
+de: Wochentag
+fr: Jour de la semaine
+ja: 曜日
+it: Giorno feriale
+es: Día de la semana
+ru: День недели
+uk: День тижня
+
+en: weekly
+de: wöchentlich
+fr: hebdomadaire
+ja: 毎週
+it: settimanale
+es: semanal
+ru: еженедельно
+uk: щотижня
+
+en: weight
+de: gewicht
+fr: poids
+ja: 重量
+it: peso
+es: peso
+ru: вес 
+uk: вага
+
+en: Weight
+de: Gewicht
+fr: Poids
+ja: 重量
+it: Peso
+es: Peso
+ru: Вес 
+uk: Вага
+
+en: West
+de: Westen
+fr: Ouest
+ja: 西
+it: Ovest
+es: Oeste
+ru: Запад
+uk: Захід
+
+en: year
+de: jahr
+fr: année
+ja: 年
+it: anno
+es: año
+ru: год
+uk: рік
+
+en: yes
+de: ja
+fr: oui
+ja: はい
+it: sì
+es: sí
+ru: да
+uk: так
+
+en: Zone: Zone: Edit
+de: Zone: Zone: Bearbeiten
+fr: Zone : Zone : Modifier
+ja: ゾーン: ゾーン: 編集
+it: Zona: Zona: Modifica
+es: Zona: Zona: Editar
+ru: Зона: Зона: Редактирование
+uk: Зона: Зона: Редагування
+
+en: Zone: DNS: Edit
+de: Zone: DNS: Bearbeiten
+fr: Zone : DNS : Modifier
+ja: ゾーン: DNS: 編集
+it: Zona: DNS: Modifica
+es: Zona: DNS: Editar
+ru: Зона: DNS: Редактирование
+uk: Зона: DNS: Редагування
+
+en: Zone Resources
+de: Zonenressourcen
+fr: Ressources de zone
+ja: ゾーンリソース
+it: Risorse della zona
+es: Recursos de zona
+ru: Ресурсы Зоны
+uk: Ресурси Зони

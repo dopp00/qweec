@@ -1,0 +1,38 @@
+server {
+    %nginx_ssl_listen4%
+    %nginx_ssl_listen6%
+    %http2%
+    server_name %domain_idn% %nginx_aliases%;
+    ssl_certificate     %ssl_pem%;
+    ssl_certificate_key %ssl_key%;
+
+    location / {
+        proxy_pass https://%httpd_ip%:%httpd_ssl_port%;
+        proxy_hide_header Upgrade;
+
+        location ~* ^.+\.(%nginx_extentions%)$ {
+            try_files  $uri @fallback;
+            root       %docroot%;
+            expires    max;
+            access_log %access_log% combined;
+            access_log %bytes_log% bytes;
+        }
+    }
+
+    location @fallback {
+        proxy_pass https://%httpd_ip%:%httpd_ssl_port%;
+        proxy_hide_header Upgrade;
+    }
+
+    location ~ /\.(?!well-known\/) {
+        deny all;
+        return 404;
+    }
+
+    error_log %error_log% error;
+    
+    include /etc/nginx/conf.d/letsencrypt.inc;
+    include /etc/nginx/includes/%user%/%domain_idn%.conf_*;
+
+}
+

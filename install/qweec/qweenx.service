@@ -1,0 +1,16 @@
+[Unit]
+Description=qweenx - nginx web server
+After=network-online.target remote-fs.target nss-lookup.target
+Wants=network-online.target
+
+[Service]
+Type=forking
+PIDFile=/run/qweec/qweenx.pid
+ExecStartPre=/usr/bin/mkdir -p /run/qweec
+ExecStartPost=/usr/bin/sleep 0.01
+ExecStart=/usr/local/sbin/qweenx -c /usr/local/qweec/qweenx/nginx.conf 
+ExecReload=/bin/sh -c "/bin/kill -s HUP $(/bin/cat /run/qweec/qweenx.pid)"
+ExecStop=/bin/sh -c "/bin/kill -s TERM $(/bin/cat /run/qweec/qweenx.pid)"
+
+[Install]
+WantedBy=multi-user.target

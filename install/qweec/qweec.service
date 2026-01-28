@@ -1,0 +1,19 @@
+[Unit]
+Description=qweec control panel
+Wants=network.target
+After=syslog.target network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/usr/local/qweec
+ExecStart=/usr/local/sbin/qweec
+ExecStop=/bin/sh -c "/bin/kill -s TERM $(/usr/bin/pgrep -x qweec)"
+User=root
+Group=root
+Restart=on-failure
+RestartSec=10
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
+

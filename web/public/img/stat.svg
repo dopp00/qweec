@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   role="img"
+   aria-label="xxlarge"
+   id="svg3"
+   width="32"
+   height="32"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="swatch30">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="swatch17">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#4cd45c;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:0"
+     id="rect2"
+     width="5"
+     height="7"
+     x="2"
+     y="25" />
+  <rect
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:0"
+     id="rect2-2"
+     width="5"
+     height="15"
+     x="10"
+     y="17" />
+  <rect
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:0"
+     id="rect2-5"
+     width="5"
+     height="10"
+     x="18"
+     y="22" />
+  <rect
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:0"
+     id="rect2-5-5"
+     width="5"
+     height="20"
+     x="26"
+     y="12" />
+  <path
+     id="rect3"
+     style="fill:#606060;fill-opacity:1;stroke:#606060;stroke-width:0"
+     d="M 28.966797,1 25.287109,1.9999989 21.751953,2.9589842 22.953125,4.1523428 18.134766,8.970703 12.5,3.3359369 9.6718749,6.1640619 2.4472655,13.388671 5.2753906,16.216797 12.5,8.992187 l 2.806641,2.806641 -0.02344,0.02148 2.828125,2.828125 7.679688,-7.6777341 1.265625,1.2578131 0.972656,-3.6855483 z" />
+</svg>

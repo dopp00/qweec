@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 31.917598 32.000004"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="proj_gear_spinner.svg"
+   width="31.917599"
+   height="32.000004"
+   inkscape:export-filename="gear_spinner.svg"
+   inkscape:export-xdpi="15.36"
+   inkscape:export-ydpi="15.36"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.28"
+     inkscape:cx="8.2603939"
+     inkscape:cy="26.148796"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="#FF156D"
+     stroke="#FF156D"
+     stroke-width="3.32933"
+     transform-origin="center"
+     d="M 27.198789,12.357462 30.4643,10.518955 28.097987,6.5431865 24.832474,8.3816923 A 11.831566,11.490663 0 0 0 18.348777,4.727662 V 1.05065 H 13.61615 V 4.727662 A 11.831566,11.490663 0 0 0 7.0851245,8.3816923 L 3.819612,6.5431865 1.4532986,10.518955 4.7188111,12.357462 a 11.831566,11.490663 0 0 0 0,7.285078 l -3.2655125,1.838507 2.3663134,3.97577 3.2655125,-1.838507 a 11.831566,11.490663 0 0 0 6.5073625,3.654031 v 3.677011 h 4.732626 v -3.677011 a 11.831566,11.490663 0 0 0 6.483698,-3.654031 l 3.265513,1.838507 2.366314,-3.97577 -3.265513,-1.838507 a 11.831566,11.490663 0 0 0 0,-7.285078 z m -11.23999,11.674512 a 8.2820976,8.043464 0 1 1 0,-16.0869268 8.2820976,8.043464 0 0 1 0,16.0869268 z"
+     id="path1"
+     style="fill:#a280ff;fill-opacity:1;stroke:#a280ff;stroke-width:2.1013;stroke-dasharray:none;stroke-opacity:1">
+    <animateTransform
+       type="rotate"
+       attributeName="transform"
+       calcMode="spline"
+       dur="2"
+       values="0;120"
+       keyTimes="0;1"
+       keySplines="0 0 1 1"
+       repeatCount="indefinite" />
+  </path>
+</svg>

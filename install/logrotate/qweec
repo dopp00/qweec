@@ -1,0 +1,8 @@
+/usr/local/qweec/log/*.log {
+    missingok
+    notifempty
+    size 100k
+    yearly
+    create 0600 root root
+    rotate 2
+}
