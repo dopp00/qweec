@@ -39,7 +39,7 @@
 <summary>Command for installation with default settings:</summary>
 
 ```sh
-bash <(curl -sL http://qweec.net/qweec.sh)
+bash <(curl -sL https://qweec.net/qweec.sh)
 ```
 
 </details>
@@ -49,10 +49,10 @@ bash <(curl -sL http://qweec.net/qweec.sh)
 
 **Step 1:** Download script
 ```sh
-curl -sSLO http://qweec.net/qweec.sh
+curl -sSLO https://qweec.net/qweec.sh
 ```
 
-**Step 2:** Run script with custom parameters
+**Step 2:** Run script with custom parameters. Example:
 ```sh
 bash qweec.sh \
     --email=me@example.com \
@@ -125,16 +125,19 @@ The main goal of the panel is to be simplistic.
 it does not overwhelm the user with advanced settings, takes minimalistic approach to make managing basic everyday tasks simple and quick, thus where the word "qweec" comes from, it is not about performance of the panel, it is about simplicity and convenience.
 
 The panel is free to use for everyone.  
-It is created in an oldschool fashion with basic web design and "UX first" philosophy in mind, written in Go and Javascript.
-
-Panel is suited primarily for PHP websites, but nginx and httpd templates can be manually created and used within panel for serving any other web systems (Python, NodeJS, etc)
+It is created in an oldschool fashion with basic web design and "UX first" philosophy in mind.
 
 The panel was inspired by old Vesta control panel, when old version started to fade out.
 It does not mean that this is a rewrite of Vesta, it is a different panel with it's own implementation, made from scratch, at the same time, some features, configs and template formats are intentionally made similar, so people, who are used to working in Vesta, could feel at home using this panel too.  
 
+Panel is suited primarily for PHP websites, but nginx and httpd templates can be manually created and used within panel for serving any other web systems (Python, NodeJS, etc)
+
 It is still in the early developement and not recommended for production use, but is already working and can be used in a developement or other non-critical environments.
 
 ## Bug reports
-
 Main repository located at the [Gitlab](https://gitlab.com/qweec/qweec)  
-Please post any bug reports there: [Issues page](https://gitlab.com/qweec/qweec/-/issues)
+Please post any bug reports there: [Gitlab - Issues page](https://gitlab.com/qweec/qweec/-/issues)
+
+## Links
+Link to main site: [https://qweec.net/](https://qweec.net/)
+Link to CLI docs: [https://qweec.net/cli.html](https://qweec.net/cli.html)

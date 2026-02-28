@@ -7,7 +7,7 @@ After=syslog.target network-online.target
 Type=simple
 WorkingDirectory=/usr/local/qweec
 ExecStart=/usr/local/sbin/qweec
-ExecStop=/bin/sh -c "/bin/kill -s TERM $(/usr/bin/pgrep -x qweec)"
+ExecStop=/usr/bin/sh -c "/usr/bin/kill -s TERM $(/usr/bin/pgrep -x qweec)"
 User=root
 Group=root
 Restart=on-failure
@@ -16,4 +16,3 @@ KillMode=process
 
 [Install]
 WantedBy=multi-user.target
-

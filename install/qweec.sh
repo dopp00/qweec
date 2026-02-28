@@ -5,7 +5,7 @@
 
 # global across other files
 readonly QWEEC='/usr/local/qweec'
-readonly QWEECVER='0.5.0'
+readonly QWEECVER='0.5.1'
 
 # install 8.2 from remi repo by default
 PHPVER='8.2';
@@ -124,7 +124,7 @@ function software_essential_install() {
 
 function software_misc_install() {
     dnf install -y chrony flex freetype ftp goaccess ImageMagick ImageMagick-libs lsof libcap \
-    NetworkManager openssh-server openssh-clients pcre pcre2 publicsuffix-list qweec qweenstall \
+    NetworkManager openssh-server openssh-clients pcre pcre2 publicsuffix-list qweec-${QWEECVER} qweenstall-${QWEECVER} \
     rrdtool rsyslog screen sqlite tzdata;
 }
 
@@ -191,7 +191,7 @@ function software_firewall_install() {
 
 function software_podman_install() {
     if [ ! -z "$iscontainer" ]; then
-        dnf install -y podman dnsmasq;
+        dnf install -y podman podman-compose dnsmasq;
     fi
 }
 
@@ -222,10 +222,10 @@ function update_repos() {
     # nginx repo
     if [ ! -e "/etc/yum.repos.d/nginx.repo" ]; then
         # stable
-        local nlink="https://nginx.org/packages/rhel/${majver}/\$basearch/";
+        local nlink='https://nginx.org/packages/rhel/$releasever/$basearch/';
 
         # latest (requires dnf module disable nginx)
-        # local nlink="https://nginx.org/packages/mainline/rhel/${majver}/\$basearch/";
+        # local nlink='https://nginx.org/packages/mainline/rhel/$releasever/$basearch/';
         dnf module disable -y nginx
 
         local nrepo="/etc/yum.repos.d/nginx.repo";
@@ -235,8 +235,8 @@ function update_repos() {
     fi
 
     # qweec
-    curl -sL --insecure --retry 3 -o /etc/pki/rpm-gpg/RPM-GPG-KEY-qweec http://repo.qweec.net/rhel/qweec.rpm.gpg
-    local qlink='http://repo.qweec.net/rhel/9/x86_64/';
+    curl -sL --retry 3 -o /etc/pki/rpm-gpg/RPM-GPG-KEY-qweec http://repo.qweec.net/rhel/qweec.rpm.gpg
+    local qlink='http://repo.qweec.net/rhel/$releasever/$basearch/';
     local qrepo='/etc/yum.repos.d/qweec.repo';
     local qgkey='file:///etc/pki/rpm-gpg/RPM-GPG-KEY-qweec';
     printf "[qweec]\nname=Qweec - Almalinux, Rocky repo\nbaseurl=%s\nenabled=1\ngpgcheck=1\ngpgkey=%s\n" "$qlink" "$qgkey" > "$qrepo";
@@ -567,8 +567,10 @@ function user_group_exist_check() {
 function user_group_backup_and_delete() {
 
     local pre_inst_backup
-    pre_inst_backup="/root/qweec_preinstall_backup/$(date +"%Y-%m-%d-%H-%M")";
+    pre_inst_backup="/backup/preinstall_data/$(date +"%Y-%m-%d-%H-%M")";
     mkdir -p "$pre_inst_backup/home";
+    chown ${USER}:${USER} /backup/preinstall_data;
+    chmod 700 /backup/preinstall_data;
 
     # rocky dir
     if [ -e "/home/rocky" ]; then
@@ -610,9 +612,11 @@ function user_group_backup_and_delete() {
 function backup_existing_packages() {
 
     local pre_inst_backup
-    pre_inst_backup="/root/qweec_preinstall_backup/$(date +"%Y-%m-%d-%H-%M")";
+    pre_inst_backup="/backup/preinstall_data/$(date +"%Y-%m-%d-%H-%M")";
     warnmsg "backup directory: $pre_inst_backup";
     mkdir -p "$pre_inst_backup"
+    chown ${USER}:${USER} /backup/preinstall_data;
+    chmod 700 /backup/preinstall_data;
 
     systemctl stop nginx >/dev/null 2>&1
     rsync -a /etc/nginx "$pre_inst_backup/" >/dev/null 2>&1
@@ -826,7 +830,7 @@ if [ ! -z "$ismysql" ]; then
 
     # add dbhost
     infomsg "adding dbhost.."
-    /usr/local/bin/qweecli db-host-add localhost root "$mysql_pass" "$ismysql" "" ""
+    /usr/local/bin/qweecli db-host-add localhost root "$mysql_pass" "$ismysql" ""
 
     # phpmyadmin
     /usr/local/bin/qweenstall phpmyadmin-configure $ismysql;
@@ -887,8 +891,8 @@ hour=$(< /dev/urandom tr -dc '12345' | head -c 1);
 
 #############################################################
 
-infomsg "ip-update.."
-/usr/local/bin/qweecli ip-update
+infomsg "ips-rebuild.."
+/usr/local/bin/qweecli ips-rebuild
 
 infomsg "firewall init.."
 /usr/local/bin/qweecli firewall-rules-reset yes

@@ -1,7 +1,7 @@
 name: mariadb-11.4-podman
 services:
   mariadb-11.4:
-    image: mariadb:11.4
+    image: docker.io/library/mariadb:11.4
     container_name: mariadb-11.4
     restart: on-failure:4
     environment:
