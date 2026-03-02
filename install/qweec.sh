@@ -5,7 +5,7 @@
 
 # global across other files
 readonly QWEEC='/usr/local/qweec'
-readonly QWEECVER='0.5.1'
+readonly QWEECVER='0.5.2'
 
 # install 8.2 from remi repo by default
 PHPVER='8.2';
@@ -156,7 +156,7 @@ function software_db_install() {
     if [ "$ismysql" = 'mariadb' ]; then
         dnf install -y mariadb mariadb-server;
         # /usr/lib64/mariadb/plugin/caching_sha2_password.so
-	    dnf install -y mariadb-connector-c;
+	    # dnf install -y mariadb-connector-c;
     elif [ "$ismysql" = 'mysql' ]; then
         dnf install -y mysql mysql-server;
     fi

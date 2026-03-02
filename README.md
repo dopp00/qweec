@@ -44,6 +44,8 @@ bash <(curl -sL https://qweec.net/qweec.sh)
 
 </details>
 
+If older version is needed, specify version in the command above, for example: qweec-0.5.0.sh  
+
 <details>
 <summary>Installation with custom parameters. (Click for details)</summary>
 
@@ -136,8 +138,8 @@ It is still in the early developement and not recommended for production use, bu
 
 ## Bug reports
 Main repository located at the [Gitlab](https://gitlab.com/qweec/qweec)  
-Please post any bug reports there: [Gitlab - Issues page](https://gitlab.com/qweec/qweec/-/issues)
+Please post any bug reports there: [Gitlab - Issues page](https://gitlab.com/qweec/qweec/-/issues)  
 
 ## Links
-Link to main site: [https://qweec.net/](https://qweec.net/)
-Link to CLI docs: [https://qweec.net/cli.html](https://qweec.net/cli.html)
+Link to main site: [https://qweec.net/](https://qweec.net/)  
+Link to CLI docs: [https://qweec.net/cli.html](https://qweec.net/cli.html)  

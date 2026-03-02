@@ -1,5 +1,32 @@
 lang: en de fr ja it es ru uk
 
+en: 2FA
+de: 2FA
+fr: 2FA
+ja: 2FA
+it: 2FA
+es: 2FA
+ru: 2ФА
+uk: 2ФА
+
+en: 2FA key
+de: 2FA-Schlüssel
+fr: Clé 2FA
+ja: 2FAキー
+it: Chiave 2FA
+es: Clave 2FA
+ru: Ключ 2ФА
+uk: Ключ 2ФА
+
+en: 6-digit verification code
+de: 6-stelliger Bestätigungscode
+fr: Code de vérification à 6 chiffres
+ja: 6桁の認証コード
+it: Codice di verifica a 6 cifre
+es: Código de verificación de 6 dígitos
+ru: Шестизначный код проверки
+uk: Шестизначний код перевірки
+
 en: access log
 de: zugriffsprotokoll
 fr: journal d'accès
@@ -159,7 +186,7 @@ fr: Ajouter une adresse IP
 ja: IPアドレスを追加
 it: Aggiungi indirizzo IP
 es: Añadir dirección IP
-ru: Добавить IP адрес 
+ru: Добавить IP адрес
 uk: Додати IP адресу
 
 en: Add mail domain
@@ -367,7 +394,7 @@ ja: 引数
 it: argomento
 es: argumento
 ru: аргумент
-uk: аргумент 
+uk: аргумент
 
 en: authentication
 de: authentifizierung
@@ -702,6 +729,15 @@ es: Token API de usuario de Cloudflare
 ru: Cloudflare API токен пользователя
 uk: Cloudflare API токен користувача
 
+en: code
+de: code
+fr: code
+ja: コード
+it: codice
+es: código
+ru: код
+uk: код
+
 en: command
 de: befehl
 fr: commande
@@ -1014,7 +1050,7 @@ fr: quotidien
 ja: 毎日
 it: quotidiano
 es: diario
-ru: подневно 
+ru: подневно
 uk: подобово
 
 en: Database data directories
@@ -1221,7 +1257,7 @@ fr: Supprimer l'ip
 ja: IP削除
 it: Elimina ip
 es: Eliminar ip
-ru: Удалить ip 
+ru: Удалить ip
 uk: Видалити ip
 
 en: Delete FTP users
@@ -1295,6 +1331,15 @@ it: directory
 es: directorio
 ru: каталог
 uk: каталог
+
+en: Disable
+de: Deaktivieren
+fr: Désactiver
+ja: 無効にする
+it: Disabilita
+es: Desactivar
+ru: Выключить
+uk: Вимкнути
 
 en: disabled
 de: deaktiviert
@@ -1617,7 +1662,7 @@ fr: Modifier le domaine DNS
 ja: DNSドメイン編集
 it: Modificare dominio DNS
 es: Editar dominio DNS
-ru: Изменить DNS домен 
+ru: Изменить DNS домен
 uk: Змінити DNS домен
 
 en: Edit IP address
@@ -1655,6 +1700,15 @@ it: Modificare impostazioni di backup
 es: Editar configuración de copia de seguridad
 ru: Изменить настройки бекапа
 uk: Змінити налаштування бекапа
+
+en: Enable
+de: Aktivieren
+fr: Activer
+ja: 有効にする
+it: Abilitare
+es: Permitir
+ru: Включить
+uk: Увімкнути
 
 en: enabled
 de: aktiviert
@@ -2085,7 +2139,7 @@ fr: Certificat SSL du nom d'hôte
 ja: ホスト名SSL証明書
 it: Certificato SSL del nome host
 es: Certificado SSL del host
-ru: SSL сертификат хоста 
+ru: SSL сертификат хоста
 uk: SSL сертифікат хоста
 
 en: id
@@ -2349,6 +2403,15 @@ es: id de trabajo
 ru: идентификатор задачи
 uk: ідентифікатор завдання
 
+en: key
+de: schlüssel
+fr: clé
+ja: 鍵
+it: chiave
+es: llave
+ru: ключ
+uk: ключ
+
 en: key tag
 de: schlüssel-Tag
 fr: étiquette de clé
@@ -2438,6 +2501,15 @@ it: limiti
 es: límites
 ru: лимиты
 uk: ліміти
+
+en: Limits
+de: Grenzen
+fr: Limites
+ja: 限界
+it: Limiti
+es: Límites
+ru: Лимиты
+uk: Ліміти
 
 en: location
 de: standort
@@ -2895,8 +2967,8 @@ fr: Les éléments suivants sont sélectionnés
 ja: 次の項目が選択されています
 it: Gli articoli successivi sono selezionati
 es: Los siguientes elementos están seleccionados
-ru: Выбрано следующие элементы 
-uk: Обрано наступні елементи 
+ru: Выбрано следующие элементы
+uk: Обрано наступні елементи
 
 en: Next items will be modified
 de: Die nächsten Elemente werden geändert
@@ -3363,7 +3435,7 @@ fr: données de clé privée
 ja: 秘密鍵データ
 it: dati chiave privata
 es: datos clave privada
-ru: контент приватного ключа 
+ru: контент приватного ключа
 uk: контент приватного ключа
 
 en: Privileged db users
@@ -4042,6 +4114,15 @@ es: Guardar
 ru: Сохранить
 uk: Зберегти
 
+en: Scan the code using Google Authenticator, then enter the verification 6-digit code. Or use the key code below in text format, enter it in your Google Authenticator app. Make sure that your device and server show the same time, time difference should not be bigger than 1 minute.
+de: Scannen Sie den Code mit Google Authenticator und geben Sie dann den 6-stelligen Bestätigungscode ein. Oder verwenden Sie den untenstehenden Schlüsselcode im Textformat und geben Sie ihn in Ihre Google Authenticator-App ein. Stellen Sie sicher, dass Ihr Gerät und Ihr Server die gleiche Zeit anzeigen. Der Zeitunterschied sollte nicht größer als 1 Minute sein.
+fr: Scannez le code à l'aide de Google Authenticator, puis saisissez le code de vérification à 6 chiffres. Ou utilisez le code clé ci-dessous au format texte, saisissez-le dans votre application Google Authenticator. Assurez-vous que votre appareil et votre serveur affichent la même heure, le décalage horaire ne doit pas dépasser 1 minute.
+ja: Google Authenticator を使用してコードをスキャンし、6 桁の確認コードを入力します。または、以下のキー コードをテキスト形式で使用し、Google Authenticator アプリに入力します。デバイスとサーバーが同じ時間を表示していることを確認してください。時間差は 1 分を超えてはいけません。
+it: Scansiona il codice utilizzando Google Authenticator, quindi inserisci il codice di verifica a 6 cifre. Oppure utilizza il codice chiave riportato di seguito in formato testo e inseriscilo nell'app Google Authenticator. Assicurati che il tuo dispositivo e il server mostrino la stessa ora, la differenza oraria non dovrebbe essere maggiore di 1 minuto.
+es: Escanee el código usando Google Authenticator, luego ingrese el código de verificación de 6 dígitos. O use el código de clave a continuación en formato de texto, ingréselo en su aplicación Google Authenticator. Asegúrese de que su dispositivo y servidor muestren la misma hora, la diferencia horaria no debe ser mayor a 1 minuto.
+ru: Отсканируйте код с помощью Google Authenticator, затем введите проверочный 6-значный код. Или используйте приведенный ниже код ключа в текстовом формате и введите его в приложение Google Authenticator. Убедитесь, что ваше устройство и сервер показывают одинаковое время, разница во времени не должна превышать 1 минуты.
+uk: Відскануйте код за допомогою Google Authenticator, а потім введіть 6-значний код підтвердження. Або скористайтеся наведеним нижче кодом ключа в текстовому форматі та введіть його у програмі Google Authenticator. Переконайтеся, що ваш пристрій і сервер показують однаковий час, різниця в часі не повинна перевищувати 1 хвилини.
+
 en: search
 de: suchen
 fr: rechercher
@@ -4372,7 +4453,7 @@ fr: cible
 ja: ターゲット
 it: obiettivo
 es: objetivo
-ru: цель 
+ru: цель
 uk: ціль
 
 en: Target
@@ -4381,7 +4462,7 @@ fr: Cible
 ja: ターゲット
 it: Obiettivo
 es: Objetivo
-ru: Цель 
+ru: Цель
 uk: Ціль
 
 en: task
@@ -4491,6 +4572,15 @@ it: totale
 es: total
 ru: всего
 uk: всього
+
+en: Two-factor authentication
+de: Zwei-Faktor-Authentifizierung
+fr: Authentification à deux facteurs
+ja: 二要素認証
+it: Autenticazione a due fattori
+es: Autenticación de dos factores
+ru: Двухфакторная аутентификация
+uk: Двофакторна аутентифікація
 
 en: type
 de: typ
@@ -4651,7 +4741,7 @@ fr: jeton utilisateur
 ja: ユーザートークン
 it: token utente
 es: token de usuario
-ru: токен пользователя 
+ru: токен пользователя
 uk: токен користувача
 
 en: User disk space
@@ -4660,7 +4750,7 @@ fr: Espace disque utilisateur
 ja: ユーザーのディスク容量
 it: Spazio su disco utente
 es: Espacio en disco del usuario
-ru: Место пользователя на диске 
+ru: Место пользователя на диске
 uk: Місце користувача на диску
 
 en: User events
@@ -4732,7 +4822,7 @@ fr: Variables
 ja: 変数
 it: Variabili
 es: Variables
-ru: Переменные 
+ru: Переменные
 uk: Змінні
 
 en: version
@@ -4867,7 +4957,7 @@ fr: poids
 ja: 重量
 it: peso
 es: peso
-ru: вес 
+ru: вес
 uk: вага
 
 en: Weight
@@ -4876,7 +4966,7 @@ fr: Poids
 ja: 重量
 it: Peso
 es: Peso
-ru: Вес 
+ru: Вес
 uk: Вага
 
 en: West
