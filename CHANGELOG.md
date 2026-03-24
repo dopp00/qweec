@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.6.0] - 2026-03-03
+## [0.6.0] - 2026-03-24
 
 - ordinary users can use cli  
 - improvement for cli messages on error  
