@@ -1062,6 +1062,15 @@ es: Directorios de datos de la base de datos
 ru: Папки файлов баз данных
 uk: Папки файлів баз даних
 
+en: database user
+de: datenbankbenutzer
+fr: utilisateur de base de données
+ja: データベースユーザー
+it: utente del database
+es: usuario de la base de datos
+ru: пользователь базы данных
+uk: користувач бази даних
+
 en: date
 de: datum
 fr: date
@@ -1277,15 +1286,6 @@ it: Elimina utenti
 es: Eliminar usuarios
 ru: Удаление пользователей
 uk: Видалення користувачів
-
-en: Delete database user
-de: Datenbankbenutzer löschen
-fr: Supprimer l'utilisateur de la base de données
-ja: データベースユーザーを削除
-it: Elimina utente database
-es: Eliminar usuario de base de datos
-ru: Удалить пользователя базы данных
-uk: Видалити користувача бази даних
 
 en: digest
 de: digest
@@ -1735,7 +1735,17 @@ ja: 確立された接続
 it: connessioni stabilite
 es: conexiones establecidas
 ru: установленные соединения
-uk: встанолены з'эднання
+uk: встанолені з'єднання
+
+en: executor
+de: testamentsvollstrecker
+fr: exécuteur
+ja: 執行者
+it: esecutore
+es: ejecutor
+ru: исполнитель
+uk: виконавець
+
 
 en: Exim queue size
 de: Exim-Warteschlangen-Größe
@@ -4132,6 +4142,15 @@ es: buscar
 ru: поиск
 uk: пошук
 
+en: Search
+de: Suchen
+fr: Rechercher
+ja: 検索
+it: Cerca
+es: Buscar
+ru: Поиск
+uk: Пошук
+
 en: Search banned ip
 de: Gesperrte IP suchen
 fr: Rechercher IP bannie
@@ -4149,6 +4168,15 @@ it: Cerca ip
 es: Buscar ip
 ru: Искать ip
 uk: Шукати ip
+
+en: Select all
+de: Alle auswählen
+fr: Tout sélectionner
+ja: すべて選択
+it: Seleziona tutto
+es: Seleccionar todo
+ru: Выбрать все
+uk: Вибрати усі
 
 en: select only one row for this action
 de: wählen sie nur eine zeile für diese Aktion aus

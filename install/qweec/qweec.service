@@ -1,7 +1,7 @@
 [Unit]
 Description=qweec control panel
 Wants=network.target
-After=syslog.target network-online.target
+After=syslog.target network-online.target iptables.service nftables.service
 
 [Service]
 Type=simple

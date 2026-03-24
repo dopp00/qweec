@@ -5,7 +5,7 @@
 
 # global across other files
 readonly QWEEC='/usr/local/qweec'
-readonly QWEECVER='0.5.2'
+readonly QWEECVER='0.6.0'
 
 # install 8.2 from remi repo by default
 PHPVER='8.2';
@@ -830,7 +830,7 @@ if [ ! -z "$ismysql" ]; then
 
     # add dbhost
     infomsg "adding dbhost.."
-    /usr/local/bin/qweecli db-host-add localhost root "$mysql_pass" "$ismysql" ""
+    /usr/local/bin/qweecli dbhost-add localhost root "$mysql_pass" "$ismysql" ""
 
     # phpmyadmin
     /usr/local/bin/qweenstall phpmyadmin-configure $ismysql;
@@ -875,7 +875,7 @@ cat << EOF > /etc/sudoers.d/admin
 Defaults:root !requiretty
 Defaults:admin !requiretty
 Defaults:admin !syslog
-admin ALL=NOPASSWD:/usr/local/bin/qweecli,NOPASSWD:/usr/local/bin/qweerrd
+admin ALL=NOPASSWD:/usr/local/bin/qweerrd
 EOF
 chmod 440 /etc/sudoers.d/admin
 
@@ -884,10 +884,10 @@ infomsg "adding cron jobs.."
 # randomize backup creation time between 1:00-6:55
 min=$(< /dev/urandom tr -dc '012345' | head -c 2);
 hour=$(< /dev/urandom tr -dc '12345' | head -c 1);
-/usr/local/bin/qweecli cron-add 'admin' "$min" "$hour" '*' '*' '*' 'sudo /usr/local/bin/qweecli --bg users-backup-add' ''
-/usr/local/bin/qweecli cron-add 'admin' '00' '00' '*' '*' '*' 'sudo /usr/local/bin/qweecli --bg users-stats-update disk,traffic' ''
-/usr/local/bin/qweecli cron-add 'admin' '00' '*/12' '*' '*' '*' 'sudo /usr/local/bin/qweecli --bg ssl-le-update' ''
-/usr/local/bin/qweecli cron-add 'admin' '*/5' '*' '*' '*' '*' 'sudo /usr/local/bin/qweerrd' 'yes'
+/usr/local/bin/qweecli cron-add 'admin' "$min" "$hour" '*' '*' '*' '/usr/local/bin/qweecli --bg users-backup-add' ''
+/usr/local/bin/qweecli cron-add 'admin' '00' '00' '*' '*' '*' '/usr/local/bin/qweecli --bg users-stats-update disk,traffic' ''
+/usr/local/bin/qweecli cron-add 'admin' '00' '*/12' '*' '*' '*' '/usr/local/bin/qweecli --bg ssl-le-update' ''
+/usr/local/bin/qweecli cron-add 'admin' '*/5' '*' '*' '*' '*' ' sudo /usr/local/bin/qweerrd' 'yes'
 
 #############################################################
 
