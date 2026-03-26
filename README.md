@@ -141,5 +141,5 @@ Main repository located at the [Gitlab](https://gitlab.com/qweec/qweec)
 Please post any bug reports there: [Gitlab - Issues page](https://gitlab.com/qweec/qweec/-/issues)  
 
 ## Links
-Link to main site: [https://qweec.net/](https://qweec.net/)  
-Link to CLI docs: [https://qweec.net/cli.html](https://qweec.net/cli.html)
+Main site: [https://qweec.net/](https://qweec.net/)  
+CLI docs: [https://qweec.net/cli.html](https://qweec.net/cli.html)

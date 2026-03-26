@@ -5,7 +5,7 @@
 
 # global across other files
 readonly QWEEC='/usr/local/qweec'
-readonly QWEECVER='0.6.0'
+readonly QWEECVER='0.6.1'
 
 # install 8.2 from remi repo by default
 PHPVER='8.2';

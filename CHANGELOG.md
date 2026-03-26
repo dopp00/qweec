@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.6.1] - 2026-03-26
+
+- set restrictions for suspended users in web interface 
+
 ## [0.6.0] - 2026-03-24
 
 - ordinary users can use cli  
