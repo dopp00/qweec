@@ -5,7 +5,7 @@
 
 # global across other files
 readonly QWEEC='/usr/local/qweec'
-readonly QWEECVER='0.6.1'
+readonly QWEECVER='0.6.2'
 
 # install 8.2 from remi repo by default
 PHPVER='8.2';
@@ -191,7 +191,8 @@ function software_firewall_install() {
 
 function software_podman_install() {
     if [ ! -z "$iscontainer" ]; then
-        dnf install -y podman podman-compose dnsmasq;
+        # dnsmasq might be needed for rootless
+        dnf install -y podman podman-compose;
     fi
 }
 

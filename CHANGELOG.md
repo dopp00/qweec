@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.2] - 2026-03-31
+
+- improved user-backup-restore function
+- fixed bug with notification icon, introduced in 0.6.0
+
 ## [0.6.1] - 2026-03-26
 
 - set restrictions for suspended users in web interface 

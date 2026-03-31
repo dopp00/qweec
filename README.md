@@ -44,7 +44,7 @@ bash <(curl -sL https://qweec.net/qweec.sh)
 
 </details>
 
-If older version is needed, specify version in the command above, for example: qweec-0.5.2.sh  
+If older version is needed, specify version in the command above, for example: qweec-0.6.2.sh  
 
 <details>
 <summary>Installation with custom parameters. (Click for details)</summary>
