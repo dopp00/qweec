@@ -1,4 +1,4 @@
-# name: mariadb-10.11-podman
+name: mariadb-10.11-podman
 services:
   mariadb-10.11:
     image: docker.io/library/mariadb:10.11

@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.6.3] - 2026-04-02
+
+- fixed bug with images not showing on monitoring page, introduced in 0.6.2
+- --version argument for checking the version, --help to see a list of commands 
+
 ## [0.6.2] - 2026-03-31
 
 - improved user-backup-restore function
