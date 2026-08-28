@@ -1,28 +1,19 @@
-<VirtualHost %httpd_listen4_ssl% %httpd_listen6_ssl%>
+<VirtualHost %httpd_listen4% %httpd_listen6%>
     ServerName %domain_idn% %httpd_aliases%
     #SuexecUserGroup %user% %group%
-    DirectoryIndex index.php index.html
-    ScriptAlias /cgi-bin/ %home%/%user%/cgi-bin/%domain_idn%
+    DirectoryIndex index.html
 
     DocumentRoot %docroot%
     <Directory %docroot%>
         AllowOverride All
-        Options +Includes -Indexes +ExecCGI
-        SSLRequireSSL
+        Options +Includes -Indexes -ExecCGI
         <Files ".user.ini">
             Require all denied
         </Files>
     </Directory>
 
-    <FilesMatch \.php$>
-        SetHandler "proxy:%backendlistener%|fcgi://localhost"
-    </FilesMatch>
-    SetEnvIf Authorization .+ HTTP_AUTHORIZATION=$0
-
-    SSLEngine on
-    SSLVerifyClient none
-    SSLCertificateFile %ssl_pem%
-    SSLCertificateKeyFile %ssl_key%
+    RewriteEngine On
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L,NE]
 
     Alias /errorpage/ /usr/local/qweec/web/public/errorpage/
     ErrorLog %error_log%

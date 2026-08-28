@@ -1,4 +1,4 @@
-<VirtualHost %httpd_ssl_listen4% %httpd_ssl_listen6%>
+<VirtualHost %httpd_listen4_ssl% %httpd_listen6_ssl%>
     ServerName %domain_idn% %httpd_aliases%
     #SuexecUserGroup %user% %group%
     DirectoryIndex index.html

@@ -1,4 +1,4 @@
-<VirtualHost %httpd_ip%:%httpd_ssl_port%>
+<VirtualHost %httpd_ip%:%httpd_port_ssl%>
     ServerName %domain_idn%
     DirectoryIndex index.html
 

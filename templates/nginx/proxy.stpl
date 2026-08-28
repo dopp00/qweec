@@ -1,13 +1,17 @@
 server {
-    %nginx_ssl_listen4%
-    %nginx_ssl_listen6%
+    %nginx_listen4_quic%
+    %nginx_listen6_quic%
+    %nginx_listen4_ssl%
+    %nginx_listen6_ssl%
     %http2%
+    %http3%
     server_name %domain_idn% %nginx_aliases%;
     ssl_certificate     %ssl_pem%;
     ssl_certificate_key %ssl_key%;
 
     location / {
-        proxy_pass https://%httpd_ip%:%httpd_ssl_port%;
+        %http3_header%
+        proxy_pass https://%httpd_ip%:%httpd_port_ssl%;
         proxy_hide_header Upgrade;
 
         location ~* ^.+\.(%nginx_extentions%)$ {
@@ -20,7 +24,7 @@ server {
     }
 
     location @fallback {
-        proxy_pass https://%httpd_ip%:%httpd_ssl_port%;
+        proxy_pass https://%httpd_ip%:%httpd_port_ssl%;
         proxy_hide_header Upgrade;
     }
 
@@ -30,9 +34,8 @@ server {
     }
 
     error_log %error_log% error;
-    
+
     include /etc/nginx/conf.d/letsencrypt.inc;
     include /etc/nginx/includes/%user%/%domain_idn%.conf_*;
 
 }
-

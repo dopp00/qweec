@@ -1,19 +1,24 @@
 [Unit]
 Description=qweec control panel
 Wants=network.target
-After=syslog.target network-online.target
+After=syslog.target network-online.target iptables.service nftables.service
 
 [Service]
 Type=simple
 WorkingDirectory=/usr/local/qweec
 ExecStart=/usr/local/sbin/qweec
-ExecStop=/bin/sh -c "/bin/kill -s TERM $(/usr/bin/pgrep -x qweec)"
+# ExecStop=/bin/sh -c "/bin/kill -s TERM $(/usr/bin/pgrep -x qweec)"
+# ExecStop=/usr/local/bin/qweecli --bg exit
+ExecStop=/usr/bin/sh -c "/usr/bin/kill -s TERM $MAINPID"
 User=root
 Group=root
+OOMPolicy=continue
 Restart=on-failure
 RestartSec=10
-KillMode=process
+KillSignal=SIGTERM
+KillMode=control-group
+TimeoutStopSec=300s
+FinalKillSignal=SIGKILL
 
 [Install]
 WantedBy=multi-user.target
-

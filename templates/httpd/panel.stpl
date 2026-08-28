@@ -1,28 +1,38 @@
 <VirtualHost %httpd_listen4_ssl% %httpd_listen6_ssl%>
     ServerName %domain_idn% %httpd_aliases%
     #SuexecUserGroup %user% %group%
-    DirectoryIndex index.php index.html
-    ScriptAlias /cgi-bin/ %home%/%user%/cgi-bin/%domain_idn%
+    DirectoryIndex index.html
 
     DocumentRoot %docroot%
     <Directory %docroot%>
         AllowOverride All
-        Options +Includes -Indexes +ExecCGI
+        Options +Includes -Indexes -ExecCGI
         SSLRequireSSL
         <Files ".user.ini">
             Require all denied
         </Files>
     </Directory>
 
-    <FilesMatch \.php$>
-        SetHandler "proxy:%backendlistener%|fcgi://localhost"
-    </FilesMatch>
-    SetEnvIf Authorization .+ HTTP_AUTHORIZATION=$0
-
     SSLEngine on
     SSLVerifyClient none
     SSLCertificateFile %ssl_pem%
     SSLCertificateKeyFile %ssl_key%
+
+    SSLProxyEngine    On
+    SSLProxyVerify none
+    SSLProxyCheckPeerName off
+    SSLProxyCheckPeerCN off
+    SSLProxyCheckPeerExpire off
+
+    ProxyPreserveHost On
+    ProxyPass         / https://localhost:%panel_port_ssl%/
+    ProxyPassReverse  / https://localhost:%panel_port_ssl%/
+
+    RequestHeader set X-Real-IP %{REMOTE_ADDR}s
+    RequestHeader set X-Forwarded-For %{REMOTE_ADDR}s
+    RequestHeader set X-Forwarded-Proto %{REQUEST_SCHEME}s
+    RequestHeader set X-Forwarded-Host %{HTTP_HOST}s
+    RequestHeader set X-Forwarded-Port %{SERVER_PORT}s
 
     Alias /errorpage/ /usr/local/qweec/web/public/errorpage/
     ErrorLog %error_log%
@@ -32,4 +42,7 @@
     IncludeOptional /etc/httpd/conf.d/letsencrypt.inc
     IncludeOptional /etc/httpd/includes/%user%/%domain_idn%.conf_*
 </VirtualHost>
+
+
+
 

@@ -1,9 +1,9 @@
 name: mysql-5.7-podman
 services:
   mysql-5.7:
-    image: mysql:5.7
+    image: docker.io/library/mysql:5.7
     container_name: mysql-5.7
-    restart: on-failure:4
+    restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: "%superuser_password%"
     ports:

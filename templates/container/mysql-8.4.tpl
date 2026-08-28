@@ -1,9 +1,9 @@
 name: mysql-8.4-podman
 services:
   mysql-8.4:
-    image: mysql:8.4
+    image: docker.io/library/mysql:8.4
     container_name: mysql-8.4
-    restart: on-failure:4
+    restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: "%superuser_password%"
     ports:

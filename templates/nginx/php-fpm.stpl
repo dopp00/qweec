@@ -1,7 +1,10 @@
 server {
-    %nginx_ssl_listen4%
-    %nginx_ssl_listen6%
+    %nginx_listen4_quic%
+    %nginx_listen6_quic%
+    %nginx_listen4_ssl%
+    %nginx_listen6_ssl%
     %http2%
+    %http3%
     server_name %domain_idn% %nginx_aliases%;
     index       index.php index.html;
     root        %docroot%;
@@ -13,6 +16,7 @@ server {
     if ($anti_replay = 425) { return 425; }
 
     location / {
+        %http3_header%
         location ~* ^.+\.(%nginx_extentions%)$ {
             expires max;
             fastcgi_hide_header "Set-Cookie";
@@ -41,7 +45,7 @@ server {
     error_log  %error_log% error;
     access_log %access_log% combined;
     access_log %bytes_log% bytes;
-    
+
     include /etc/nginx/conf.d/letsencrypt.inc;
     include /etc/nginx/includes/%user%/%domain_idn%.conf_*;
 

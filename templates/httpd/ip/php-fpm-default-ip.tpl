@@ -1,7 +1,7 @@
-%listen_addresses%
+%httpd_listen_addresses%
 
 <VirtualHost %httpd_ip%:%httpd_port%>
-    #ServerName %httpd_ip%
+    ServerName %domain_idn%
     #SuexecUserGroup %rgroups% %rgroups%
     DirectoryIndex index.php index.html
 
@@ -21,8 +21,8 @@
     IncludeOptional /etc/httpd/fm/*.inc
 </VirtualHost>
 
-<VirtualHost %httpd_ip%:%httpd_ssl_port%>
-    #ServerName %httpd_ip%
+<VirtualHost %httpd_ip%:%httpd_port_ssl%>
+    ServerName %domain_idn%
     #SuexecUserGroup %rgroups% %rgroups%
     DirectoryIndex index.php index.html
 
@@ -42,10 +42,8 @@
     SSLVerifyClient none
     SSLCertificateFile %ssl_pem%
     SSLCertificateKeyFile %ssl_key%
-    
+
     IncludeOptional /etc/httpd/conf.d/phpmyadmin52.inc
     IncludeOptional /etc/httpd/conf.d/roundcube16.inc
     IncludeOptional /etc/httpd/fm/*.inc
 </VirtualHost>
-
-

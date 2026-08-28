@@ -25,11 +25,13 @@ server {
 }
 
 server {
-    listen %nginx_ip%:%nginx_ssl_port% ssl default_server;
+    %nginx_listen4_quic_reuseport_default%
+    %nginx_listen6_quic_reuseport_default%
+    listen %nginx_ip%:%nginx_port_ssl% ssl default_server;
     server_name _;
     ssl_certificate     %ssl_pem%;
     ssl_certificate_key %ssl_key%;
-    
+
     root /usr/local/qweec/web/public;
     index index.php index.html;
 

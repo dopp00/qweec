@@ -1,5 +1,41 @@
 lang: en de fr ja it es ru uk
 
+en: 2FA
+de: 2FA
+fr: 2FA
+ja: 2FA
+it: 2FA
+es: 2FA
+ru: 2ФА
+uk: 2ФА
+
+en: 2FA key
+de: 2FA-Schlüssel
+fr: Clé 2FA
+ja: 2FAキー
+it: Chiave 2FA
+es: Clave 2FA
+ru: Ключ 2ФА
+uk: Ключ 2ФА
+
+en: 6-digit verification code
+de: 6-stelliger Bestätigungscode
+fr: Code de vérification à 6 chiffres
+ja: 6桁の認証コード
+it: Codice di verifica a 6 cifre
+es: Código de verificación de 6 dígitos
+ru: Шестизначный код проверки
+uk: Шестизначний код перевірки
+
+en: access
+de: zugang
+fr: accéder
+ja: アクセス
+it: accesso
+es: acceso
+ru: доступ
+uk: доступ
+
 en: access log
 de: zugriffsprotokoll
 fr: journal d'accès
@@ -159,7 +195,7 @@ fr: Ajouter une adresse IP
 ja: IPアドレスを追加
 it: Aggiungi indirizzo IP
 es: Añadir dirección IP
-ru: Добавить IP адрес 
+ru: Добавить IP адрес
 uk: Додати IP адресу
 
 en: Add mail domain
@@ -333,15 +369,6 @@ es: Antivirus
 ru: Антивирус
 uk: Антивірус
 
-en: A or AAAA record will be updated
-de: A oder AAAA-Eintrag wird aktualisiert
-fr: L'enregistrement A ou AAAA sera mis à jour
-ja: AまたはAAAAレコードが更新されます
-it: Il record A o AAAA sarà aggiornato
-es: El registro A o AAAA se actualizará
-ru: A или AAAA запись будет создано
-uk: A або AAAA запис буде створено
-
 en: Apply
 de: Anwenden
 fr: Appliquer
@@ -367,7 +394,7 @@ ja: 引数
 it: argomento
 es: argumento
 ru: аргумент
-uk: аргумент 
+uk: аргумент
 
 en: authentication
 de: authentifizierung
@@ -443,7 +470,7 @@ uk: Шаблон бекенду
 
 en: Background tasks
 de: Hintergrundaufgaben
-fr: tâches en arrière-plan
+fr: Tâches en arrière-plan
 ja: バックグラウンドタスク
 it: Attività in background
 es: Tareas en segundo plano
@@ -521,15 +548,6 @@ it: Posizione del backup
 es: Ubicación de la copia de seguridad
 ru: Расположение бекапа
 uk: Розташування бекапа
-
-en: backup will be restored, current data will be deleted or replaced!
-de: backup wird wiederhergestellt, aktuelle daten werden gelöscht oder ersetzt!
-fr: la sauvegarde sera restaurée, les données actuelles seront supprimées ou remplacées!
-ja: バックアップが復元され、現在のデータは削除または置き換えられます！
-it: il backup sarà ripristinato, i dati correnti saranno eliminati o sostituiti!
-es: ¡La copia de seguridad se restaurará, los datos actuales serán eliminados o reemplazados!
-ru: резервная копия будет восстановлена, текущие данные будут удалены или заменены!
-uk: резервна копія буде відновлена, поточні дані будуть видалені або замінені!
 
 en: bandwidth
 de: bandbreite
@@ -702,6 +720,15 @@ es: Token API de usuario de Cloudflare
 ru: Cloudflare API токен пользователя
 uk: Cloudflare API токен користувача
 
+en: code
+de: code
+fr: code
+ja: コード
+it: codice
+es: código
+ru: код
+uk: код
+
 en: command
 de: befehl
 fr: commande
@@ -765,6 +792,15 @@ es: Confirmar la eliminación de las reglas y la restauración a los valores pre
 ru: Подтвердите удаление правил и сброс до значений по умолчанию
 uk: Підтвердіть видалення правил та встановлення значень за замовчуванням
 
+en: Confirm saving template with name
+de: Vorlage mit Namen speichern bestätigen
+fr: Confirmer l'enregistrement du modèle avec le nom
+ja: 名前付きテンプレートの保存を確認する
+it: Conferma il salvataggio del modello con il nome
+es: Confirme que la plantilla se guarde con el nombre
+ru: Подтвердите сохранение шаблона с указанием имени.
+uk: Підтвердити збереження шаблону з назвою
+
 en: connected
 de: verbunden
 fr: connecté
@@ -818,6 +854,15 @@ it: Email di contatto
 es: Correo electrónico de contacto
 ru: Контактный email
 uk: Контактний email
+
+en: Containerization
+de: Containerisierung
+fr: Conteneurisation
+ja: コンテナ化
+it: Containerizzazione
+es: Contenerización
+ru: Контейнеризация
+uk: Контейнеризація
 
 en: container template
 de: container-vorlage
@@ -908,6 +953,15 @@ it: corrente
 es: actual
 ru: текущий
 uk: поточний
+
+en: Current data will be deleted and replaced by data from backup!
+de: Die aktuellen Daten werden gelöscht und durch Daten aus der Datensicherung ersetzt!
+fr: Les données actuelles seront supprimées et remplacées par les données de la sauvegarde !
+ja: 現在のデータは削除され、バックアップデータに置き換えられます。
+it: I dati correnti verranno eliminati e sostituiti con i dati del backup!
+es: Los datos actuales se eliminarán y se reemplazarán con los datos de la copia de seguridad.
+ru: Текущие данные будут удалены и заменены данными из резервной копии!
+uk: Поточні дані будуть видалені та замінені даними з резервної копії!
 
 en: custom
 de: benutzerdefiniert
@@ -1014,7 +1068,7 @@ fr: quotidien
 ja: 毎日
 it: quotidiano
 es: diario
-ru: подневно 
+ru: подневно
 uk: подобово
 
 en: Database data directories
@@ -1025,6 +1079,15 @@ it: Directory dei dati del database
 es: Directorios de datos de la base de datos
 ru: Папки файлов баз данных
 uk: Папки файлів баз даних
+
+en: database user
+de: datenbankbenutzer
+fr: utilisateur de base de données
+ja: データベースユーザー
+it: utente del database
+es: usuario de la base de datos
+ru: пользователь базы данных
+uk: користувач бази даних
 
 en: date
 de: datum
@@ -1188,14 +1251,14 @@ es: eliminar directorios de datos montados
 ru: удалить примонтированные папки с данными
 uk: видалити примонтовані папки з даними
 
-en: delete site directories
+en: Delete site directories
 de: Website-Verzeichnisse löschen
-fr: supprimer les répertoires de site
+fr: Supprimer les répertoires de site
 ja: サイトディレクトリを削除
-it: elimina le directory del sito
-es: eliminar directorios del sitio
-ru: удалить папки сайтов
-uk: видалити папки сайтів
+it: Elimina le directory del sito
+es: Eliminar directorios del sitio
+ru: Удалить папки сайтов
+uk: Видалити папки сайтів
 
 en: Delete
 de: Löschen
@@ -1221,7 +1284,7 @@ fr: Supprimer l'ip
 ja: IP削除
 it: Elimina ip
 es: Eliminar ip
-ru: Удалить ip 
+ru: Удалить ip
 uk: Видалити ip
 
 en: Delete FTP users
@@ -1241,15 +1304,6 @@ it: Elimina utenti
 es: Eliminar usuarios
 ru: Удаление пользователей
 uk: Видалення користувачів
-
-en: Delete database user
-de: Datenbankbenutzer löschen
-fr: Supprimer l'utilisateur de la base de données
-ja: データベースユーザーを削除
-it: Elimina utente database
-es: Eliminar usuario de base de datos
-ru: Удалить пользователя базы данных
-uk: Видалити користувача бази даних
 
 en: digest
 de: digest
@@ -1295,6 +1349,15 @@ it: directory
 es: directorio
 ru: каталог
 uk: каталог
+
+en: Disable
+de: Deaktivieren
+fr: Désactiver
+ja: 無効にする
+it: Disabilita
+es: Desactivar
+ru: Выключить
+uk: Вимкнути
 
 en: disabled
 de: deaktiviert
@@ -1393,7 +1456,7 @@ ja: dnsプロバイダーが接続されていません
 it: il provider dns non è connesso
 es: el proveedor dns no está conectado
 ru: dns провайдер подключён
-uk: dns провайдер подключений
+uk: dns провайдер підключений
 
 en: domain
 de: domain
@@ -1440,15 +1503,6 @@ es: nombre de dominio o email
 ru: доменное имя или email
 uk: доменне ім'я або email
 
-en: domain, A or AAAA record will be created
-de: domain, A oder AAAA record wird erstellt
-fr: un domaine, un enregistrement A ou AAAA sera créé
-ja: ドメイン、AまたはAAAAレコードが作成されます
-it: dominio, verrà creato un record A o AAAA
-es: dominio, se creará un registro A o AAAA
-ru: домен, A или AAAA запись будет создано
-uk: домен, A або AAAA запис буде створено
-
 en: domains
 de: domains
 fr: domaines
@@ -1475,6 +1529,15 @@ it: Dona
 es: Donar
 ru: Донат
 uk: Донат
+
+en: done
+de: erledigt
+fr: fait
+ja: 終わり
+it: fatto
+es: hecho
+ru: сделанный
+uk: зроблено
 
 en: do not store local emails
 de: speichere keine lokalen e-mails
@@ -1617,7 +1680,7 @@ fr: Modifier le domaine DNS
 ja: DNSドメイン編集
 it: Modificare dominio DNS
 es: Editar dominio DNS
-ru: Изменить DNS домен 
+ru: Изменить DNS домен
 uk: Змінити DNS домен
 
 en: Edit IP address
@@ -1656,6 +1719,15 @@ es: Editar configuración de copia de seguridad
 ru: Изменить настройки бекапа
 uk: Змінити налаштування бекапа
 
+en: Enable
+de: Aktivieren
+fr: Activer
+ja: 有効にする
+it: Abilitare
+es: Permitir
+ru: Включить
+uk: Увімкнути
+
 en: enabled
 de: aktiviert
 fr: activé
@@ -1681,7 +1753,16 @@ ja: 確立された接続
 it: connessioni stabilite
 es: conexiones establecidas
 ru: установленные соединения
-uk: встанолены з'эднання
+uk: встанолені з'єднання
+
+en: executor
+de: testamentsvollstrecker
+fr: exécuteur
+ja: 執行者
+it: esecutore
+es: ejecutor
+ru: исполнитель
+uk: виконавець
 
 en: Exim queue size
 de: Exim-Warteschlangen-Größe
@@ -1727,6 +1808,15 @@ it: data di scadenza
 es: fecha de expiración
 ru: дата окончания
 uk: дата закінчення
+
+en: explanation
+de: erläuterung
+fr: explication
+ja: 説明
+it: spiegazione
+es: explicación
+ru: объяснение
+uk: пояснення
 
 en: Export
 de: Exportieren
@@ -2085,7 +2175,7 @@ fr: Certificat SSL du nom d'hôte
 ja: ホスト名SSL証明書
 it: Certificato SSL del nome host
 es: Certificado SSL del host
-ru: SSL сертификат хоста 
+ru: SSL сертификат хоста
 uk: SSL сертифікат хоста
 
 en: id
@@ -2106,6 +2196,33 @@ es: ¡si se selecciona para DBMS en contenedor, se eliminarán todos los volúme
 ru: если выбрано для СУБД в контейнере, все разделы и папки с данными на диске будут удалены!
 uk: якщо обрано для СУБД в контейнері, всі розділи і папки з даними на диску будуть видалені!
 
+en: If databases in containers exist, they might get deleted, backup first!
+de: Falls Datenbanken in Containern existieren, könnten sie gelöscht werden – daher vorher unbedingt ein Backup erstellen!
+fr: Si des bases de données existent dans des conteneurs, elles risquent d'être supprimées ; pensez à les sauvegarder au préalable !
+ja: コンテナ内にデータベースが存在する場合、削除される可能性があるため、事前にバックアップを取ってください。
+it: Se all'interno dei container sono presenti database, potrebbero essere eliminati; esegui prima un backup!
+es: Si existen bases de datos en contenedores, podrían eliminarse; ¡haga una copia de seguridad primero!
+ru: Если базы данных находятся в контейнерах, они могут быть удалены, поэтому сначала сделайте резервную копию!
+uk: Якщо бази даних існують у контейнерах, їх можуть видалити, спочатку зробіть резервну копію!
+
+en: If template file already exists, it will be overwritten!
+de: Falls die Vorlagendatei bereits existiert, wird sie überschrieben!
+fr: Si le fichier modèle existe déjà, il sera écrasé !
+ja: テンプレートファイルが既に存在する場合は、上書きされます。
+it: Se il file modello esiste già, verrà sovrascritto!
+es: Si el archivo de plantilla ya existe, ¡se sobrescribirá!
+ru: Если файл шаблона уже существует, он будет перезаписан!
+uk: Якщо файл шаблону вже існує, він буде перезаписаний!
+
+en: If to will continue, current changes will be discarded
+de: Sollte dies so fortgesetzt werden, werden die aktuellen Änderungen verworfen
+fr: Si la réforme se poursuit, les modifications actuelles seront abandonnées
+ja: 継続する場合、現在の変更は破棄されます。
+it: Se si continuerà, le modifiche attuali verranno scartate
+es: Si se continúa así, los cambios actuales serán descartados
+ru: Если продолжить, текущие изменения будут отменены
+uk: Якщо продовжити, поточні зміни будуть скасовані
+
 en: Import
 de: Importieren
 fr: Importer
@@ -2123,6 +2240,15 @@ it: Importa configurazione
 es: Importar configuración
 ru: Импорт конфигурации
 uk: Імпорт конфігурації
+
+en: Imported file should not be a tar archive, but a single user profile conf file
+de: Die importierte Datei sollte kein TAR-Archiv sein, sondern eine einzelne Benutzerprofil-Conf-Datei
+fr: Le fichier importé ne doit pas être une archive tar, mais un fichier de configuration de profil utilisateur unique
+ja: Die importierte Datei sollte kein TAR-Archiv sein, sondern eine einzelne Benutzerprofil-Conf-Datei
+it: Il file importato non deve essere un archivio tar, ma un singolo file conf del profilo utente
+es: El archivo importado no debe ser un archivo tar, sino un archivo de configuración de perfil de usuario único
+ru: Импортированный файл не должен представлять собой tar-архив, а должен представлять собой файл конфигурации одного профиля пользователя
+uk: Імпортований файл має бути не архівом tar, а конфігураційним файлом профілю користувача
 
 en: inactive
 de: inaktiv
@@ -2195,6 +2321,15 @@ it: in corso
 es: en progreso
 ru: в обработке
 uk: в обробці
+
+en: Installation status can be seen on the page:
+de: Der Installationsstatus ist auf der Seite ersichtlich:
+fr: L'état de l'installation peut être vu sur la page :
+ja: インストールのステータスは次のページで確認できます。
+it: Lo stato dell'installazione può essere visualizzato nella pagina:
+es: El estado de la instalación se puede ver en la página:
+ru: Статус установки можно увидеть на странице:
+uk: Статус встановлення можна побачити на сторінці:
 
 en: In use by sites
 de: Von Websites in Verwendung
@@ -2349,6 +2484,15 @@ es: id de trabajo
 ru: идентификатор задачи
 uk: ідентифікатор завдання
 
+en: key
+de: schlüssel
+fr: clé
+ja: 鍵
+it: chiave
+es: llave
+ru: ключ
+uk: ключ
+
 en: key tag
 de: schlüssel-Tag
 fr: étiquette de clé
@@ -2439,6 +2583,15 @@ es: límites
 ru: лимиты
 uk: ліміти
 
+en: Limits
+de: Grenzen
+fr: Limites
+ja: 限界
+it: Limiti
+es: Límites
+ru: Лимиты
+uk: Ліміти
+
 en: location
 de: standort
 fr: emplacement
@@ -2465,6 +2618,33 @@ it: Accedi
 es: Iniciar sesión
 ru: Войти
 uk: Увійти
+
+en: logo
+de: logo
+fr: logo
+ja: ロゴ
+it: logo
+es: logo
+ru: логотип
+uk: логотип
+
+en: Logo at login page
+de: Logo auf der Anmeldeseite
+fr: Logo sur la page de connexion
+ja: ログインページのロゴ
+it: Logo nella pagina di accesso
+es: Logotipo en la página de inicio de sesión
+ru: Логотип на странице входа
+uk: Логотип на сторінці входу
+
+en: Logo in header
+de: Logo im Header
+fr: Logo dans l'en-tête
+ja: ヘッダーのロゴ
+it: Logo nell'intestazione
+es: Logotipo en el encabezado
+ru: Логотип в шапке
+uk: Логотип у заголовку
 
 en: logs
 de: lrotokolle
@@ -2654,6 +2834,15 @@ it: Tipo di corrispondenza
 es: Tipo de coincidencia
 ru: Соответствующий тип
 uk: Відповідний тип
+
+en: Max size
+de: Maximale Größe
+fr: Taille maximale
+ja: 最大サイズ
+it: Dimensione massima
+es: Tamaño máximo
+ru: Максимальный размер
+uk: Максимальний розмір
 
 en: megabytes
 de: megabytes
@@ -2895,8 +3084,8 @@ fr: Les éléments suivants sont sélectionnés
 ja: 次の項目が選択されています
 it: Gli articoli successivi sono selezionati
 es: Los siguientes elementos están seleccionados
-ru: Выбрано следующие элементы 
-uk: Обрано наступні елементи 
+ru: Выбрано следующие элементы
+uk: Обрано наступні елементи
 
 en: Next items will be modified
 de: Die nächsten Elemente werden geändert
@@ -3095,6 +3284,15 @@ it: in caso di errore
 es: en caso de fallo
 ru: при падении
 uk: при падінні
+
+en: One or more user profile configs will be packed into the tar archive
+de: Eine oder mehrere Benutzerprofilkonfigurationen werden in das TAR-Archiv gepackt
+fr: Une ou plusieurs configurations de profil utilisateur seront regroupées dans l'archive tar
+ja: 1 つ以上のユーザー プロファイル設定が tar アーカイブにパックされます
+it: Una o più configurazioni del profilo utente verranno inserite nell'archivio tar
+es: Una o más configuraciones de perfil de usuario se empaquetarán en el archivo tar
+ru: Одна или несколько конфигураций профиля пользователя будут упакованы в tar-архив
+uk: Одну або кілька конфігурацій профілю користувача буде запаковано в архів tar
 
 en: Only selected certificates for active sites and mail domains will be reissued,
 de: Nur ausgewählte zertifikate für aktive sites und mail-domains werden erneut ausgestellt,
@@ -3363,7 +3561,7 @@ fr: données de clé privée
 ja: 秘密鍵データ
 it: dati chiave privata
 es: datos clave privada
-ru: контент приватного ключа 
+ru: контент приватного ключа
 uk: контент приватного ключа
 
 en: Privileged db users
@@ -3827,13 +4025,13 @@ ru: выполнять с Понедельника по Пятницу
 uk: виконувати з Понеділка по П'ятницю
 
 en: run on Saturday-Sunday
-de: von Samstag bis Sonntag ausführen
-fr: exécuter du samedi au dimanche
-ja: 土曜日から日曜日に実行
-it: eseguire da sabato a domenica
+de: ausführung am Samstag-Sonntag
+fr: exécuter le samedi-dimanche
+ja: 土曜から日曜までに実行
+it: eseguire sabato-domenica
 es: ejecutar de sábado a domingo
-ru: выполнять с Понедельника по Пятницу
-uk: виконувати з Понеділка по П'ятницю
+ru: запускать в Субботу-Воскресенье
+uk: виконувати в Суботу-Hеділю
 
 en: run on Monday
 de: am Montag ausführen
@@ -4042,6 +4240,15 @@ es: Guardar
 ru: Сохранить
 uk: Зберегти
 
+en: Scan the code using Google Authenticator, then enter the verification 6-digit code. Or use the key code below in text format, enter it in your Google Authenticator app. Make sure that your device and server show the same time, time difference should not be bigger than 1 minute.
+de: Scannen Sie den Code mit Google Authenticator und geben Sie dann den 6-stelligen Bestätigungscode ein. Oder verwenden Sie den untenstehenden Schlüsselcode im Textformat und geben Sie ihn in Ihre Google Authenticator-App ein. Stellen Sie sicher, dass Ihr Gerät und Ihr Server die gleiche Zeit anzeigen. Der Zeitunterschied sollte nicht größer als 1 Minute sein.
+fr: Scannez le code à l'aide de Google Authenticator, puis saisissez le code de vérification à 6 chiffres. Ou utilisez le code clé ci-dessous au format texte, saisissez-le dans votre application Google Authenticator. Assurez-vous que votre appareil et votre serveur affichent la même heure, le décalage horaire ne doit pas dépasser 1 minute.
+ja: Google Authenticator を使用してコードをスキャンし、6 桁の確認コードを入力します。または、以下のキー コードをテキスト形式で使用し、Google Authenticator アプリに入力します。デバイスとサーバーが同じ時間を表示していることを確認してください。時間差は 1 分を超えてはいけません。
+it: Scansiona il codice utilizzando Google Authenticator, quindi inserisci il codice di verifica a 6 cifre. Oppure utilizza il codice chiave riportato di seguito in formato testo e inseriscilo nell'app Google Authenticator. Assicurati che il tuo dispositivo e il server mostrino la stessa ora, la differenza oraria non dovrebbe essere maggiore di 1 minuto.
+es: Escanee el código usando Google Authenticator, luego ingrese el código de verificación de 6 dígitos. O use el código de clave a continuación en formato de texto, ingréselo en su aplicación Google Authenticator. Asegúrese de que su dispositivo y servidor muestren la misma hora, la diferencia horaria no debe ser mayor a 1 minuto.
+ru: Отсканируйте код с помощью Google Authenticator, затем введите проверочный 6-значный код. Или используйте приведенный ниже код ключа в текстовом формате и введите его в приложение Google Authenticator. Убедитесь, что ваше устройство и сервер показывают одинаковое время, разница во времени не должна превышать 1 минуты.
+uk: Відскануйте код за допомогою Google Authenticator, а потім введіть 6-значний код підтвердження. Або скористайтеся наведеним нижче кодом ключа в текстовому форматі та введіть його у програмі Google Authenticator. Переконайтеся, що ваш пристрій і сервер показують однаковий час, різниця в часі не повинна перевищувати 1 хвилини.
+
 en: search
 de: suchen
 fr: rechercher
@@ -4050,6 +4257,15 @@ it: cerca
 es: buscar
 ru: поиск
 uk: пошук
+
+en: Search
+de: Suchen
+fr: Rechercher
+ja: 検索
+it: Cerca
+es: Buscar
+ru: Поиск
+uk: Пошук
 
 en: Search banned ip
 de: Gesperrte IP suchen
@@ -4068,6 +4284,15 @@ it: Cerca ip
 es: Buscar ip
 ru: Искать ip
 uk: Шукати ip
+
+en: Select all
+de: Alle auswählen
+fr: Tout sélectionner
+ja: すべて選択
+it: Seleziona tutto
+es: Seleccionar todo
+ru: Выбрать все
+uk: Вибрати усі
 
 en: select only one row for this action
 de: wählen sie nur eine zeile für diese Aktion aus
@@ -4317,9 +4542,18 @@ de: Status
 fr: Statut
 ja: ステータス
 it: Stato
+es: Estados
+ru: Статусы
+uk: Статуси
+
+en: Statuses
+de: Status
+fr: Statuts
+ja: ステータス
+it: Stati
 es: Estado
-ru: Статус
-uk: Статус
+ru: Статусы
+uk: Статуси
 
 en: superuser
 de: superuser
@@ -4372,7 +4606,7 @@ fr: cible
 ja: ターゲット
 it: obiettivo
 es: objetivo
-ru: цель 
+ru: цель
 uk: ціль
 
 en: Target
@@ -4381,7 +4615,7 @@ fr: Cible
 ja: ターゲット
 it: Obiettivo
 es: Objetivo
-ru: Цель 
+ru: Цель
 uk: Ціль
 
 en: task
@@ -4420,6 +4654,15 @@ es: plantilla
 ru: шаблон
 uk: шаблон
 
+en: template name
+de: vorlagenname
+fr: nom du modèle
+ja: テンプレート名
+it: nome del modello
+es: nombre de la plantilla
+ru: название шаблона
+uk: назва шаблону
+
 en: templates
 de: vorlagen
 fr: modèles
@@ -4437,6 +4680,15 @@ it: Modelli
 es: Plantillas
 ru: Шаблоны
 uk: Шаблони
+
+en: time
+de: zeit
+fr: temps
+ja: 時間
+it: tempo
+es: tiempo
+ru: время
+uk: час
 
 en: time period
 de: zeitraum
@@ -4491,6 +4743,15 @@ it: totale
 es: total
 ru: всего
 uk: всього
+
+en: Two-factor authentication
+de: Zwei-Faktor-Authentifizierung
+fr: Authentification à deux facteurs
+ja: 二要素認証
+it: Autenticazione a due fattori
+es: Autenticación de dos factores
+ru: Двухфакторная аутентификация
+uk: Двофакторна аутентифікація
 
 en: type
 de: typ
@@ -4554,6 +4815,15 @@ it: Non criptato
 es: No cifrado
 ru: Незашифровано
 uk: Незашифровано
+
+en: Unsaved template
+de: Nicht gespeicherte Vorlage
+fr: Modèle non enregistré
+ja: 保存されていないテンプレート
+it: Modello non salvato
+es: Plantilla sin guardar
+ru: Несохраненный шаблон
+uk: Незбережений шаблон
 
 en: update
 de: aktualisieren
@@ -4651,7 +4921,7 @@ fr: jeton utilisateur
 ja: ユーザートークン
 it: token utente
 es: token de usuario
-ru: токен пользователя 
+ru: токен пользователя
 uk: токен користувача
 
 en: User disk space
@@ -4660,7 +4930,7 @@ fr: Espace disque utilisateur
 ja: ユーザーのディスク容量
 it: Spazio su disco utente
 es: Espacio en disco del usuario
-ru: Место пользователя на диске 
+ru: Место пользователя на диске
 uk: Місце користувача на диску
 
 en: User events
@@ -4732,7 +5002,7 @@ fr: Variables
 ja: 変数
 it: Variabili
 es: Variables
-ru: Переменные 
+ru: Переменные
 uk: Змінні
 
 en: version
@@ -4867,7 +5137,7 @@ fr: poids
 ja: 重量
 it: peso
 es: peso
-ru: вес 
+ru: вес
 uk: вага
 
 en: Weight
@@ -4876,7 +5146,7 @@ fr: Poids
 ja: 重量
 it: Peso
 es: Peso
-ru: Вес 
+ru: Вес
 uk: Вага
 
 en: West
@@ -4887,6 +5157,33 @@ it: Ovest
 es: Oeste
 ru: Запад
 uk: Захід
+
+en: When SSH access granted, the user can see other files on  aserver, which have wide file permissions! By default SSH is restricted, only SFTP allowed.
+de: Wenn der SSH-Zugriff gewährt wird, kann der Benutzer andere Dateien auf einem Server sehen, die über weitreichende Dateiberechtigungen verfügen! Standardmäßig ist SSH eingeschränkt, nur SFTP ist zulässig.
+fr: Lorsque l'accès SSH est accordé, l'utilisateur peut consulter d'autres fichiers sur un serveur, ceux qui disposent de permissions étendues ! Par défaut, l'accès SSH est restreint ; seul le protocole SFTP est autorisé.
+ja: SSHアクセスが許可されると、ユーザーはサーバー上の他のファイル（ファイル権限が広いもの）を閲覧できるようになります。デフォルトではSSHは制限されており、SFTPのみが許可されています。
+it: Quando viene concesso l'accesso SSH, l'utente può visualizzare altri file sul server, che dispongono di permessi di accesso estesi! Per impostazione predefinita, l'accesso SSH è limitato e consente solo l'SFTP.
+es: Cuando se concede el acceso SSH, el usuario puede ver otros archivos en el servidor, ¡que tienen permisos de archivo amplios! Por defecto, SSH está restringido; solo se permite SFTP.
+ru: При предоставлении SSH-доступа пользователь может видеть другие файлы на сервере, имеющие широкие права доступа! По умолчанию SSH ограничен, разрешен только SFTP.
+uk: Коли надано доступ через SSH, користувач може переглядати інші файли на сервері, які мають широкі дозволи на доступ до файлів! За замовчуванням SSH обмежено, дозволено лише SFTP.
+
+en: white label
+de: weißes Etikett
+fr: marque blanche
+ja: ホワイトラベル
+it: etichetta bianca
+es: etiqueta blanca
+ru: белая этикетка
+uk: біла етикетка
+
+en: White label
+de: Weißes Etikett
+fr: Marque blanche
+ja: ホワイトラベル
+it: Etichetta bianca
+es: etiqueta blanca
+ru: Белая этикетка
+uk: Біла етикетка
 
 en: year
 de: jahr
